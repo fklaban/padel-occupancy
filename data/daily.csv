@@ -1,0 +1,10 @@
+date,venue,name,courts,observed_slots,booked_slots,occupancy
+2026-10-03,cisarska,Areál Císařská louka,3,72,59,0.8194
+2026-10-03,hagibor,Hagibor Padel Bohemians,1,30,6,0.2000
+2026-10-03,neride,TK Neridé,3,108,52,0.4815
+2026-10-03,pisecna,Tenis & Padel klub Písečná,4,104,104,1.0000
+2026-10-03,powers,Padel Powers Smíchov,8,240,203,0.8458
+2026-10-03,satalice,Padel Satalice,2,56,11,0.1964
+2026-10-03,skysport,Sky Sport City Prosek,4,104,55,0.5288
+2026-10-03,spoje,Padel Club Spoje,2,44,19,0.4318
+2026-10-03,wilson,Wilson Tenis Centrum,2,46,0,0.0000

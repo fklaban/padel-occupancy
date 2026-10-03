@@ -1,0 +1,275 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Prague Padel Occupancy</title>
+<style>
+  :root {
+    color-scheme: light;
+    --page: #f9f9f7; --surface: #fcfcfb; --ink: #0b0b0b; --ink-2: #52514e; --muted: #898781;
+    --grid: #e1e0d9; --axis: #c3c2b7; --ring: rgba(11,11,11,0.10);
+    --bar: #2a78d6; --bar-hover: #1c5cab;
+    --seq-0: #f0efec; --seq-1: #cde2fb; --seq-2: #9ec5f4; --seq-3: #6da7ec; --seq-4: #3987e5; --seq-5: #256abf; --seq-6: #184f95; --seq-7: #0d366b;
+    --good: #0ca30c; --serious: #ec835a; --critical: #d03b3b;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --page: #0d0d0d; --surface: #1a1a19; --ink: #ffffff; --ink-2: #c3c2b7; --muted: #898781;
+      --grid: #2c2c2a; --axis: #383835; --ring: rgba(255,255,255,0.10);
+      --bar: #3987e5; --bar-hover: #6da7ec;
+      --seq-0: #262624; --seq-1: #104281; --seq-2: #184f95; --seq-3: #1c5cab; --seq-4: #256abf; --seq-5: #3987e5; --seq-6: #6da7ec; --seq-7: #9ec5f4;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --page: #0d0d0d; --surface: #1a1a19; --ink: #ffffff; --ink-2: #c3c2b7; --muted: #898781;
+    --grid: #2c2c2a; --axis: #383835; --ring: rgba(255,255,255,0.10);
+    --bar: #3987e5; --bar-hover: #6da7ec;
+    --seq-0: #262624; --seq-1: #104281; --seq-2: #184f95; --seq-3: #1c5cab; --seq-4: #256abf; --seq-5: #3987e5; --seq-6: #6da7ec; --seq-7: #9ec5f4;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--page); color: var(--ink); font: 14px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width: 1080px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-size: 24px; margin: 0 0 4px; letter-spacing: -0.01em; }
+  h2 { font-size: 15px; margin: 0 0 12px; }
+  .sub { color: var(--ink-2); margin: 0 0 24px; }
+  .filters { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 20px; }
+  label { color: var(--ink-2); font-size: 13px; display: flex; gap: 8px; align-items: center; }
+  select { font: inherit; color: var(--ink); background: var(--surface); border: 1px solid var(--ring); border-radius: 8px; padding: 6px 10px; }
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin-bottom: 16px; }
+  .card { background: var(--surface); border: 1px solid var(--ring); border-radius: 12px; padding: 16px 18px; }
+  .tile .k { color: var(--ink-2); font-size: 13px; }
+  .tile .v { font-size: 30px; font-weight: 600; margin-top: 4px; }
+  .tile .n { color: var(--muted); font-size: 12px; margin-top: 2px; }
+  .grid2 { display: grid; grid-template-columns: 1fr; gap: 16px; }
+  @media (min-width: 900px) { .grid2 { grid-template-columns: 1fr 1fr; } }
+  .stack { display: grid; gap: 16px; }
+  svg { display: block; width: 100%; height: auto; overflow: visible; }
+  svg text { fill: var(--muted); font-size: 11px; font-variant-numeric: tabular-nums; }
+  svg .lbl { fill: var(--ink-2); font-size: 12px; }
+  .note { color: var(--muted); font-size: 12px; margin-top: 8px; }
+  .empty { color: var(--muted); padding: 24px 0; text-align: center; }
+  #tip { position: fixed; pointer-events: none; background: var(--surface); color: var(--ink); border: 1px solid var(--ring); border-radius: 8px; padding: 8px 10px; font-size: 12px; box-shadow: 0 4px 16px rgba(0,0,0,.12); opacity: 0; transition: opacity .08s; z-index: 10; max-width: 260px; }
+  #tip b { display: block; margin-bottom: 2px; }
+  .table-wrap { overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; font-size: 13px; }
+  th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--grid); vertical-align: top; }
+  th { color: var(--ink-2); font-weight: 500; }
+  td.num { text-align: right; font-variant-numeric: tabular-nums; }
+  .status { display: inline-flex; gap: 6px; align-items: center; white-space: nowrap; }
+  .dot { width: 8px; height: 8px; border-radius: 50%; flex: none; }
+  .why { color: var(--muted); font-size: 12px; }
+  .legend { display: flex; align-items: center; gap: 6px; color: var(--muted); font-size: 11px; margin-top: 8px; }
+  .legend span.sw { width: 18px; height: 10px; border-radius: 2px; display: inline-block; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Prague padel occupancy</h1>
+  <p class="sub" id="sub">Loading…</p>
+
+  <div class="filters">
+    <label>Period <select id="range">
+      <option value="7">Last 7 days</option>
+      <option value="30" selected>Last 30 days</option>
+      <option value="90">Last 90 days</option>
+      <option value="0">All time</option>
+    </select></label>
+    <label>Venue <select id="venue"><option value="">All tracked venues</option></select></label>
+  </div>
+
+  <div class="tiles">
+    <div class="card tile"><div class="k">Average occupancy</div><div class="v" id="t-occ">–</div><div class="n" id="t-occ-n"></div></div>
+    <div class="card tile"><div class="k">Busiest venue</div><div class="v" id="t-top" style="font-size:20px">–</div><div class="n" id="t-top-n"></div></div>
+    <div class="card tile"><div class="k">Venues tracked</div><div class="v" id="t-cov">–</div><div class="n" id="t-cov-n"></div></div>
+  </div>
+
+  <div class="stack">
+    <div class="grid2">
+      <section class="card"><h2>Occupancy by venue</h2><div id="bars"></div></section>
+      <section class="card"><h2 id="line-title">Daily occupancy</h2><div id="line"></div></section>
+    </div>
+    <section class="card">
+      <h2 id="heat-title">When courts are booked</h2>
+      <div id="heat"></div>
+      <div class="legend" id="heat-legend"></div>
+    </section>
+    <section class="card">
+      <h2>Venues</h2>
+      <div class="table-wrap"><table id="tbl"></table></div>
+      <p class="note">Occupancy = booked half-hours ÷ half-hours within opening hours, taken from each booking system's public calendar, using the last snapshot before each slot starts.</p>
+    </section>
+  </div>
+</main>
+<div id="tip"></div>
+
+<script>
+const $ = s => document.querySelector(s);
+const NS = "http://www.w3.org/2000/svg";
+const DAYS = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
+const pct = x => (x == null || isNaN(x)) ? "–" : Math.round(x * 100) + "%";
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+let DATA;
+
+function el(tag, attrs = {}, parent) {
+  const e = document.createElementNS(NS, tag);
+  for (const [k, v] of Object.entries(attrs)) e.setAttribute(k, v);
+  if (parent) parent.appendChild(e);
+  return e;
+}
+const tip = $("#tip");
+function showTip(ev, html) {
+  tip.innerHTML = html; tip.style.opacity = 1;
+  const x = Math.min(ev.clientX + 14, innerWidth - tip.offsetWidth - 8);
+  const y = Math.min(ev.clientY + 14, innerHeight - tip.offsetHeight - 8);
+  tip.style.left = x + "px"; tip.style.top = y + "px";
+}
+const hideTip = () => tip.style.opacity = 0;
+
+function filtered() {
+  const days = +$("#range").value, venue = $("#venue").value;
+  const dates = [...new Set(DATA.daily.map(d => d.date))].sort();
+  const from = days && dates.length ? dates[Math.max(0, dates.length - days)] : "";
+  return { venue, rows: DATA.daily.filter(d => d.date >= from), from };
+}
+
+function render() {
+  const { venue, rows, from } = filtered();
+  const names = Object.fromEntries(DATA.venues.map(v => [v.id, v.name]));
+  const sel = venue ? rows.filter(r => r.venue === venue) : rows;
+
+  // Tiles
+  const b = sel.reduce((a, r) => a + r.booked, 0), t = sel.reduce((a, r) => a + r.total, 0);
+  $("#t-occ").textContent = pct(t ? b / t : NaN);
+  $("#t-occ-n").textContent = t ? `${(b / 2).toLocaleString()} of ${(t / 2).toLocaleString()} court-hours booked` : "no data yet";
+  const byVenue = {};
+  for (const r of rows) { const v = byVenue[r.venue] ??= { b: 0, t: 0 }; v.b += r.booked; v.t += r.total; }
+  const ranked = Object.entries(byVenue).map(([id, v]) => ({ id, occ: v.b / v.t, ...v })).sort((a, z) => z.occ - a.occ);
+  $("#t-top").textContent = ranked[0] ? names[ranked[0].id] : "–";
+  $("#t-top-n").textContent = ranked[0] ? pct(ranked[0].occ) + " occupied" : "";
+  const live = DATA.venues.filter(v => !v.disabled).length;
+  $("#t-cov").textContent = `${live} of ${DATA.venues.length}`;
+  $("#t-cov-n").textContent = "others can't be read automatically — see table";
+
+  drawBars(ranked, names, venue);
+  drawLine(sel, venue ? names[venue] : "All tracked venues");
+  drawHeat(venue);
+  drawTable(byVenue);
+}
+
+function drawBars(ranked, names, venue) {
+  const box = $("#bars"); box.innerHTML = "";
+  if (!ranked.length) { box.innerHTML = '<div class="empty">No data yet</div>'; return; }
+  const W = 480, row = 26, padL = 170, padR = 44, H = ranked.length * row + 22;
+  const svg = el("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": "Occupancy by venue" }, box);
+  const x = v => padL + v * (W - padL - padR);
+  for (const g of [0, .25, .5, .75, 1]) {
+    el("line", { x1: x(g), x2: x(g), y1: 0, y2: H - 18, stroke: css("--grid"), "stroke-width": 1 }, svg);
+    el("text", { x: x(g), y: H - 4, "text-anchor": "middle" }, svg).textContent = pct(g);
+  }
+  ranked.forEach((r, i) => {
+    const y = i * row + 4, h = row - 10;
+    const lab = el("text", { x: padL - 10, y: y + h / 2 + 4, "text-anchor": "end", class: "lbl" }, svg);
+    lab.textContent = names[r.id].length > 26 ? names[r.id].slice(0, 25) + "…" : names[r.id];
+    const w = Math.max(0, x(r.occ) - padL);
+    const bar = el("path", { d: roundedBar(padL, y, w, h, 4), fill: css("--bar"), opacity: venue && venue !== r.id ? .35 : 1 }, svg);
+    el("text", { x: x(r.occ) + 6, y: y + h / 2 + 4, class: "lbl" }, svg).textContent = pct(r.occ);
+    const hit = el("rect", { x: 0, y: y - 4, width: W, height: row, fill: "transparent" }, svg);
+    hit.addEventListener("mousemove", ev => { bar.setAttribute("fill", css("--bar-hover")); showTip(ev, `<b>${names[r.id]}</b>${pct(r.occ)} occupied<br>${r.b / 2} of ${r.t / 2} court-hours`); });
+    hit.addEventListener("mouseleave", () => { bar.setAttribute("fill", css("--bar")); hideTip(); });
+    hit.addEventListener("click", () => { $("#venue").value = $("#venue").value === r.id ? "" : r.id; render(); });
+    hit.style.cursor = "pointer";
+  });
+}
+function roundedBar(x, y, w, h, r) {
+  r = Math.min(r, w, h / 2);
+  return `M${x},${y}H${x + w - r}Q${x + w},${y} ${x + w},${y + r}V${y + h - r}Q${x + w},${y + h} ${x + w - r},${y + h}H${x}Z`;
+}
+
+function drawLine(sel, label) {
+  const box = $("#line"); box.innerHTML = "";
+  $("#line-title").textContent = `Daily occupancy · ${label}`;
+  const byDate = {};
+  for (const r of sel) { const d = byDate[r.date] ??= { b: 0, t: 0 }; d.b += r.booked; d.t += r.total; }
+  const pts = Object.entries(byDate).sort().map(([date, v]) => ({ date, occ: v.b / v.t, ...v }));
+  if (!pts.length) { box.innerHTML = '<div class="empty">No data yet</div>'; return; }
+  const W = 480, H = 240, L = 36, R = 12, T = 10, B = 26;
+  const svg = el("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": "Daily occupancy" }, box);
+  const x = i => pts.length === 1 ? (L + W - R) / 2 : L + i * (W - L - R) / (pts.length - 1);
+  const y = v => T + (1 - v) * (H - T - B);
+  for (const g of [0, .25, .5, .75, 1]) {
+    el("line", { x1: L, x2: W - R, y1: y(g), y2: y(g), stroke: css(g === 0 ? "--axis" : "--grid"), "stroke-width": 1 }, svg);
+    el("text", { x: L - 6, y: y(g) + 4, "text-anchor": "end" }, svg).textContent = pct(g);
+  }
+  const step = Math.max(1, Math.ceil(pts.length / 6));
+  pts.forEach((p, i) => { if (i % step === 0 || i === pts.length - 1) el("text", { x: x(i), y: H - 6, "text-anchor": "middle" }, svg).textContent = p.date.slice(5).replace("-", "/"); });
+  el("path", { d: pts.map((p, i) => `${i ? "L" : "M"}${x(i)},${y(p.occ)}`).join(""), fill: "none", stroke: css("--bar"), "stroke-width": 2, "stroke-linejoin": "round" }, svg);
+  if (pts.length <= 45) pts.forEach((p, i) => el("circle", { cx: x(i), cy: y(p.occ), r: 4, fill: css("--bar"), stroke: css("--surface"), "stroke-width": 2 }, svg));
+  const cross = el("line", { y1: T, y2: H - B, stroke: css("--axis"), "stroke-width": 1, opacity: 0 }, svg);
+  const hit = el("rect", { x: L, y: T, width: W - L - R, height: H - T - B, fill: "transparent" }, svg);
+  hit.addEventListener("mousemove", ev => {
+    const rect = svg.getBoundingClientRect(), px = (ev.clientX - rect.left) * W / rect.width;
+    const i = pts.length === 1 ? 0 : Math.max(0, Math.min(pts.length - 1, Math.round((px - L) / ((W - L - R) / (pts.length - 1)))));
+    const p = pts[i], d = new Date(p.date + "T12:00:00");
+    cross.setAttribute("x1", x(i)); cross.setAttribute("x2", x(i)); cross.setAttribute("opacity", 1);
+    showTip(ev, `<b>${DAYS[(d.getDay() + 6) % 7]} ${p.date}</b>${pct(p.occ)} occupied<br>${p.b / 2} of ${p.t / 2} court-hours`);
+  });
+  hit.addEventListener("mouseleave", () => { cross.setAttribute("opacity", 0); hideTip(); });
+}
+
+function drawHeat(venue) {
+  const box = $("#heat"); box.innerHTML = "";
+  const cells = DATA.heat.filter(h => !venue || h.venue === venue);
+  const agg = {};
+  for (const h of cells) { const k = h.weekday + "-" + h.hour; const a = agg[k] ??= { b: 0, t: 0 }; a.b += h.booked; a.t += h.total; }
+  const hours = [...new Set(cells.map(h => h.hour))].sort((a, b) => a - b);
+  $("#heat-title").textContent = `When courts are booked · ${venue ? DATA.venues.find(v => v.id === venue).name : "all tracked venues"} · all time`;
+  if (!hours.length) { box.innerHTML = '<div class="empty">No data yet</div>'; return; }
+  const h0 = hours[0], h1 = hours[hours.length - 1];
+  const cols = h1 - h0 + 1, L = 40, T = 4, cw = Math.max(18, Math.min(40, 960 / cols)), ch = 26, W = L + cols * cw, H = T + 7 * ch + 20;
+  const svg = el("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": "Occupancy by weekday and hour" }, box);
+  const ramp = [1, 2, 3, 4, 5, 6, 7].map(i => css("--seq-" + i));
+  DAYS.forEach((d, wd) => {
+    el("text", { x: L - 8, y: T + wd * ch + ch / 2 + 4, "text-anchor": "end", class: "lbl" }, svg).textContent = d;
+    for (let hr = h0; hr <= h1; hr++) {
+      const a = agg[wd + "-" + hr], occ = a ? a.b / a.t : null;
+      const fill = occ == null ? css("--seq-0") : ramp[Math.min(6, Math.floor(occ * 7))];
+      const r = el("rect", { x: L + (hr - h0) * cw + 1, y: T + wd * ch + 1, width: cw - 2, height: ch - 2, rx: 3, fill }, svg);
+      r.addEventListener("mousemove", ev => showTip(ev, `<b>${d} ${String(hr).padStart(2, "0")}:00–${String(hr + 1).padStart(2, "0")}:00</b>` + (a ? `${pct(occ)} occupied<br>${a.b / 2} of ${a.t / 2} court-hours` : "no observations")));
+      r.addEventListener("mouseleave", hideTip);
+    }
+  });
+  for (let hr = h0; hr <= h1; hr++) if ((hr - h0) % 2 === 0) el("text", { x: L + (hr - h0) * cw + cw / 2, y: H - 4, "text-anchor": "middle" }, svg).textContent = hr;
+  $("#heat-legend").innerHTML = "0%" + ramp.map(c => `<span class="sw" style="background:${c}"></span>`).join("") + "100% · grey = not observed";
+}
+
+function drawTable(byVenue) {
+  const rows = [...DATA.venues].sort((a, b) => (!!a.disabled - !!b.disabled) || a.name.localeCompare(b.name));
+  const status = v => {
+    if (v.disabled) return `<span class="status"><span class="dot" style="background:var(--muted)"></span>Not tracked</span><div class="why">${v.disabled}</div>`;
+    const lr = v.last_run;
+    if (!lr) return `<span class="status"><span class="dot" style="background:var(--muted)"></span>Waiting for first run</span>`;
+    if (lr.result === "ok") return `<span class="status"><span class="dot" style="background:var(--good)"></span>OK</span><div class="why">last run ${lr.at.replace("T", " ").slice(0, 16)}</div>`;
+    return `<span class="status"><span class="dot" style="background:var(--critical)"></span>${lr.result === "empty" ? "No courts found" : "Error"}</span><div class="why">${lr.error || ""}</div>`;
+  };
+  $("#tbl").innerHTML = `<thead><tr><th>Venue</th><th>Booking system</th><th>Status</th><th class="num">Occupancy</th><th class="num">Court-hours</th></tr></thead><tbody>` +
+    rows.map(v => { const o = byVenue[v.id]; return `<tr><td>${v.name}</td><td>${v.platform}</td><td>${status(v)}</td><td class="num">${o ? pct(o.b / o.t) : "–"}</td><td class="num">${o ? `${o.b / 2} / ${o.t / 2}` : "–"}</td></tr>`; }).join("") + "</tbody>";
+}
+
+fetch("data.json", { cache: "no-store" }).then(r => r.json()).then(d => {
+  DATA = d;
+  const dates = [...new Set(d.daily.map(r => r.date))].sort();
+  $("#sub").textContent = dates.length
+    ? `${dates.length} day${dates.length > 1 ? "s" : ""} of data (${dates[0]} → ${dates[dates.length - 1]}) · updated ${d.generated_at.replace("T", " ").slice(0, 16)}`
+    : "No data collected yet.";
+  for (const v of d.venues.filter(v => !v.disabled).sort((a, b) => a.name.localeCompare(b.name)))
+    $("#venue").insertAdjacentHTML("beforeend", `<option value="${v.id}">${v.name}</option>`);
+  $("#range").onchange = $("#venue").onchange = render;
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", render);
+  render();
+}).catch(e => { $("#sub").textContent = "Could not load data.json — " + e; });
+</script>
+</body>
+</html>
