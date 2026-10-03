@@ -11,18 +11,19 @@ import json
 import re
 from datetime import date, datetime, timezone
 
-from ..core import BOOKED, FREE, TZ, CourtDay, Day, Venue, grid, mark, minutes, session
+from ..core import BOOKED, FREE, TZ, CourtDay, Day, Venue, describe, grid, mark, minutes, session
 
 BASE = "https://playtomic.com"
 WEEKDAYS = ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"]
 
 
 def _club_info(s, slug: str) -> dict:
-    html = s.get(f"{BASE}/clubs/{slug}", timeout=30).text.replace('\\"', '"')
+    r = s.get(f"{BASE}/clubs/{slug}", timeout=30)
+    html = r.text.replace('\\"', '"')
     resources = re.search(r'"resources":(\[.*?\]),"opening_hours"', html)
     hours = re.search(r'"opening_hours":(\{(?:[^{}]|\{[^{}]*\})*\})', html)
     if not resources or not hours:
-        raise RuntimeError(f"could not find courts/opening hours on Playtomic page {slug}")
+        raise RuntimeError(f"no courts/opening hours on Playtomic page: {describe(r)}")
     return {"resources": json.loads(resources.group(1)), "hours": json.loads(hours.group(1))}
 
 

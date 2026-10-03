@@ -14,7 +14,7 @@ from datetime import date
 
 from bs4 import BeautifulSoup
 
-from ..core import BOOKED, FREE, CourtDay, Day, Venue, hhmm, now_local, session
+from ..core import BOOKED, FREE, CourtDay, Day, Venue, describe, hhmm, now_local, session
 
 URL = "https://jdemenato.cz/reservation/{slug}/reservationcalendaroverview"
 TIME = re.compile(r"^time(\d+)$")
@@ -31,10 +31,10 @@ def _status(classes: list[str]) -> str | None:
 def fetch(venue: Venue, day: date) -> Day:
     if day != now_local().date():
         return {}
-    html = session().get(URL.format(slug=venue.params["slug"]), timeout=30).text
-    table = BeautifulSoup(html, "html.parser").find("table", class_="verticalTimetable")
+    r = session().get(URL.format(slug=venue.params["slug"]), timeout=30)
+    table = BeautifulSoup(r.text, "html.parser").find("table", class_="verticalTimetable")
     if table is None:
-        raise RuntimeError("jdemenato timetable not found")
+        raise RuntimeError(f"jdemenato timetable not found: {describe(r)}")
 
     rows = table.find_all("tr", recursive=False) or table.find_all("tr")
     names = [th.get_text(" ", strip=True) for th in rows[0].find_all("th", class_="serviceTop")]

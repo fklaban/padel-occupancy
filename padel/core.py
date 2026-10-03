@@ -7,6 +7,7 @@ a dict of courts, each with a 30-minute grid of cells marked "free" or
 
 from __future__ import annotations
 
+import re
 from dataclasses import dataclass, field
 from datetime import date, datetime
 from zoneinfo import ZoneInfo
@@ -50,6 +51,13 @@ def session() -> requests.Session:
     s.headers["User-Agent"] = UA
     s.headers["Accept-Language"] = "cs,en;q=0.8"
     return s
+
+
+def describe(r: requests.Response) -> str:
+    """Short description of an unexpected response, for error messages."""
+    m = re.search(r"<title[^>]*>([^<]{0,80})", r.text, re.I)
+    title = m.group(1).strip() if m else r.text[:80].replace("\n", " ")
+    return f"HTTP {r.status_code} {r.url} – {title!r}"
 
 
 def hhmm(minutes: int) -> str:
