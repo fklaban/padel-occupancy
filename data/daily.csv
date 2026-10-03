@@ -1,17 +1,17 @@
 date,venue,name,courts,observed_slots,booked_slots,occupancy
 2026-10-03,cisarska,Areál Císařská louka,3,72,59,0.8194
 2026-10-03,cpa,CPA Arena (Czech Padel Academy),2,50,24,0.4800
-2026-10-03,dzus,Padel Džus,4,104,72,0.6923
+2026-10-03,dzus,Padel Džus,4,104,76,0.7308
 2026-10-03,forpadel,For Padel Zdiměřice,4,96,30,0.3125
 2026-10-03,hagibor,Hagibor Padel Bohemians,1,30,10,0.3333
 2026-10-03,modrany,LTC Modřany 2005,3,72,27,0.3750
-2026-10-03,neride,TK Neridé,3,108,58,0.5370
-2026-10-03,onepadel,One Padel Zličín,9,306,185,0.6046
+2026-10-03,neride,TK Neridé,3,108,60,0.5556
+2026-10-03,onepadel,One Padel Zličín,9,306,189,0.6176
 2026-10-03,pisecna,Tenis & Padel klub Písečná,4,104,104,1.0000
 2026-10-03,plechovka,PLECHOVKA Dubeč,3,66,22,0.3333
-2026-10-03,powers,Padel Powers Smíchov,8,240,206,0.8583
+2026-10-03,powers,Padel Powers Smíchov,8,240,210,0.8750
 2026-10-03,radotin,Padel Radotín,3,72,20,0.2778
-2026-10-03,satalice,Padel Satalice,2,56,23,0.4107
+2026-10-03,satalice,Padel Satalice,2,56,31,0.5536
 2026-10-03,skysport,Sky Sport City Prosek,4,104,64,0.6154
 2026-10-03,sparta,TK Sparta Praha,4,120,35,0.2917
 2026-10-03,spoje,Padel Club Spoje,2,44,32,0.7273
