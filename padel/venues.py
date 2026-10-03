@@ -6,13 +6,17 @@ A venue with `disabled` set is listed in the report but never fetched.
 from .core import Venue
 
 CLOUDFLARE = "iSportSystem sits behind a Cloudflare bot challenge; not scraped on purpose"
+# Works from a home connection, but these sites refuse GitHub Actions (cloud) IPs.
+CLOUD_BLOCKED = "site refuses requests from GitHub Actions servers (HTTP 403 / bot challenge)"
 
 VENUES = [
     # --- Playtomic -------------------------------------------------------
     Venue("spoje", "Padel Club Spoje", "playtomic",
-          {"slug": "padel-club-spoje", "tenant_id": "61e73f55-98c6-405f-ac6b-e2677af5905f"}),
+          {"slug": "padel-club-spoje", "tenant_id": "61e73f55-98c6-405f-ac6b-e2677af5905f"},
+          disabled=CLOUD_BLOCKED),
     Venue("pisecna", "Tenis & Padel klub Písečná", "playtomic",
-          {"slug": "tenis-a-padel-klub-pisecna", "tenant_id": "33257960-acca-4aa4-9f77-b6e5ab56f3e5"}),
+          {"slug": "tenis-a-padel-klub-pisecna", "tenant_id": "33257960-acca-4aa4-9f77-b6e5ab56f3e5"},
+          disabled=CLOUD_BLOCKED),
     # --- rogeronline.cz --------------------------------------------------
     Venue("hagibor", "Hagibor Padel Bohemians", "rogeronline", {"klub": 173, "set": 4}, shows_past=True),
     Venue("satalice", "Padel Satalice", "rogeronline", {"klub": 197, "set": 3}, shows_past=True),
@@ -40,7 +44,8 @@ VENUES = [
     # --- Clubspire -------------------------------------------------------
     Venue("skysport", "Sky Sport City Prosek", "clubspire", {"host": "rezervace.skysportcity.cz", "tab": 0}),
     # --- jdemenato.cz ----------------------------------------------------
-    Venue("wilson", "Wilson Tenis Centrum", "jdemenato", {"slug": "wilson-tenis-centrum"}, shows_past=True),
+    Venue("wilson", "Wilson Tenis Centrum", "jdemenato", {"slug": "wilson-tenis-centrum"}, shows_past=True,
+          disabled=CLOUD_BLOCKED),
     # --- own system (bot-protected) --------------------------------------
     Venue("slavia", "PADEL Slavia Praha", "slavia", {"exclude": "Dětský"},
           disabled="WEDOS bot protection answers automated requests with a verification page"),

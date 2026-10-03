@@ -10,15 +10,15 @@ Dashboard: https://fklaban.github.io/padel-occupancy/ (source: `docs/index.html`
 
 | Venue | Booking system | Status |
 |---|---|---|
-| Padel Club Spoje | Playtomic | ✅ |
-| Tenis & Padel klub Písečná | Playtomic | ✅ |
+| Padel Club Spoje | Playtomic | ⛔ refuses GitHub Actions IPs (HTTP 403) |
+| Tenis & Padel klub Písečná | Playtomic | ⛔ refuses GitHub Actions IPs (HTTP 403) |
 | Hagibor Padel Bohemians | rogeronline.cz | ✅ |
 | Padel Satalice | rogeronline.cz | ✅ |
 | Padel Powers Smíchov | padelos.co | ✅ |
 | TK Neridé | Sportelo | ✅ (hours counted 06–24; venue is bookable 24/7) |
 | Areál Císařská louka | Reenio | ✅ (3 courts, booked count only — per-court split is virtual) |
 | Sky Sport City Prosek | Clubspire | ✅ (4 outdoor courts) |
-| Wilson Tenis Centrum | jdemenato.cz | ✅ |
+| Wilson Tenis Centrum | jdemenato.cz | ⛔ Cloudflare challenge for GitHub Actions IPs |
 | TK Sparta Praha | rogeronline.cz | ⏸ padel courts couldn't be identified in the grid |
 | PADEL Slavia Praha | own system | ⛔ WEDOS bot protection |
 | CPA Arena, For Padel Zdiměřice, LTC Modřany, Padel Radotín, PLECHOVKA Dubeč, HEAD Vestec, The Court | iSportSystem | ⛔ Cloudflare bot challenge |
