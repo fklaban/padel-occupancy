@@ -19,25 +19,49 @@ from .venues import VENUES
 DOCS = DATA.parent / "docs"
 
 
+def load_cells() -> dict[tuple, dict]:
+    """All observed cells keyed by (date, venue, court_id, slot).
+
+    A day may have several files (DATE.cloud.csv, DATE.home.csv, legacy
+    DATE.csv); where they overlap, the latest observation wins.
+    """
+    cells: dict[tuple, dict] = {}
+    for path in sorted((DATA / "cells").glob("*/*.csv")):
+        day = path.name.split(".")[0]
+        with path.open(newline="", encoding="utf-8") as f:
+            for r in csv.DictReader(f):
+                key = (day, r["venue"], r["court_id"], r["slot"])
+                if key not in cells or r["observed_at"] > cells[key]["observed_at"]:
+                    cells[key] = r
+    return cells
+
+
+def last_runs() -> dict[str, dict]:
+    latest: dict[str, dict] = {}
+    for path in sorted(DATA.glob("runs*.csv")):
+        with path.open(newline="", encoding="utf-8") as f:
+            for r in csv.DictReader(f):
+                if r["venue"] not in latest or r["observed_at"] >= latest[r["venue"]]["at"]:
+                    latest[r["venue"]] = {"at": r["observed_at"], "result": r["result"], "error": r["error"]}
+    return latest
+
+
 def main() -> None:
+    enabled = {v.id for v in VENUES if not v.disabled}
     daily = defaultdict(lambda: [0, 0, set()])  # (date, venue) -> [booked, total, courts]
     heat = defaultdict(lambda: [0, 0])  # (venue, weekday, hour) -> [booked, total]
 
-    enabled = {v.id for v in VENUES if not v.disabled}
-    for path in sorted((DATA / "cells").glob("*/*.csv")):
-        day = date.fromisoformat(path.stem)
-        with path.open(newline="", encoding="utf-8") as f:
-            for r in csv.DictReader(f):
-                if r["venue"] not in enabled:
-                    continue
-                booked = r["status"] == "booked"
-                d = daily[(day.isoformat(), r["venue"])]
-                d[0] += booked
-                d[1] += 1
-                d[2].add(r["court_id"])
-                h = heat[(r["venue"], day.weekday(), int(r["slot"][:2]))]
-                h[0] += booked
-                h[1] += 1
+    for (day, venue, court_id, slot), r in load_cells().items():
+        if venue not in enabled:
+            continue
+        booked = r["status"] == "booked"
+        d = daily[(day, venue)]
+        d[0] += booked
+        d[1] += 1
+        d[2].add(court_id)
+        h = heat[(venue, date.fromisoformat(day).weekday(), int(slot[:2]))]
+        h[0] += booked
+        h[1] += 1
 
     names = {v.id: v.name for v in VENUES}
     with (DATA / "daily.csv").open("w", newline="", encoding="utf-8") as f:
@@ -46,19 +70,13 @@ def main() -> None:
         for (day, vid), (b, t, courts) in sorted(daily.items()):
             w.writerow([day, vid, names.get(vid, vid), len(courts), t, b, f"{b / t:.4f}" if t else ""])
 
-    last_run = {}
-    runs_path = DATA / "runs.csv"
-    if runs_path.exists():
-        with runs_path.open(newline="", encoding="utf-8") as f:
-            for r in csv.DictReader(f):
-                last_run[r["venue"]] = {"at": r["observed_at"], "result": r["result"], "error": r["error"]}
-
+    runs = last_runs()
     DOCS.mkdir(exist_ok=True)
     payload = {
         "generated_at": now_local().isoformat(timespec="seconds"),
         "venues": [
-            {"id": v.id, "name": v.name, "platform": v.platform, "disabled": v.disabled,
-             "last_run": last_run.get(v.id)}
+            {"id": v.id, "name": v.name, "platform": v.platform, "where": v.where,
+             "disabled": v.disabled, "last_run": runs.get(v.id)}
             for v in VENUES
         ],
         "daily": [

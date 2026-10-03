@@ -35,6 +35,9 @@ class Venue:
     # True when the booking system still shows reservations for times that
     # already started, so past cells can be trusted on first sight.
     shows_past: bool = False
+    # "cloud" = GitHub Actions; "home" = a residential connection (the site
+    # refuses requests from cloud/datacenter IPs). See scripts/home-scrape.sh.
+    where: str = "cloud"
 
 
 @dataclass

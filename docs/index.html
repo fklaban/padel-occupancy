@@ -151,7 +151,7 @@ function render() {
   $("#t-top-n").textContent = ranked[0] ? pct(ranked[0].occ) + " occupied" : "";
   const live = DATA.venues.filter(v => !v.disabled).length;
   $("#t-cov").textContent = `${live} of ${DATA.venues.length}`;
-  $("#t-cov-n").textContent = "others can't be read automatically — see table";
+  $("#t-cov-n").textContent = live < DATA.venues.length ? "the rest need the club's help — see table" : "all venues";
 
   drawBars(ranked, names, venue);
   drawLine(sel, venue ? names[venue] : "All tracked venues");
@@ -255,7 +255,7 @@ function drawTable(byVenue) {
     return `<span class="status"><span class="dot" style="background:var(--critical)"></span>${lr.result === "empty" ? "No courts found" : "Error"}</span><div class="why">${lr.error || ""}</div>`;
   };
   $("#tbl").innerHTML = `<thead><tr><th>Venue</th><th>Booking system</th><th>Status</th><th class="num">Occupancy</th><th class="num">Court-hours</th></tr></thead><tbody>` +
-    rows.map(v => { const o = byVenue[v.id]; return `<tr><td>${v.name}</td><td>${v.platform}</td><td>${status(v)}</td><td class="num">${o ? pct(o.b / o.t) : "–"}</td><td class="num">${o ? `${o.b / 2} / ${o.t / 2}` : "–"}</td></tr>`; }).join("") + "</tbody>";
+    rows.map(v => { const o = byVenue[v.id]; return `<tr><td>${v.name}</td><td>${v.platform}${v.where === "home" ? '<div class="why">via home runner</div>' : ""}</td><td>${status(v)}</td><td class="num">${o ? pct(o.b / o.t) : "–"}</td><td class="num">${o ? `${o.b / 2} / ${o.t / 2}` : "–"}</td></tr>`; }).join("") + "</tbody>";
 }
 
 fetch("data.json", { cache: "no-store" }).then(r => r.json()).then(d => {

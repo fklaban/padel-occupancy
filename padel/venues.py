@@ -1,29 +1,21 @@
 """The Prague padel venues we track and how to reach their booking systems.
 
 A venue with `disabled` set is listed in the report but never fetched.
+`where="home"` venues refuse cloud/datacenter IPs and are fetched by
+scripts/home-scrape.sh from a home connection instead of GitHub Actions.
 """
 
 from .core import Venue
 
-CLOUDFLARE = "iSportSystem sits behind a Cloudflare bot challenge; not scraped on purpose"
-# Works from a home connection, but these sites refuse GitHub Actions (cloud) IPs.
-CLOUD_BLOCKED = "site refuses requests from GitHub Actions servers (HTTP 403 / bot challenge)"
+
+def isport(id, name, host, sport, **kw):
+    return Venue(id, name, "isportsystem", {"host": host, "sport": sport, **kw})
+
 
 VENUES = [
-    # --- Playtomic -------------------------------------------------------
-    Venue("spoje", "Padel Club Spoje", "playtomic",
-          {"slug": "padel-club-spoje", "tenant_id": "61e73f55-98c6-405f-ac6b-e2677af5905f"},
-          disabled=CLOUD_BLOCKED),
-    Venue("pisecna", "Tenis & Padel klub Písečná", "playtomic",
-          {"slug": "tenis-a-padel-klub-pisecna", "tenant_id": "33257960-acca-4aa4-9f77-b6e5ab56f3e5"},
-          disabled=CLOUD_BLOCKED),
     # --- rogeronline.cz --------------------------------------------------
     Venue("hagibor", "Hagibor Padel Bohemians", "rogeronline", {"klub": 173, "set": 4}, shows_past=True),
     Venue("satalice", "Padel Satalice", "rogeronline", {"klub": 197, "set": 3}, shows_past=True),
-    # The "Padel 1,2" set lists no padel-named courts; "Olymp Plechovka 1/2" are a
-    # guess and had zero reservations over five days, so it's off until verified.
-    Venue("sparta", "TK Sparta Praha", "rogeronline", {"klub": 21, "set": 5, "court_filter": "plechovka"},
-          shows_past=True, disabled="padel courts not identifiable in the rogeronline grid (unverified)"),
     # --- padelos.co ------------------------------------------------------
     Venue("powers", "Padel Powers Smíchov", "padelos", {
         "company": 217, "club": 216927, "hours": ("06:00", "24:00"),
@@ -43,23 +35,32 @@ VENUES = [
           {"slug": "areal-cisarska-louka", "service": "padel", "hours": ("09:00", "21:00")}, shows_past=True),
     # --- Clubspire -------------------------------------------------------
     Venue("skysport", "Sky Sport City Prosek", "clubspire", {"host": "rezervace.skysportcity.cz", "tab": 0}),
-    # --- jdemenato.cz ----------------------------------------------------
-    Venue("wilson", "Wilson Tenis Centrum", "jdemenato", {"slug": "wilson-tenis-centrum"}, shows_past=True,
-          disabled=CLOUD_BLOCKED),
-    # --- own system (bot-protected) --------------------------------------
+    # --- CourtyONE (public Next.js server action) ------------------------
+    Venue("onepadel", "One Padel Zličín", "courtyone",
+          {"host": "onepadel.cz", "tenant": "onepadel", "venue": "praha-zlicin", "hours": ("07:00", "24:00")},
+          shows_past=True),
+    # --- bookaball (public guest booking wizard) -------------------------
+    Venue("dzus", "Padel Džus", "bookaball", {"host": "padeldzus.bookaball.com", "location": 90}),
+    # --- iSportSystem (public /api/get-times.php; HTML pages are behind Cloudflare)
+    isport("cpa", "CPA Arena (Czech Padel Academy)", "padelautomat", 1),
+    isport("forpadel", "For Padel Zdiměřice", "forpadel", 1),
+    isport("modrany", "LTC Modřany 2005", "tenismodrany", 8),
+    isport("radotin", "Padel Radotín", "padelradotin", 1),
+    isport("plechovka", "PLECHOVKA Dubeč", "plechovka", 20, exclude=["náhradník"]),
+    isport("vestec", "Tenis Centrum HEAD Vestec", "teniscentrum", 13),
+    isport("thecourt", "The Court", "thecourt", 1),
+    # --- home connection only: these refuse GitHub Actions IPs ------------
+    Venue("spoje", "Padel Club Spoje", "playtomic",
+          {"slug": "padel-club-spoje", "tenant_id": "61e73f55-98c6-405f-ac6b-e2677af5905f"}, where="home"),
+    Venue("pisecna", "Tenis & Padel klub Písečná", "playtomic",
+          {"slug": "tenis-a-padel-klub-pisecna", "tenant_id": "33257960-acca-4aa4-9f77-b6e5ab56f3e5"}, where="home"),
+    Venue("wilson", "Wilson Tenis Centrum", "jdemenato", {"slug": "wilson-tenis-centrum"},
+          shows_past=True, where="home"),
+    # Padel is booked on jdemenato, not on the club's rogeronline grid.
+    Venue("sparta", "TK Sparta Praha", "jdemenato", {"slug": "tk-sparta-praha"}, shows_past=True, where="home"),
+    # --- not available without the club's help ----------------------------
     Venue("slavia", "PADEL Slavia Praha", "slavia", {"exclude": "Dětský"},
-          disabled="WEDOS bot protection answers automated requests with a verification page"),
-    # --- iSportSystem (Cloudflare-protected) -----------------------------
-    Venue("cpa", "CPA Arena (Czech Padel Academy)", "isportsystem", {"host": "padelautomat"}, disabled=CLOUDFLARE),
-    Venue("forpadel", "For Padel Zdiměřice", "isportsystem", {"host": "forpadel"}, disabled=CLOUDFLARE),
-    Venue("modrany", "LTC Modřany 2005", "isportsystem", {"host": "tenismodrany"}, disabled=CLOUDFLARE),
-    Venue("radotin", "Padel Radotín", "isportsystem", {"host": "padelradotin"}, disabled=CLOUDFLARE),
-    Venue("plechovka", "PLECHOVKA Dubeč", "isportsystem", {"host": "plechovka"}, disabled=CLOUDFLARE),
-    Venue("vestec", "Tenis Centrum HEAD Vestec", "isportsystem", {"host": "teniscentrum"}, disabled=CLOUDFLARE),
-    Venue("thecourt", "The Court", "isportsystem", {"host": "thecourt"}, disabled=CLOUDFLARE),
-    # --- login required / no stable public endpoint -----------------------
-    Venue("dzus", "Padel Džus", "bookaball", {}, disabled="bookaball requires login to see the calendar"),
-    Venue("hector", "HECTOR Sport Centre & Restaurant", "r2s", {}, disabled="R2S web requires login to see the calendar"),
-    Venue("onepadel", "One Padel Zličín", "courtyone", {},
-          disabled="CourtyONE loads slots via Next.js server actions (IDs change per deploy); partner API needs a key"),
+          disabled="WEDOS bot protection blocks automated requests; needs the club to allowlist us or share data"),
+    Venue("hector", "HECTOR Sport Centre & Restaurant", "r2s", {},
+          disabled="R2S calendar is visible only after login; needs the club to share data"),
 ]
