@@ -1,76 +1,76 @@
 venue,court_id,court,slot,status,observed_at
-cisarska,1,Court 1,09:00,free,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,09:30,free,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,10:00,booked,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,10:30,booked,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,11:00,booked,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,11:30,booked,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,12:00,free,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,12:30,free,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,13:00,free,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,13:30,free,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,14:00,free,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,14:30,free,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,15:00,free,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,15:30,free,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,16:00,free,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,16:30,free,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,17:00,free,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,17:30,free,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,18:00,free,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,18:30,free,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,19:00,free,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,19:30,free,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,20:00,free,2026-10-05T00:17:57+02:00
-cisarska,1,Court 1,20:30,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,09:00,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,09:30,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,10:00,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,10:30,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,11:00,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,11:30,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,12:00,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,12:30,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,13:00,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,13:30,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,14:00,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,14:30,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,15:00,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,15:30,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,16:00,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,16:30,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,17:00,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,17:30,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,18:00,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,18:30,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,19:00,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,19:30,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,20:00,free,2026-10-05T00:17:57+02:00
-cisarska,2,Court 2,20:30,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,09:00,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,09:30,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,10:00,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,10:30,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,11:00,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,11:30,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,12:00,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,12:30,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,13:00,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,13:30,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,14:00,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,14:30,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,15:00,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,15:30,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,16:00,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,16:30,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,17:00,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,17:30,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,18:00,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,18:30,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,19:00,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,19:30,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,20:00,free,2026-10-05T00:17:57+02:00
-cisarska,3,Court 3,20:30,free,2026-10-05T00:17:57+02:00
+cisarska,1,Court 1,09:00,free,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,09:30,free,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,10:00,booked,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,10:30,booked,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,11:00,booked,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,11:30,booked,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,12:00,free,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,12:30,free,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,13:00,free,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,13:30,free,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,14:00,free,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,14:30,free,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,15:00,free,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,15:30,free,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,16:00,free,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,16:30,free,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,17:00,free,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,17:30,free,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,18:00,free,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,18:30,free,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,19:00,free,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,19:30,free,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,20:00,free,2026-10-05T13:22:02+02:00
+cisarska,1,Court 1,20:30,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,09:00,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,09:30,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,10:00,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,10:30,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,11:00,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,11:30,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,12:00,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,12:30,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,13:00,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,13:30,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,14:00,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,14:30,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,15:00,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,15:30,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,16:00,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,16:30,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,17:00,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,17:30,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,18:00,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,18:30,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,19:00,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,19:30,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,20:00,free,2026-10-05T13:22:02+02:00
+cisarska,2,Court 2,20:30,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,09:00,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,09:30,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,10:00,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,10:30,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,11:00,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,11:30,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,12:00,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,12:30,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,13:00,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,13:30,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,14:00,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,14:30,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,15:00,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,15:30,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,16:00,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,16:30,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,17:00,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,17:30,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,18:00,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,18:30,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,19:00,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,19:30,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,20:00,free,2026-10-05T13:22:02+02:00
+cisarska,3,Court 3,20:30,free,2026-10-05T13:22:02+02:00
 cpa,1,Indoor kurt Klasik,07:00,free,2026-10-05T00:17:57+02:00
 cpa,1,Indoor kurt Klasik,07:30,free,2026-10-05T00:17:57+02:00
 cpa,1,Indoor kurt Klasik,08:00,booked,2026-10-05T00:17:57+02:00
@@ -84,24 +84,24 @@ cpa,1,Indoor kurt Klasik,11:30,free,2026-10-05T00:17:57+02:00
 cpa,1,Indoor kurt Klasik,12:00,free,2026-10-05T00:17:57+02:00
 cpa,1,Indoor kurt Klasik,12:30,free,2026-10-05T00:17:57+02:00
 cpa,1,Indoor kurt Klasik,13:00,free,2026-10-05T00:17:57+02:00
-cpa,1,Indoor kurt Klasik,13:30,free,2026-10-05T00:17:57+02:00
-cpa,1,Indoor kurt Klasik,14:00,free,2026-10-05T00:17:57+02:00
-cpa,1,Indoor kurt Klasik,14:30,free,2026-10-05T00:17:57+02:00
-cpa,1,Indoor kurt Klasik,15:00,booked,2026-10-05T00:17:57+02:00
-cpa,1,Indoor kurt Klasik,15:30,booked,2026-10-05T00:17:57+02:00
-cpa,1,Indoor kurt Klasik,16:00,booked,2026-10-05T00:17:57+02:00
-cpa,1,Indoor kurt Klasik,16:30,booked,2026-10-05T00:17:57+02:00
-cpa,1,Indoor kurt Klasik,17:00,booked,2026-10-05T00:17:57+02:00
-cpa,1,Indoor kurt Klasik,17:30,booked,2026-10-05T00:17:57+02:00
-cpa,1,Indoor kurt Klasik,18:00,booked,2026-10-05T00:17:57+02:00
-cpa,1,Indoor kurt Klasik,18:30,booked,2026-10-05T00:17:57+02:00
-cpa,1,Indoor kurt Klasik,19:00,booked,2026-10-05T00:17:57+02:00
-cpa,1,Indoor kurt Klasik,19:30,booked,2026-10-05T00:17:57+02:00
-cpa,1,Indoor kurt Klasik,20:00,booked,2026-10-05T00:17:57+02:00
-cpa,1,Indoor kurt Klasik,20:30,booked,2026-10-05T00:17:57+02:00
-cpa,1,Indoor kurt Klasik,21:00,booked,2026-10-05T00:17:57+02:00
-cpa,1,Indoor kurt Klasik,21:30,booked,2026-10-05T00:17:57+02:00
-cpa,1,Indoor kurt Klasik,22:00,booked,2026-10-05T00:17:57+02:00
+cpa,1,Indoor kurt Klasik,13:30,free,2026-10-05T13:22:02+02:00
+cpa,1,Indoor kurt Klasik,14:00,free,2026-10-05T13:22:02+02:00
+cpa,1,Indoor kurt Klasik,14:30,free,2026-10-05T13:22:02+02:00
+cpa,1,Indoor kurt Klasik,15:00,booked,2026-10-05T13:22:02+02:00
+cpa,1,Indoor kurt Klasik,15:30,booked,2026-10-05T13:22:02+02:00
+cpa,1,Indoor kurt Klasik,16:00,booked,2026-10-05T13:22:02+02:00
+cpa,1,Indoor kurt Klasik,16:30,booked,2026-10-05T13:22:02+02:00
+cpa,1,Indoor kurt Klasik,17:00,booked,2026-10-05T13:22:02+02:00
+cpa,1,Indoor kurt Klasik,17:30,booked,2026-10-05T13:22:02+02:00
+cpa,1,Indoor kurt Klasik,18:00,booked,2026-10-05T13:22:02+02:00
+cpa,1,Indoor kurt Klasik,18:30,booked,2026-10-05T13:22:02+02:00
+cpa,1,Indoor kurt Klasik,19:00,booked,2026-10-05T13:22:02+02:00
+cpa,1,Indoor kurt Klasik,19:30,booked,2026-10-05T13:22:02+02:00
+cpa,1,Indoor kurt Klasik,20:00,booked,2026-10-05T13:22:02+02:00
+cpa,1,Indoor kurt Klasik,20:30,booked,2026-10-05T13:22:02+02:00
+cpa,1,Indoor kurt Klasik,21:00,booked,2026-10-05T13:22:02+02:00
+cpa,1,Indoor kurt Klasik,21:30,booked,2026-10-05T13:22:02+02:00
+cpa,1,Indoor kurt Klasik,22:00,booked,2026-10-05T13:22:02+02:00
 cpa,2,Indoor kurt Panorama,07:00,free,2026-10-05T00:17:57+02:00
 cpa,2,Indoor kurt Panorama,07:30,free,2026-10-05T00:17:57+02:00
 cpa,2,Indoor kurt Panorama,08:00,free,2026-10-05T00:17:57+02:00
@@ -115,24 +115,24 @@ cpa,2,Indoor kurt Panorama,11:30,free,2026-10-05T00:17:57+02:00
 cpa,2,Indoor kurt Panorama,12:00,free,2026-10-05T00:17:57+02:00
 cpa,2,Indoor kurt Panorama,12:30,free,2026-10-05T00:17:57+02:00
 cpa,2,Indoor kurt Panorama,13:00,free,2026-10-05T00:17:57+02:00
-cpa,2,Indoor kurt Panorama,13:30,free,2026-10-05T00:17:57+02:00
-cpa,2,Indoor kurt Panorama,14:00,free,2026-10-05T00:17:57+02:00
-cpa,2,Indoor kurt Panorama,14:30,free,2026-10-05T00:17:57+02:00
-cpa,2,Indoor kurt Panorama,15:00,booked,2026-10-05T00:17:57+02:00
-cpa,2,Indoor kurt Panorama,15:30,booked,2026-10-05T00:17:57+02:00
-cpa,2,Indoor kurt Panorama,16:00,booked,2026-10-05T00:17:57+02:00
-cpa,2,Indoor kurt Panorama,16:30,booked,2026-10-05T00:17:57+02:00
-cpa,2,Indoor kurt Panorama,17:00,booked,2026-10-05T00:17:57+02:00
-cpa,2,Indoor kurt Panorama,17:30,booked,2026-10-05T00:17:57+02:00
-cpa,2,Indoor kurt Panorama,18:00,booked,2026-10-05T00:17:57+02:00
-cpa,2,Indoor kurt Panorama,18:30,booked,2026-10-05T00:17:57+02:00
-cpa,2,Indoor kurt Panorama,19:00,booked,2026-10-05T00:17:57+02:00
-cpa,2,Indoor kurt Panorama,19:30,booked,2026-10-05T00:17:57+02:00
-cpa,2,Indoor kurt Panorama,20:00,booked,2026-10-05T00:17:57+02:00
-cpa,2,Indoor kurt Panorama,20:30,booked,2026-10-05T00:17:57+02:00
-cpa,2,Indoor kurt Panorama,21:00,free,2026-10-05T00:17:57+02:00
-cpa,2,Indoor kurt Panorama,21:30,free,2026-10-05T00:17:57+02:00
-cpa,2,Indoor kurt Panorama,22:00,free,2026-10-05T00:17:57+02:00
+cpa,2,Indoor kurt Panorama,13:30,free,2026-10-05T13:22:02+02:00
+cpa,2,Indoor kurt Panorama,14:00,free,2026-10-05T13:22:02+02:00
+cpa,2,Indoor kurt Panorama,14:30,free,2026-10-05T13:22:02+02:00
+cpa,2,Indoor kurt Panorama,15:00,booked,2026-10-05T13:22:02+02:00
+cpa,2,Indoor kurt Panorama,15:30,booked,2026-10-05T13:22:02+02:00
+cpa,2,Indoor kurt Panorama,16:00,booked,2026-10-05T13:22:02+02:00
+cpa,2,Indoor kurt Panorama,16:30,booked,2026-10-05T13:22:02+02:00
+cpa,2,Indoor kurt Panorama,17:00,booked,2026-10-05T13:22:02+02:00
+cpa,2,Indoor kurt Panorama,17:30,booked,2026-10-05T13:22:02+02:00
+cpa,2,Indoor kurt Panorama,18:00,booked,2026-10-05T13:22:02+02:00
+cpa,2,Indoor kurt Panorama,18:30,booked,2026-10-05T13:22:02+02:00
+cpa,2,Indoor kurt Panorama,19:00,booked,2026-10-05T13:22:02+02:00
+cpa,2,Indoor kurt Panorama,19:30,booked,2026-10-05T13:22:02+02:00
+cpa,2,Indoor kurt Panorama,20:00,booked,2026-10-05T13:22:02+02:00
+cpa,2,Indoor kurt Panorama,20:30,booked,2026-10-05T13:22:02+02:00
+cpa,2,Indoor kurt Panorama,21:00,free,2026-10-05T13:22:02+02:00
+cpa,2,Indoor kurt Panorama,21:30,free,2026-10-05T13:22:02+02:00
+cpa,2,Indoor kurt Panorama,22:00,free,2026-10-05T13:22:02+02:00
 dzus,570,Kurt 1,07:00,booked,2026-10-05T00:17:57+02:00
 dzus,570,Kurt 1,07:30,booked,2026-10-05T00:17:57+02:00
 dzus,570,Kurt 1,08:00,free,2026-10-05T00:17:57+02:00
@@ -146,25 +146,25 @@ dzus,570,Kurt 1,11:30,free,2026-10-05T00:17:57+02:00
 dzus,570,Kurt 1,12:00,booked,2026-10-05T00:17:57+02:00
 dzus,570,Kurt 1,12:30,booked,2026-10-05T00:17:57+02:00
 dzus,570,Kurt 1,13:00,booked,2026-10-05T00:17:57+02:00
-dzus,570,Kurt 1,13:30,booked,2026-10-05T00:17:57+02:00
-dzus,570,Kurt 1,14:00,booked,2026-10-05T00:17:57+02:00
-dzus,570,Kurt 1,14:30,booked,2026-10-05T00:17:57+02:00
-dzus,570,Kurt 1,15:00,booked,2026-10-05T00:17:57+02:00
-dzus,570,Kurt 1,15:30,booked,2026-10-05T00:17:57+02:00
-dzus,570,Kurt 1,16:00,booked,2026-10-05T00:17:57+02:00
-dzus,570,Kurt 1,16:30,booked,2026-10-05T00:17:57+02:00
-dzus,570,Kurt 1,17:00,booked,2026-10-05T00:17:57+02:00
-dzus,570,Kurt 1,17:30,booked,2026-10-05T00:17:57+02:00
-dzus,570,Kurt 1,18:00,booked,2026-10-05T00:17:57+02:00
-dzus,570,Kurt 1,18:30,booked,2026-10-05T00:17:57+02:00
-dzus,570,Kurt 1,19:00,booked,2026-10-05T00:17:57+02:00
-dzus,570,Kurt 1,19:30,booked,2026-10-05T00:17:57+02:00
-dzus,570,Kurt 1,20:00,booked,2026-10-05T00:17:57+02:00
-dzus,570,Kurt 1,20:30,booked,2026-10-05T00:17:57+02:00
-dzus,570,Kurt 1,21:00,booked,2026-10-05T00:17:57+02:00
-dzus,570,Kurt 1,21:30,booked,2026-10-05T00:17:57+02:00
-dzus,570,Kurt 1,22:00,free,2026-10-05T00:17:57+02:00
-dzus,570,Kurt 1,22:30,free,2026-10-05T00:17:57+02:00
+dzus,570,Kurt 1,13:30,booked,2026-10-05T13:22:02+02:00
+dzus,570,Kurt 1,14:00,booked,2026-10-05T13:22:02+02:00
+dzus,570,Kurt 1,14:30,booked,2026-10-05T13:22:02+02:00
+dzus,570,Kurt 1,15:00,booked,2026-10-05T13:22:02+02:00
+dzus,570,Kurt 1,15:30,booked,2026-10-05T13:22:02+02:00
+dzus,570,Kurt 1,16:00,booked,2026-10-05T13:22:02+02:00
+dzus,570,Kurt 1,16:30,booked,2026-10-05T13:22:02+02:00
+dzus,570,Kurt 1,17:00,booked,2026-10-05T13:22:02+02:00
+dzus,570,Kurt 1,17:30,booked,2026-10-05T13:22:02+02:00
+dzus,570,Kurt 1,18:00,booked,2026-10-05T13:22:02+02:00
+dzus,570,Kurt 1,18:30,booked,2026-10-05T13:22:02+02:00
+dzus,570,Kurt 1,19:00,booked,2026-10-05T13:22:02+02:00
+dzus,570,Kurt 1,19:30,booked,2026-10-05T13:22:02+02:00
+dzus,570,Kurt 1,20:00,booked,2026-10-05T13:22:02+02:00
+dzus,570,Kurt 1,20:30,booked,2026-10-05T13:22:02+02:00
+dzus,570,Kurt 1,21:00,booked,2026-10-05T13:22:02+02:00
+dzus,570,Kurt 1,21:30,booked,2026-10-05T13:22:02+02:00
+dzus,570,Kurt 1,22:00,free,2026-10-05T13:22:02+02:00
+dzus,570,Kurt 1,22:30,free,2026-10-05T13:22:02+02:00
 dzus,571,Kurt 2,07:00,free,2026-10-05T00:17:57+02:00
 dzus,571,Kurt 2,07:30,free,2026-10-05T00:17:57+02:00
 dzus,571,Kurt 2,08:00,free,2026-10-05T00:17:57+02:00
@@ -178,25 +178,25 @@ dzus,571,Kurt 2,11:30,booked,2026-10-05T00:17:57+02:00
 dzus,571,Kurt 2,12:00,booked,2026-10-05T00:17:57+02:00
 dzus,571,Kurt 2,12:30,free,2026-10-05T00:17:57+02:00
 dzus,571,Kurt 2,13:00,free,2026-10-05T00:17:57+02:00
-dzus,571,Kurt 2,13:30,free,2026-10-05T00:17:57+02:00
-dzus,571,Kurt 2,14:00,free,2026-10-05T00:17:57+02:00
-dzus,571,Kurt 2,14:30,free,2026-10-05T00:17:57+02:00
-dzus,571,Kurt 2,15:00,free,2026-10-05T00:17:57+02:00
-dzus,571,Kurt 2,15:30,free,2026-10-05T00:17:57+02:00
-dzus,571,Kurt 2,16:00,free,2026-10-05T00:17:57+02:00
-dzus,571,Kurt 2,16:30,free,2026-10-05T00:17:57+02:00
-dzus,571,Kurt 2,17:00,booked,2026-10-05T00:17:57+02:00
-dzus,571,Kurt 2,17:30,booked,2026-10-05T00:17:57+02:00
-dzus,571,Kurt 2,18:00,booked,2026-10-05T00:17:57+02:00
-dzus,571,Kurt 2,18:30,booked,2026-10-05T00:17:57+02:00
-dzus,571,Kurt 2,19:00,booked,2026-10-05T00:17:57+02:00
-dzus,571,Kurt 2,19:30,booked,2026-10-05T00:17:57+02:00
-dzus,571,Kurt 2,20:00,booked,2026-10-05T00:17:57+02:00
-dzus,571,Kurt 2,20:30,booked,2026-10-05T00:17:57+02:00
-dzus,571,Kurt 2,21:00,booked,2026-10-05T00:17:57+02:00
-dzus,571,Kurt 2,21:30,free,2026-10-05T00:17:57+02:00
-dzus,571,Kurt 2,22:00,free,2026-10-05T00:17:57+02:00
-dzus,571,Kurt 2,22:30,booked,2026-10-05T00:17:57+02:00
+dzus,571,Kurt 2,13:30,free,2026-10-05T13:22:02+02:00
+dzus,571,Kurt 2,14:00,free,2026-10-05T13:22:02+02:00
+dzus,571,Kurt 2,14:30,free,2026-10-05T13:22:02+02:00
+dzus,571,Kurt 2,15:00,free,2026-10-05T13:22:02+02:00
+dzus,571,Kurt 2,15:30,free,2026-10-05T13:22:02+02:00
+dzus,571,Kurt 2,16:00,free,2026-10-05T13:22:02+02:00
+dzus,571,Kurt 2,16:30,free,2026-10-05T13:22:02+02:00
+dzus,571,Kurt 2,17:00,booked,2026-10-05T13:22:02+02:00
+dzus,571,Kurt 2,17:30,booked,2026-10-05T13:22:02+02:00
+dzus,571,Kurt 2,18:00,booked,2026-10-05T13:22:02+02:00
+dzus,571,Kurt 2,18:30,booked,2026-10-05T13:22:02+02:00
+dzus,571,Kurt 2,19:00,booked,2026-10-05T13:22:02+02:00
+dzus,571,Kurt 2,19:30,booked,2026-10-05T13:22:02+02:00
+dzus,571,Kurt 2,20:00,booked,2026-10-05T13:22:02+02:00
+dzus,571,Kurt 2,20:30,booked,2026-10-05T13:22:02+02:00
+dzus,571,Kurt 2,21:00,booked,2026-10-05T13:22:02+02:00
+dzus,571,Kurt 2,21:30,free,2026-10-05T13:22:02+02:00
+dzus,571,Kurt 2,22:00,free,2026-10-05T13:22:02+02:00
+dzus,571,Kurt 2,22:30,booked,2026-10-05T13:22:02+02:00
 dzus,673,Kurt 3,07:00,free,2026-10-05T00:17:57+02:00
 dzus,673,Kurt 3,07:30,free,2026-10-05T00:17:57+02:00
 dzus,673,Kurt 3,08:00,free,2026-10-05T00:17:57+02:00
@@ -210,25 +210,25 @@ dzus,673,Kurt 3,11:30,free,2026-10-05T00:17:57+02:00
 dzus,673,Kurt 3,12:00,free,2026-10-05T00:17:57+02:00
 dzus,673,Kurt 3,12:30,free,2026-10-05T00:17:57+02:00
 dzus,673,Kurt 3,13:00,free,2026-10-05T00:17:57+02:00
-dzus,673,Kurt 3,13:30,free,2026-10-05T00:17:57+02:00
-dzus,673,Kurt 3,14:00,free,2026-10-05T00:17:57+02:00
-dzus,673,Kurt 3,14:30,free,2026-10-05T00:17:57+02:00
-dzus,673,Kurt 3,15:00,free,2026-10-05T00:17:57+02:00
-dzus,673,Kurt 3,15:30,free,2026-10-05T00:17:57+02:00
-dzus,673,Kurt 3,16:00,free,2026-10-05T00:17:57+02:00
-dzus,673,Kurt 3,16:30,free,2026-10-05T00:17:57+02:00
-dzus,673,Kurt 3,17:00,free,2026-10-05T00:17:57+02:00
-dzus,673,Kurt 3,17:30,booked,2026-10-05T00:17:57+02:00
-dzus,673,Kurt 3,18:00,booked,2026-10-05T00:17:57+02:00
-dzus,673,Kurt 3,18:30,booked,2026-10-05T00:17:57+02:00
-dzus,673,Kurt 3,19:00,booked,2026-10-05T00:17:57+02:00
-dzus,673,Kurt 3,19:30,booked,2026-10-05T00:17:57+02:00
-dzus,673,Kurt 3,20:00,booked,2026-10-05T00:17:57+02:00
-dzus,673,Kurt 3,20:30,booked,2026-10-05T00:17:57+02:00
-dzus,673,Kurt 3,21:00,booked,2026-10-05T00:17:57+02:00
-dzus,673,Kurt 3,21:30,booked,2026-10-05T00:17:57+02:00
-dzus,673,Kurt 3,22:00,free,2026-10-05T00:17:57+02:00
-dzus,673,Kurt 3,22:30,free,2026-10-05T00:17:57+02:00
+dzus,673,Kurt 3,13:30,free,2026-10-05T13:22:02+02:00
+dzus,673,Kurt 3,14:00,free,2026-10-05T13:22:02+02:00
+dzus,673,Kurt 3,14:30,free,2026-10-05T13:22:02+02:00
+dzus,673,Kurt 3,15:00,free,2026-10-05T13:22:02+02:00
+dzus,673,Kurt 3,15:30,free,2026-10-05T13:22:02+02:00
+dzus,673,Kurt 3,16:00,free,2026-10-05T13:22:02+02:00
+dzus,673,Kurt 3,16:30,free,2026-10-05T13:22:02+02:00
+dzus,673,Kurt 3,17:00,free,2026-10-05T13:22:02+02:00
+dzus,673,Kurt 3,17:30,booked,2026-10-05T13:22:02+02:00
+dzus,673,Kurt 3,18:00,booked,2026-10-05T13:22:02+02:00
+dzus,673,Kurt 3,18:30,booked,2026-10-05T13:22:02+02:00
+dzus,673,Kurt 3,19:00,booked,2026-10-05T13:22:02+02:00
+dzus,673,Kurt 3,19:30,booked,2026-10-05T13:22:02+02:00
+dzus,673,Kurt 3,20:00,booked,2026-10-05T13:22:02+02:00
+dzus,673,Kurt 3,20:30,booked,2026-10-05T13:22:02+02:00
+dzus,673,Kurt 3,21:00,booked,2026-10-05T13:22:02+02:00
+dzus,673,Kurt 3,21:30,booked,2026-10-05T13:22:02+02:00
+dzus,673,Kurt 3,22:00,free,2026-10-05T13:22:02+02:00
+dzus,673,Kurt 3,22:30,free,2026-10-05T13:22:02+02:00
 dzus,674,Kurt 4,07:00,free,2026-10-05T00:17:57+02:00
 dzus,674,Kurt 4,07:30,free,2026-10-05T00:17:57+02:00
 dzus,674,Kurt 4,08:00,free,2026-10-05T00:17:57+02:00
@@ -242,25 +242,25 @@ dzus,674,Kurt 4,11:30,free,2026-10-05T00:17:57+02:00
 dzus,674,Kurt 4,12:00,free,2026-10-05T00:17:57+02:00
 dzus,674,Kurt 4,12:30,free,2026-10-05T00:17:57+02:00
 dzus,674,Kurt 4,13:00,free,2026-10-05T00:17:57+02:00
-dzus,674,Kurt 4,13:30,free,2026-10-05T00:17:57+02:00
-dzus,674,Kurt 4,14:00,free,2026-10-05T00:17:57+02:00
-dzus,674,Kurt 4,14:30,free,2026-10-05T00:17:57+02:00
-dzus,674,Kurt 4,15:00,booked,2026-10-05T00:17:57+02:00
-dzus,674,Kurt 4,15:30,booked,2026-10-05T00:17:57+02:00
-dzus,674,Kurt 4,16:00,booked,2026-10-05T00:17:57+02:00
-dzus,674,Kurt 4,16:30,booked,2026-10-05T00:17:57+02:00
-dzus,674,Kurt 4,17:00,booked,2026-10-05T00:17:57+02:00
-dzus,674,Kurt 4,17:30,booked,2026-10-05T00:17:57+02:00
-dzus,674,Kurt 4,18:00,booked,2026-10-05T00:17:57+02:00
-dzus,674,Kurt 4,18:30,booked,2026-10-05T00:17:57+02:00
-dzus,674,Kurt 4,19:00,booked,2026-10-05T00:17:57+02:00
-dzus,674,Kurt 4,19:30,booked,2026-10-05T00:17:57+02:00
-dzus,674,Kurt 4,20:00,booked,2026-10-05T00:17:57+02:00
-dzus,674,Kurt 4,20:30,booked,2026-10-05T00:17:57+02:00
-dzus,674,Kurt 4,21:00,booked,2026-10-05T00:17:57+02:00
-dzus,674,Kurt 4,21:30,free,2026-10-05T00:17:57+02:00
-dzus,674,Kurt 4,22:00,free,2026-10-05T00:17:57+02:00
-dzus,674,Kurt 4,22:30,booked,2026-10-05T00:17:57+02:00
+dzus,674,Kurt 4,13:30,free,2026-10-05T13:22:02+02:00
+dzus,674,Kurt 4,14:00,free,2026-10-05T13:22:02+02:00
+dzus,674,Kurt 4,14:30,booked,2026-10-05T13:22:02+02:00
+dzus,674,Kurt 4,15:00,booked,2026-10-05T13:22:02+02:00
+dzus,674,Kurt 4,15:30,booked,2026-10-05T13:22:02+02:00
+dzus,674,Kurt 4,16:00,booked,2026-10-05T13:22:02+02:00
+dzus,674,Kurt 4,16:30,free,2026-10-05T13:22:02+02:00
+dzus,674,Kurt 4,17:00,free,2026-10-05T13:22:02+02:00
+dzus,674,Kurt 4,17:30,booked,2026-10-05T13:22:02+02:00
+dzus,674,Kurt 4,18:00,booked,2026-10-05T13:22:02+02:00
+dzus,674,Kurt 4,18:30,booked,2026-10-05T13:22:02+02:00
+dzus,674,Kurt 4,19:00,booked,2026-10-05T13:22:02+02:00
+dzus,674,Kurt 4,19:30,booked,2026-10-05T13:22:02+02:00
+dzus,674,Kurt 4,20:00,booked,2026-10-05T13:22:02+02:00
+dzus,674,Kurt 4,20:30,booked,2026-10-05T13:22:02+02:00
+dzus,674,Kurt 4,21:00,booked,2026-10-05T13:22:02+02:00
+dzus,674,Kurt 4,21:30,free,2026-10-05T13:22:02+02:00
+dzus,674,Kurt 4,22:00,free,2026-10-05T13:22:02+02:00
+dzus,674,Kurt 4,22:30,booked,2026-10-05T13:22:02+02:00
 forpadel,1,Kurt 1,08:00,free,2026-10-05T00:17:57+02:00
 forpadel,1,Kurt 1,08:30,free,2026-10-05T00:17:57+02:00
 forpadel,1,Kurt 1,09:00,free,2026-10-05T00:17:57+02:00
@@ -272,23 +272,23 @@ forpadel,1,Kurt 1,11:30,free,2026-10-05T00:17:57+02:00
 forpadel,1,Kurt 1,12:00,free,2026-10-05T00:17:57+02:00
 forpadel,1,Kurt 1,12:30,free,2026-10-05T00:17:57+02:00
 forpadel,1,Kurt 1,13:00,free,2026-10-05T00:17:57+02:00
-forpadel,1,Kurt 1,13:30,free,2026-10-05T00:17:57+02:00
-forpadel,1,Kurt 1,14:00,free,2026-10-05T00:17:57+02:00
-forpadel,1,Kurt 1,14:30,free,2026-10-05T00:17:57+02:00
-forpadel,1,Kurt 1,15:00,free,2026-10-05T00:17:57+02:00
-forpadel,1,Kurt 1,15:30,free,2026-10-05T00:17:57+02:00
-forpadel,1,Kurt 1,16:00,free,2026-10-05T00:17:57+02:00
-forpadel,1,Kurt 1,16:30,free,2026-10-05T00:17:57+02:00
-forpadel,1,Kurt 1,17:00,free,2026-10-05T00:17:57+02:00
-forpadel,1,Kurt 1,17:30,free,2026-10-05T00:17:57+02:00
-forpadel,1,Kurt 1,18:00,booked,2026-10-05T00:17:57+02:00
-forpadel,1,Kurt 1,18:30,booked,2026-10-05T00:17:57+02:00
-forpadel,1,Kurt 1,19:00,booked,2026-10-05T00:17:57+02:00
-forpadel,1,Kurt 1,19:30,booked,2026-10-05T00:17:57+02:00
-forpadel,1,Kurt 1,20:00,booked,2026-10-05T00:17:57+02:00
-forpadel,1,Kurt 1,20:30,booked,2026-10-05T00:17:57+02:00
-forpadel,1,Kurt 1,21:00,free,2026-10-05T00:17:57+02:00
-forpadel,1,Kurt 1,21:30,free,2026-10-05T00:17:57+02:00
+forpadel,1,Kurt 1,13:30,free,2026-10-05T13:22:02+02:00
+forpadel,1,Kurt 1,14:00,free,2026-10-05T13:22:02+02:00
+forpadel,1,Kurt 1,14:30,free,2026-10-05T13:22:02+02:00
+forpadel,1,Kurt 1,15:00,free,2026-10-05T13:22:02+02:00
+forpadel,1,Kurt 1,15:30,free,2026-10-05T13:22:02+02:00
+forpadel,1,Kurt 1,16:00,free,2026-10-05T13:22:02+02:00
+forpadel,1,Kurt 1,16:30,free,2026-10-05T13:22:02+02:00
+forpadel,1,Kurt 1,17:00,booked,2026-10-05T13:22:02+02:00
+forpadel,1,Kurt 1,17:30,booked,2026-10-05T13:22:02+02:00
+forpadel,1,Kurt 1,18:00,free,2026-10-05T13:22:02+02:00
+forpadel,1,Kurt 1,18:30,free,2026-10-05T13:22:02+02:00
+forpadel,1,Kurt 1,19:00,free,2026-10-05T13:22:02+02:00
+forpadel,1,Kurt 1,19:30,booked,2026-10-05T13:22:02+02:00
+forpadel,1,Kurt 1,20:00,booked,2026-10-05T13:22:02+02:00
+forpadel,1,Kurt 1,20:30,booked,2026-10-05T13:22:02+02:00
+forpadel,1,Kurt 1,21:00,free,2026-10-05T13:22:02+02:00
+forpadel,1,Kurt 1,21:30,free,2026-10-05T13:22:02+02:00
 forpadel,18,Kurt 3,08:00,free,2026-10-05T00:17:57+02:00
 forpadel,18,Kurt 3,08:30,free,2026-10-05T00:17:57+02:00
 forpadel,18,Kurt 3,09:00,free,2026-10-05T00:17:57+02:00
@@ -300,23 +300,23 @@ forpadel,18,Kurt 3,11:30,free,2026-10-05T00:17:57+02:00
 forpadel,18,Kurt 3,12:00,free,2026-10-05T00:17:57+02:00
 forpadel,18,Kurt 3,12:30,free,2026-10-05T00:17:57+02:00
 forpadel,18,Kurt 3,13:00,free,2026-10-05T00:17:57+02:00
-forpadel,18,Kurt 3,13:30,free,2026-10-05T00:17:57+02:00
-forpadel,18,Kurt 3,14:00,free,2026-10-05T00:17:57+02:00
-forpadel,18,Kurt 3,14:30,free,2026-10-05T00:17:57+02:00
-forpadel,18,Kurt 3,15:00,free,2026-10-05T00:17:57+02:00
-forpadel,18,Kurt 3,15:30,free,2026-10-05T00:17:57+02:00
-forpadel,18,Kurt 3,16:00,free,2026-10-05T00:17:57+02:00
-forpadel,18,Kurt 3,16:30,free,2026-10-05T00:17:57+02:00
-forpadel,18,Kurt 3,17:00,free,2026-10-05T00:17:57+02:00
-forpadel,18,Kurt 3,17:30,free,2026-10-05T00:17:57+02:00
-forpadel,18,Kurt 3,18:00,booked,2026-10-05T00:17:57+02:00
-forpadel,18,Kurt 3,18:30,booked,2026-10-05T00:17:57+02:00
-forpadel,18,Kurt 3,19:00,booked,2026-10-05T00:17:57+02:00
-forpadel,18,Kurt 3,19:30,free,2026-10-05T00:17:57+02:00
-forpadel,18,Kurt 3,20:00,free,2026-10-05T00:17:57+02:00
-forpadel,18,Kurt 3,20:30,free,2026-10-05T00:17:57+02:00
-forpadel,18,Kurt 3,21:00,free,2026-10-05T00:17:57+02:00
-forpadel,18,Kurt 3,21:30,free,2026-10-05T00:17:57+02:00
+forpadel,18,Kurt 3,13:30,free,2026-10-05T13:22:02+02:00
+forpadel,18,Kurt 3,14:00,free,2026-10-05T13:22:02+02:00
+forpadel,18,Kurt 3,14:30,free,2026-10-05T13:22:02+02:00
+forpadel,18,Kurt 3,15:00,free,2026-10-05T13:22:02+02:00
+forpadel,18,Kurt 3,15:30,free,2026-10-05T13:22:02+02:00
+forpadel,18,Kurt 3,16:00,free,2026-10-05T13:22:02+02:00
+forpadel,18,Kurt 3,16:30,free,2026-10-05T13:22:02+02:00
+forpadel,18,Kurt 3,17:00,free,2026-10-05T13:22:02+02:00
+forpadel,18,Kurt 3,17:30,free,2026-10-05T13:22:02+02:00
+forpadel,18,Kurt 3,18:00,booked,2026-10-05T13:22:02+02:00
+forpadel,18,Kurt 3,18:30,booked,2026-10-05T13:22:02+02:00
+forpadel,18,Kurt 3,19:00,booked,2026-10-05T13:22:02+02:00
+forpadel,18,Kurt 3,19:30,free,2026-10-05T13:22:02+02:00
+forpadel,18,Kurt 3,20:00,free,2026-10-05T13:22:02+02:00
+forpadel,18,Kurt 3,20:30,free,2026-10-05T13:22:02+02:00
+forpadel,18,Kurt 3,21:00,free,2026-10-05T13:22:02+02:00
+forpadel,18,Kurt 3,21:30,free,2026-10-05T13:22:02+02:00
 forpadel,2,Kurt 2,08:00,free,2026-10-05T00:17:57+02:00
 forpadel,2,Kurt 2,08:30,free,2026-10-05T00:17:57+02:00
 forpadel,2,Kurt 2,09:00,free,2026-10-05T00:17:57+02:00
@@ -328,23 +328,23 @@ forpadel,2,Kurt 2,11:30,free,2026-10-05T00:17:57+02:00
 forpadel,2,Kurt 2,12:00,free,2026-10-05T00:17:57+02:00
 forpadel,2,Kurt 2,12:30,free,2026-10-05T00:17:57+02:00
 forpadel,2,Kurt 2,13:00,free,2026-10-05T00:17:57+02:00
-forpadel,2,Kurt 2,13:30,free,2026-10-05T00:17:57+02:00
-forpadel,2,Kurt 2,14:00,free,2026-10-05T00:17:57+02:00
-forpadel,2,Kurt 2,14:30,free,2026-10-05T00:17:57+02:00
-forpadel,2,Kurt 2,15:00,free,2026-10-05T00:17:57+02:00
-forpadel,2,Kurt 2,15:30,free,2026-10-05T00:17:57+02:00
-forpadel,2,Kurt 2,16:00,free,2026-10-05T00:17:57+02:00
-forpadel,2,Kurt 2,16:30,free,2026-10-05T00:17:57+02:00
-forpadel,2,Kurt 2,17:00,booked,2026-10-05T00:17:57+02:00
-forpadel,2,Kurt 2,17:30,booked,2026-10-05T00:17:57+02:00
-forpadel,2,Kurt 2,18:00,booked,2026-10-05T00:17:57+02:00
-forpadel,2,Kurt 2,18:30,booked,2026-10-05T00:17:57+02:00
-forpadel,2,Kurt 2,19:00,booked,2026-10-05T00:17:57+02:00
-forpadel,2,Kurt 2,19:30,booked,2026-10-05T00:17:57+02:00
-forpadel,2,Kurt 2,20:00,free,2026-10-05T00:17:57+02:00
-forpadel,2,Kurt 2,20:30,free,2026-10-05T00:17:57+02:00
-forpadel,2,Kurt 2,21:00,free,2026-10-05T00:17:57+02:00
-forpadel,2,Kurt 2,21:30,free,2026-10-05T00:17:57+02:00
+forpadel,2,Kurt 2,13:30,free,2026-10-05T13:22:02+02:00
+forpadel,2,Kurt 2,14:00,free,2026-10-05T13:22:02+02:00
+forpadel,2,Kurt 2,14:30,free,2026-10-05T13:22:02+02:00
+forpadel,2,Kurt 2,15:00,free,2026-10-05T13:22:02+02:00
+forpadel,2,Kurt 2,15:30,free,2026-10-05T13:22:02+02:00
+forpadel,2,Kurt 2,16:00,free,2026-10-05T13:22:02+02:00
+forpadel,2,Kurt 2,16:30,free,2026-10-05T13:22:02+02:00
+forpadel,2,Kurt 2,17:00,booked,2026-10-05T13:22:02+02:00
+forpadel,2,Kurt 2,17:30,booked,2026-10-05T13:22:02+02:00
+forpadel,2,Kurt 2,18:00,booked,2026-10-05T13:22:02+02:00
+forpadel,2,Kurt 2,18:30,booked,2026-10-05T13:22:02+02:00
+forpadel,2,Kurt 2,19:00,booked,2026-10-05T13:22:02+02:00
+forpadel,2,Kurt 2,19:30,booked,2026-10-05T13:22:02+02:00
+forpadel,2,Kurt 2,20:00,free,2026-10-05T13:22:02+02:00
+forpadel,2,Kurt 2,20:30,free,2026-10-05T13:22:02+02:00
+forpadel,2,Kurt 2,21:00,free,2026-10-05T13:22:02+02:00
+forpadel,2,Kurt 2,21:30,free,2026-10-05T13:22:02+02:00
 forpadel,78,Kurt 4,08:00,free,2026-10-05T00:17:57+02:00
 forpadel,78,Kurt 4,08:30,free,2026-10-05T00:17:57+02:00
 forpadel,78,Kurt 4,09:00,free,2026-10-05T00:17:57+02:00
@@ -356,53 +356,53 @@ forpadel,78,Kurt 4,11:30,free,2026-10-05T00:17:57+02:00
 forpadel,78,Kurt 4,12:00,free,2026-10-05T00:17:57+02:00
 forpadel,78,Kurt 4,12:30,free,2026-10-05T00:17:57+02:00
 forpadel,78,Kurt 4,13:00,free,2026-10-05T00:17:57+02:00
-forpadel,78,Kurt 4,13:30,free,2026-10-05T00:17:57+02:00
-forpadel,78,Kurt 4,14:00,free,2026-10-05T00:17:57+02:00
-forpadel,78,Kurt 4,14:30,free,2026-10-05T00:17:57+02:00
-forpadel,78,Kurt 4,15:00,free,2026-10-05T00:17:57+02:00
-forpadel,78,Kurt 4,15:30,free,2026-10-05T00:17:57+02:00
-forpadel,78,Kurt 4,16:00,free,2026-10-05T00:17:57+02:00
-forpadel,78,Kurt 4,16:30,free,2026-10-05T00:17:57+02:00
-forpadel,78,Kurt 4,17:00,booked,2026-10-05T00:17:57+02:00
-forpadel,78,Kurt 4,17:30,booked,2026-10-05T00:17:57+02:00
-forpadel,78,Kurt 4,18:00,booked,2026-10-05T00:17:57+02:00
-forpadel,78,Kurt 4,18:30,booked,2026-10-05T00:17:57+02:00
-forpadel,78,Kurt 4,19:00,booked,2026-10-05T00:17:57+02:00
-forpadel,78,Kurt 4,19:30,free,2026-10-05T00:17:57+02:00
-forpadel,78,Kurt 4,20:00,free,2026-10-05T00:17:57+02:00
-forpadel,78,Kurt 4,20:30,free,2026-10-05T00:17:57+02:00
-forpadel,78,Kurt 4,21:00,free,2026-10-05T00:17:57+02:00
-forpadel,78,Kurt 4,21:30,free,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,07:00,free,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,07:30,free,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,08:00,free,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,08:30,free,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,09:00,free,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,09:30,free,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,10:00,free,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,10:30,free,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,11:00,booked,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,11:30,booked,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,12:00,free,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,12:30,free,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,13:00,free,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,13:30,free,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,14:00,free,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,14:30,free,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,15:00,free,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,15:30,booked,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,16:00,booked,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,16:30,booked,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,17:00,booked,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,17:30,booked,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,18:00,free,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,18:30,free,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,19:00,free,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,19:30,free,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,20:00,booked,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,20:30,booked,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,21:00,free,2026-10-05T00:17:57+02:00
-hagibor,11,Padel,21:30,free,2026-10-05T00:17:57+02:00
+forpadel,78,Kurt 4,13:30,free,2026-10-05T13:22:02+02:00
+forpadel,78,Kurt 4,14:00,free,2026-10-05T13:22:02+02:00
+forpadel,78,Kurt 4,14:30,free,2026-10-05T13:22:02+02:00
+forpadel,78,Kurt 4,15:00,free,2026-10-05T13:22:02+02:00
+forpadel,78,Kurt 4,15:30,free,2026-10-05T13:22:02+02:00
+forpadel,78,Kurt 4,16:00,free,2026-10-05T13:22:02+02:00
+forpadel,78,Kurt 4,16:30,free,2026-10-05T13:22:02+02:00
+forpadel,78,Kurt 4,17:00,booked,2026-10-05T13:22:02+02:00
+forpadel,78,Kurt 4,17:30,booked,2026-10-05T13:22:02+02:00
+forpadel,78,Kurt 4,18:00,booked,2026-10-05T13:22:02+02:00
+forpadel,78,Kurt 4,18:30,booked,2026-10-05T13:22:02+02:00
+forpadel,78,Kurt 4,19:00,booked,2026-10-05T13:22:02+02:00
+forpadel,78,Kurt 4,19:30,booked,2026-10-05T13:22:02+02:00
+forpadel,78,Kurt 4,20:00,booked,2026-10-05T13:22:02+02:00
+forpadel,78,Kurt 4,20:30,booked,2026-10-05T13:22:02+02:00
+forpadel,78,Kurt 4,21:00,free,2026-10-05T13:22:02+02:00
+forpadel,78,Kurt 4,21:30,free,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,07:00,free,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,07:30,free,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,08:00,free,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,08:30,free,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,09:00,free,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,09:30,free,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,10:00,free,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,10:30,free,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,11:00,booked,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,11:30,booked,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,12:00,free,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,12:30,free,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,13:00,free,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,13:30,free,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,14:00,free,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,14:30,free,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,15:00,free,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,15:30,booked,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,16:00,booked,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,16:30,booked,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,17:00,booked,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,17:30,booked,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,18:00,free,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,18:30,free,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,19:00,free,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,19:30,free,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,20:00,booked,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,20:30,booked,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,21:00,free,2026-10-05T13:22:02+02:00
+hagibor,11,Padel,21:30,free,2026-10-05T13:22:02+02:00
 modrany,47,Padel 1,08:00,free,2026-10-05T00:17:57+02:00
 modrany,47,Padel 1,08:30,free,2026-10-05T00:17:57+02:00
 modrany,47,Padel 1,09:00,free,2026-10-05T00:17:57+02:00
@@ -414,23 +414,23 @@ modrany,47,Padel 1,11:30,free,2026-10-05T00:17:57+02:00
 modrany,47,Padel 1,12:00,free,2026-10-05T00:17:57+02:00
 modrany,47,Padel 1,12:30,free,2026-10-05T00:17:57+02:00
 modrany,47,Padel 1,13:00,free,2026-10-05T00:17:57+02:00
-modrany,47,Padel 1,13:30,free,2026-10-05T00:17:57+02:00
-modrany,47,Padel 1,14:00,free,2026-10-05T00:17:57+02:00
-modrany,47,Padel 1,14:30,free,2026-10-05T00:17:57+02:00
-modrany,47,Padel 1,15:00,free,2026-10-05T00:17:57+02:00
-modrany,47,Padel 1,15:30,free,2026-10-05T00:17:57+02:00
-modrany,47,Padel 1,16:00,free,2026-10-05T00:17:57+02:00
-modrany,47,Padel 1,16:30,free,2026-10-05T00:17:57+02:00
-modrany,47,Padel 1,17:00,free,2026-10-05T00:17:57+02:00
-modrany,47,Padel 1,17:30,free,2026-10-05T00:17:57+02:00
-modrany,47,Padel 1,18:00,free,2026-10-05T00:17:57+02:00
-modrany,47,Padel 1,18:30,free,2026-10-05T00:17:57+02:00
-modrany,47,Padel 1,19:00,booked,2026-10-05T00:17:57+02:00
-modrany,47,Padel 1,19:30,booked,2026-10-05T00:17:57+02:00
-modrany,47,Padel 1,20:00,free,2026-10-05T00:17:57+02:00
-modrany,47,Padel 1,20:30,free,2026-10-05T00:17:57+02:00
-modrany,47,Padel 1,21:00,free,2026-10-05T00:17:57+02:00
-modrany,47,Padel 1,21:30,free,2026-10-05T00:17:57+02:00
+modrany,47,Padel 1,13:30,free,2026-10-05T13:22:02+02:00
+modrany,47,Padel 1,14:00,free,2026-10-05T13:22:02+02:00
+modrany,47,Padel 1,14:30,free,2026-10-05T13:22:02+02:00
+modrany,47,Padel 1,15:00,free,2026-10-05T13:22:02+02:00
+modrany,47,Padel 1,15:30,free,2026-10-05T13:22:02+02:00
+modrany,47,Padel 1,16:00,free,2026-10-05T13:22:02+02:00
+modrany,47,Padel 1,16:30,free,2026-10-05T13:22:02+02:00
+modrany,47,Padel 1,17:00,free,2026-10-05T13:22:02+02:00
+modrany,47,Padel 1,17:30,free,2026-10-05T13:22:02+02:00
+modrany,47,Padel 1,18:00,booked,2026-10-05T13:22:02+02:00
+modrany,47,Padel 1,18:30,booked,2026-10-05T13:22:02+02:00
+modrany,47,Padel 1,19:00,booked,2026-10-05T13:22:02+02:00
+modrany,47,Padel 1,19:30,booked,2026-10-05T13:22:02+02:00
+modrany,47,Padel 1,20:00,free,2026-10-05T13:22:02+02:00
+modrany,47,Padel 1,20:30,free,2026-10-05T13:22:02+02:00
+modrany,47,Padel 1,21:00,free,2026-10-05T13:22:02+02:00
+modrany,47,Padel 1,21:30,free,2026-10-05T13:22:02+02:00
 modrany,66,Padel 2,08:00,free,2026-10-05T00:17:57+02:00
 modrany,66,Padel 2,08:30,free,2026-10-05T00:17:57+02:00
 modrany,66,Padel 2,09:00,free,2026-10-05T00:17:57+02:00
@@ -442,23 +442,23 @@ modrany,66,Padel 2,11:30,free,2026-10-05T00:17:57+02:00
 modrany,66,Padel 2,12:00,free,2026-10-05T00:17:57+02:00
 modrany,66,Padel 2,12:30,free,2026-10-05T00:17:57+02:00
 modrany,66,Padel 2,13:00,free,2026-10-05T00:17:57+02:00
-modrany,66,Padel 2,13:30,free,2026-10-05T00:17:57+02:00
-modrany,66,Padel 2,14:00,free,2026-10-05T00:17:57+02:00
-modrany,66,Padel 2,14:30,free,2026-10-05T00:17:57+02:00
-modrany,66,Padel 2,15:00,free,2026-10-05T00:17:57+02:00
-modrany,66,Padel 2,15:30,free,2026-10-05T00:17:57+02:00
-modrany,66,Padel 2,16:00,free,2026-10-05T00:17:57+02:00
-modrany,66,Padel 2,16:30,free,2026-10-05T00:17:57+02:00
-modrany,66,Padel 2,17:00,free,2026-10-05T00:17:57+02:00
-modrany,66,Padel 2,17:30,free,2026-10-05T00:17:57+02:00
-modrany,66,Padel 2,18:00,free,2026-10-05T00:17:57+02:00
-modrany,66,Padel 2,18:30,free,2026-10-05T00:17:57+02:00
-modrany,66,Padel 2,19:00,booked,2026-10-05T00:17:57+02:00
-modrany,66,Padel 2,19:30,booked,2026-10-05T00:17:57+02:00
-modrany,66,Padel 2,20:00,booked,2026-10-05T00:17:57+02:00
-modrany,66,Padel 2,20:30,free,2026-10-05T00:17:57+02:00
-modrany,66,Padel 2,21:00,free,2026-10-05T00:17:57+02:00
-modrany,66,Padel 2,21:30,free,2026-10-05T00:17:57+02:00
+modrany,66,Padel 2,13:30,free,2026-10-05T13:22:02+02:00
+modrany,66,Padel 2,14:00,free,2026-10-05T13:22:02+02:00
+modrany,66,Padel 2,14:30,free,2026-10-05T13:22:02+02:00
+modrany,66,Padel 2,15:00,free,2026-10-05T13:22:02+02:00
+modrany,66,Padel 2,15:30,free,2026-10-05T13:22:02+02:00
+modrany,66,Padel 2,16:00,free,2026-10-05T13:22:02+02:00
+modrany,66,Padel 2,16:30,free,2026-10-05T13:22:02+02:00
+modrany,66,Padel 2,17:00,free,2026-10-05T13:22:02+02:00
+modrany,66,Padel 2,17:30,free,2026-10-05T13:22:02+02:00
+modrany,66,Padel 2,18:00,free,2026-10-05T13:22:02+02:00
+modrany,66,Padel 2,18:30,free,2026-10-05T13:22:02+02:00
+modrany,66,Padel 2,19:00,booked,2026-10-05T13:22:02+02:00
+modrany,66,Padel 2,19:30,booked,2026-10-05T13:22:02+02:00
+modrany,66,Padel 2,20:00,booked,2026-10-05T13:22:02+02:00
+modrany,66,Padel 2,20:30,free,2026-10-05T13:22:02+02:00
+modrany,66,Padel 2,21:00,free,2026-10-05T13:22:02+02:00
+modrany,66,Padel 2,21:30,free,2026-10-05T13:22:02+02:00
 modrany,67,Padel 3,08:00,free,2026-10-05T00:17:57+02:00
 modrany,67,Padel 3,08:30,free,2026-10-05T00:17:57+02:00
 modrany,67,Padel 3,09:00,free,2026-10-05T00:17:57+02:00
@@ -470,437 +470,437 @@ modrany,67,Padel 3,11:30,free,2026-10-05T00:17:57+02:00
 modrany,67,Padel 3,12:00,free,2026-10-05T00:17:57+02:00
 modrany,67,Padel 3,12:30,free,2026-10-05T00:17:57+02:00
 modrany,67,Padel 3,13:00,free,2026-10-05T00:17:57+02:00
-modrany,67,Padel 3,13:30,free,2026-10-05T00:17:57+02:00
-modrany,67,Padel 3,14:00,free,2026-10-05T00:17:57+02:00
-modrany,67,Padel 3,14:30,free,2026-10-05T00:17:57+02:00
-modrany,67,Padel 3,15:00,booked,2026-10-05T00:17:57+02:00
-modrany,67,Padel 3,15:30,booked,2026-10-05T00:17:57+02:00
-modrany,67,Padel 3,16:00,booked,2026-10-05T00:17:57+02:00
-modrany,67,Padel 3,16:30,booked,2026-10-05T00:17:57+02:00
-modrany,67,Padel 3,17:00,booked,2026-10-05T00:17:57+02:00
-modrany,67,Padel 3,17:30,booked,2026-10-05T00:17:57+02:00
-modrany,67,Padel 3,18:00,free,2026-10-05T00:17:57+02:00
-modrany,67,Padel 3,18:30,booked,2026-10-05T00:17:57+02:00
-modrany,67,Padel 3,19:00,booked,2026-10-05T00:17:57+02:00
-modrany,67,Padel 3,19:30,booked,2026-10-05T00:17:57+02:00
-modrany,67,Padel 3,20:00,free,2026-10-05T00:17:57+02:00
-modrany,67,Padel 3,20:30,free,2026-10-05T00:17:57+02:00
-modrany,67,Padel 3,21:00,free,2026-10-05T00:17:57+02:00
-modrany,67,Padel 3,21:30,free,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,06:00,free,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,06:30,free,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,07:00,free,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,07:30,free,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,08:00,free,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,08:30,free,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,09:00,booked,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,09:30,booked,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,10:00,booked,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,10:30,booked,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,11:00,booked,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,11:30,booked,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,12:00,free,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,12:30,free,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,13:00,free,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,13:30,free,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,14:00,free,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,14:30,free,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,15:00,free,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,15:30,free,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,16:00,free,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,16:30,free,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,17:00,booked,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,17:30,booked,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,18:00,booked,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,18:30,booked,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,19:00,booked,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,19:30,booked,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,20:00,booked,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,20:30,booked,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,21:00,booked,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,21:30,free,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,22:00,free,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,22:30,free,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,23:00,free,2026-10-05T00:17:57+02:00
-neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,23:30,free,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,06:00,free,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,06:30,free,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,07:00,free,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,07:30,free,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,08:00,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,08:30,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,09:00,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,09:30,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,10:00,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,10:30,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,11:00,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,11:30,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,12:00,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,12:30,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,13:00,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,13:30,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,14:00,free,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,14:30,free,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,15:00,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,15:30,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,16:00,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,16:30,free,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,17:00,free,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,17:30,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,18:00,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,18:30,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,19:00,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,19:30,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,20:00,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,20:30,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,21:00,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,21:30,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,22:00,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,22:30,booked,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,23:00,free,2026-10-05T00:17:57+02:00
-neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,23:30,free,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,06:00,free,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,06:30,free,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,07:00,free,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,07:30,free,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,08:00,free,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,08:30,free,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,09:00,booked,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,09:30,booked,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,10:00,booked,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,10:30,booked,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,11:00,booked,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,11:30,booked,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,12:00,free,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,12:30,free,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,13:00,booked,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,13:30,booked,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,14:00,booked,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,14:30,free,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,15:00,free,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,15:30,free,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,16:00,free,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,16:30,free,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,17:00,booked,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,17:30,booked,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,18:00,booked,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,18:30,booked,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,19:00,booked,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,19:30,booked,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,20:00,booked,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,20:30,booked,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,21:00,booked,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,21:30,free,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,22:00,free,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,22:30,free,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,23:00,free,2026-10-05T00:17:57+02:00
-neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,23:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,07:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,07:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,08:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,08:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,09:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,09:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,10:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,10:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,11:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,11:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,12:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,12:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,13:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,13:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,14:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,14:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,15:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,15:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,16:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,16:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,17:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,17:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,18:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,18:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,19:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,19:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,20:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,20:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,21:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,21:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,22:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,22:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,23:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,23:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,07:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,07:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,08:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,08:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,09:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,09:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,10:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,10:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,11:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,11:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,12:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,12:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,13:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,13:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,14:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,14:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,15:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,15:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,16:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,16:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,17:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,17:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,18:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,18:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,19:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,19:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,20:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,20:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,21:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,21:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,22:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,22:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,23:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,23:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,07:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,07:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,08:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,08:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,09:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,09:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,10:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,10:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,11:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,11:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,12:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,12:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,13:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,13:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,14:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,14:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,15:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,15:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,16:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,16:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,17:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,17:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,18:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,18:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,19:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,19:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,20:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,20:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,21:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,21:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,22:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,22:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,23:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,23:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,07:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,07:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,08:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,08:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,09:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,09:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,10:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,10:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,11:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,11:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,12:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,12:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,13:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,13:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,14:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,14:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,15:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,15:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,16:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,16:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,17:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,17:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,18:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,18:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,19:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,19:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,20:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,20:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,21:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,21:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,22:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,22:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,23:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,23:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,07:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,07:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,08:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,08:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,09:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,09:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,10:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,10:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,11:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,11:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,12:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,12:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,13:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,13:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,14:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,14:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,15:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,15:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,16:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,16:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,17:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,17:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,18:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,18:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,19:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,19:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,20:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,20:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,21:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,21:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,22:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,22:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,23:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,23:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,07:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,07:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,08:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,08:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,09:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,09:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,10:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,10:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,11:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,11:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,12:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,12:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,13:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,13:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,14:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,14:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,15:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,15:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,16:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,16:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,17:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,17:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,18:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,18:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,19:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,19:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,20:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,20:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,21:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,21:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,22:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,22:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,23:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,23:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,07:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,07:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,08:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,08:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,09:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,09:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,10:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,10:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,11:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,11:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,12:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,12:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,13:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,13:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,14:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,14:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,15:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,15:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,16:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,16:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,17:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,17:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,18:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,18:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,19:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,19:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,20:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,20:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,21:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,21:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,22:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,22:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,23:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,23:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,07:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,07:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,08:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,08:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,09:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,09:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,10:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,10:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,11:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,11:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,12:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,12:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,13:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,13:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,14:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,14:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,15:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,15:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,16:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,16:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,17:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,17:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,18:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,18:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,19:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,19:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,20:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,20:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,21:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,21:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,22:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,22:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,23:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,23:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,07:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,07:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,08:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,08:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,09:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,09:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,10:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,10:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,11:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,11:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,12:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,12:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,13:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,13:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,14:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,14:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,15:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,15:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,16:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,16:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,17:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,17:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,18:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,18:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,19:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,19:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,20:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,20:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,21:00,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,21:30,booked,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,22:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,22:30,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,23:00,free,2026-10-05T00:17:57+02:00
-onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,23:30,free,2026-10-05T00:17:57+02:00
+modrany,67,Padel 3,13:30,free,2026-10-05T13:22:02+02:00
+modrany,67,Padel 3,14:00,free,2026-10-05T13:22:02+02:00
+modrany,67,Padel 3,14:30,free,2026-10-05T13:22:02+02:00
+modrany,67,Padel 3,15:00,booked,2026-10-05T13:22:02+02:00
+modrany,67,Padel 3,15:30,booked,2026-10-05T13:22:02+02:00
+modrany,67,Padel 3,16:00,booked,2026-10-05T13:22:02+02:00
+modrany,67,Padel 3,16:30,booked,2026-10-05T13:22:02+02:00
+modrany,67,Padel 3,17:00,booked,2026-10-05T13:22:02+02:00
+modrany,67,Padel 3,17:30,booked,2026-10-05T13:22:02+02:00
+modrany,67,Padel 3,18:00,free,2026-10-05T13:22:02+02:00
+modrany,67,Padel 3,18:30,booked,2026-10-05T13:22:02+02:00
+modrany,67,Padel 3,19:00,booked,2026-10-05T13:22:02+02:00
+modrany,67,Padel 3,19:30,booked,2026-10-05T13:22:02+02:00
+modrany,67,Padel 3,20:00,free,2026-10-05T13:22:02+02:00
+modrany,67,Padel 3,20:30,free,2026-10-05T13:22:02+02:00
+modrany,67,Padel 3,21:00,free,2026-10-05T13:22:02+02:00
+modrany,67,Padel 3,21:30,free,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,06:00,free,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,06:30,free,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,07:00,free,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,07:30,free,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,08:00,free,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,08:30,free,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,09:00,booked,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,09:30,booked,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,10:00,booked,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,10:30,booked,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,11:00,booked,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,11:30,booked,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,12:00,free,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,12:30,free,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,13:00,free,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,13:30,free,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,14:00,free,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,14:30,free,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,15:00,free,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,15:30,free,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,16:00,free,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,16:30,free,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,17:00,booked,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,17:30,booked,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,18:00,booked,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,18:30,booked,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,19:00,booked,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,19:30,booked,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,20:00,booked,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,20:30,booked,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,21:00,booked,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,21:30,free,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,22:00,free,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,22:30,free,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,23:00,free,2026-10-05T13:22:02+02:00
+neride,35f4bb2d-95cb-4d3c-8936-9923f909277c,Kurt 3,23:30,free,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,06:00,free,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,06:30,free,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,07:00,free,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,07:30,free,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,08:00,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,08:30,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,09:00,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,09:30,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,10:00,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,10:30,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,11:00,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,11:30,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,12:00,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,12:30,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,13:00,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,13:30,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,14:00,free,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,14:30,free,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,15:00,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,15:30,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,16:00,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,16:30,free,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,17:00,free,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,17:30,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,18:00,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,18:30,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,19:00,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,19:30,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,20:00,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,20:30,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,21:00,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,21:30,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,22:00,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,22:30,booked,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,23:00,free,2026-10-05T13:22:02+02:00
+neride,ab4a2ce9-72c3-4bb8-ad09-75fc8ece75b4,Kurt 1,23:30,free,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,06:00,free,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,06:30,free,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,07:00,free,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,07:30,free,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,08:00,free,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,08:30,free,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,09:00,booked,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,09:30,booked,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,10:00,booked,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,10:30,booked,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,11:00,booked,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,11:30,booked,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,12:00,free,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,12:30,free,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,13:00,booked,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,13:30,booked,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,14:00,booked,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,14:30,free,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,15:00,free,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,15:30,free,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,16:00,free,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,16:30,free,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,17:00,booked,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,17:30,booked,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,18:00,booked,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,18:30,booked,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,19:00,booked,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,19:30,booked,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,20:00,booked,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,20:30,booked,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,21:00,booked,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,21:30,free,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,22:00,free,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,22:30,free,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,23:00,free,2026-10-05T13:22:02+02:00
+neride,f005eac0-48e5-439b-a757-8ce5d21b4a03,Kurt 2,23:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,07:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,07:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,08:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,08:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,09:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,09:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,10:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,10:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,11:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,11:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,12:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,12:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,13:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,13:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,14:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,14:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,15:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,15:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,16:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,16:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,17:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,17:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,18:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,18:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,19:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,19:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,20:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,20:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,21:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,21:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,22:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,22:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,23:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmr26l1h1007x01mjtayoq2fn,Kurt 1,23:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,07:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,07:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,08:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,08:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,09:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,09:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,10:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,10:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,11:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,11:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,12:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,12:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,13:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,13:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,14:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,14:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,15:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,15:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,16:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,16:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,17:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,17:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,18:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,18:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,19:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,19:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,20:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,20:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,21:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,21:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,22:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,22:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,23:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep56bi00av01pkna7dycin,Kurt 2,23:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,07:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,07:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,08:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,08:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,09:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,09:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,10:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,10:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,11:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,11:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,12:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,12:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,13:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,13:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,14:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,14:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,15:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,15:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,16:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,16:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,17:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,17:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,18:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,18:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,19:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,19:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,20:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,20:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,21:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,21:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,22:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,22:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,23:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5kih00aw01pk2rju6tzc,Kurt 3,23:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,07:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,07:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,08:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,08:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,09:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,09:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,10:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,10:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,11:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,11:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,12:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,12:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,13:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,13:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,14:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,14:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,15:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,15:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,16:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,16:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,17:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,17:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,18:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,18:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,19:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,19:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,20:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,20:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,21:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,21:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,22:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,22:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,23:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep5y3z00ax01pk088mc0j1,Kurt 4,23:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,07:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,07:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,08:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,08:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,09:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,09:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,10:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,10:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,11:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,11:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,12:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,12:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,13:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,13:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,14:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,14:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,15:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,15:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,16:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,16:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,17:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,17:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,18:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,18:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,19:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,19:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,20:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,20:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,21:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,21:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,22:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,22:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,23:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6hyw00ay01pkylq2zucl,Kurt 5,23:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,07:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,07:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,08:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,08:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,09:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,09:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,10:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,10:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,11:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,11:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,12:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,12:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,13:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,13:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,14:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,14:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,15:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,15:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,16:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,16:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,17:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,17:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,18:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,18:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,19:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,19:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,20:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,20:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,21:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,21:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,22:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,22:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,23:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep6v8f00az01pk09m266og,Kurt 6,23:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,07:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,07:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,08:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,08:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,09:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,09:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,10:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,10:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,11:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,11:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,12:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,12:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,13:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,13:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,14:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,14:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,15:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,15:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,16:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,16:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,17:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,17:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,18:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,18:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,19:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,19:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,20:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,20:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,21:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,21:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,22:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,22:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,23:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep78xe00b001pkh4fkx5uz,Kurt 7,23:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,07:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,07:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,08:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,08:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,09:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,09:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,10:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,10:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,11:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,11:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,12:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,12:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,13:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,13:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,14:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,14:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,15:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,15:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,16:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,16:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,17:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,17:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,18:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,18:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,19:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,19:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,20:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,20:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,21:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,21:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,22:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,22:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,23:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7jq400b101pkq5hc6hvq,Kurt 8,23:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,07:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,07:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,08:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,08:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,09:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,09:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,10:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,10:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,11:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,11:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,12:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,12:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,13:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,13:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,14:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,14:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,15:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,15:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,16:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,16:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,17:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,17:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,18:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,18:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,19:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,19:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,20:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,20:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,21:00,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,21:30,booked,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,22:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,22:30,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,23:00,free,2026-10-05T13:22:02+02:00
+onepadel,cmrep7ugr00b201pkh04tv5o2,Kurt 9,23:30,free,2026-10-05T13:22:02+02:00
 plechovka,102,Kurt 1,08:00,free,2026-10-05T00:17:57+02:00
 plechovka,102,Kurt 1,08:30,free,2026-10-05T00:17:57+02:00
 plechovka,102,Kurt 1,09:00,free,2026-10-05T00:17:57+02:00
@@ -912,22 +912,22 @@ plechovka,102,Kurt 1,11:30,booked,2026-10-05T00:17:57+02:00
 plechovka,102,Kurt 1,12:00,free,2026-10-05T00:17:57+02:00
 plechovka,102,Kurt 1,12:30,free,2026-10-05T00:17:57+02:00
 plechovka,102,Kurt 1,13:00,free,2026-10-05T00:17:57+02:00
-plechovka,102,Kurt 1,13:30,free,2026-10-05T00:17:57+02:00
-plechovka,102,Kurt 1,14:00,free,2026-10-05T00:17:57+02:00
-plechovka,102,Kurt 1,14:30,free,2026-10-05T00:17:57+02:00
-plechovka,102,Kurt 1,15:00,free,2026-10-05T00:17:57+02:00
-plechovka,102,Kurt 1,15:30,free,2026-10-05T00:17:57+02:00
-plechovka,102,Kurt 1,16:00,booked,2026-10-05T00:17:57+02:00
-plechovka,102,Kurt 1,16:30,booked,2026-10-05T00:17:57+02:00
-plechovka,102,Kurt 1,17:00,booked,2026-10-05T00:17:57+02:00
-plechovka,102,Kurt 1,17:30,booked,2026-10-05T00:17:57+02:00
-plechovka,102,Kurt 1,18:00,booked,2026-10-05T00:17:57+02:00
-plechovka,102,Kurt 1,18:30,booked,2026-10-05T00:17:57+02:00
-plechovka,102,Kurt 1,19:00,free,2026-10-05T00:17:57+02:00
-plechovka,102,Kurt 1,19:30,free,2026-10-05T00:17:57+02:00
-plechovka,102,Kurt 1,20:00,free,2026-10-05T00:17:57+02:00
-plechovka,102,Kurt 1,20:30,free,2026-10-05T00:17:57+02:00
-plechovka,102,Kurt 1,21:00,free,2026-10-05T00:17:57+02:00
+plechovka,102,Kurt 1,13:30,free,2026-10-05T13:22:02+02:00
+plechovka,102,Kurt 1,14:00,free,2026-10-05T13:22:02+02:00
+plechovka,102,Kurt 1,14:30,free,2026-10-05T13:22:02+02:00
+plechovka,102,Kurt 1,15:00,free,2026-10-05T13:22:02+02:00
+plechovka,102,Kurt 1,15:30,free,2026-10-05T13:22:02+02:00
+plechovka,102,Kurt 1,16:00,booked,2026-10-05T13:22:02+02:00
+plechovka,102,Kurt 1,16:30,booked,2026-10-05T13:22:02+02:00
+plechovka,102,Kurt 1,17:00,booked,2026-10-05T13:22:02+02:00
+plechovka,102,Kurt 1,17:30,booked,2026-10-05T13:22:02+02:00
+plechovka,102,Kurt 1,18:00,booked,2026-10-05T13:22:02+02:00
+plechovka,102,Kurt 1,18:30,booked,2026-10-05T13:22:02+02:00
+plechovka,102,Kurt 1,19:00,booked,2026-10-05T13:22:02+02:00
+plechovka,102,Kurt 1,19:30,booked,2026-10-05T13:22:02+02:00
+plechovka,102,Kurt 1,20:00,booked,2026-10-05T13:22:02+02:00
+plechovka,102,Kurt 1,20:30,free,2026-10-05T13:22:02+02:00
+plechovka,102,Kurt 1,21:00,free,2026-10-05T13:22:02+02:00
 plechovka,103,Kurt 2,08:00,free,2026-10-05T00:17:57+02:00
 plechovka,103,Kurt 2,08:30,free,2026-10-05T00:17:57+02:00
 plechovka,103,Kurt 2,09:00,free,2026-10-05T00:17:57+02:00
@@ -939,22 +939,22 @@ plechovka,103,Kurt 2,11:30,free,2026-10-05T00:17:57+02:00
 plechovka,103,Kurt 2,12:00,free,2026-10-05T00:17:57+02:00
 plechovka,103,Kurt 2,12:30,free,2026-10-05T00:17:57+02:00
 plechovka,103,Kurt 2,13:00,free,2026-10-05T00:17:57+02:00
-plechovka,103,Kurt 2,13:30,free,2026-10-05T00:17:57+02:00
-plechovka,103,Kurt 2,14:00,free,2026-10-05T00:17:57+02:00
-plechovka,103,Kurt 2,14:30,free,2026-10-05T00:17:57+02:00
-plechovka,103,Kurt 2,15:00,free,2026-10-05T00:17:57+02:00
-plechovka,103,Kurt 2,15:30,free,2026-10-05T00:17:57+02:00
-plechovka,103,Kurt 2,16:00,free,2026-10-05T00:17:57+02:00
-plechovka,103,Kurt 2,16:30,free,2026-10-05T00:17:57+02:00
-plechovka,103,Kurt 2,17:00,free,2026-10-05T00:17:57+02:00
-plechovka,103,Kurt 2,17:30,free,2026-10-05T00:17:57+02:00
-plechovka,103,Kurt 2,18:00,free,2026-10-05T00:17:57+02:00
-plechovka,103,Kurt 2,18:30,free,2026-10-05T00:17:57+02:00
-plechovka,103,Kurt 2,19:00,free,2026-10-05T00:17:57+02:00
-plechovka,103,Kurt 2,19:30,free,2026-10-05T00:17:57+02:00
-plechovka,103,Kurt 2,20:00,free,2026-10-05T00:17:57+02:00
-plechovka,103,Kurt 2,20:30,free,2026-10-05T00:17:57+02:00
-plechovka,103,Kurt 2,21:00,free,2026-10-05T00:17:57+02:00
+plechovka,103,Kurt 2,13:30,free,2026-10-05T13:22:02+02:00
+plechovka,103,Kurt 2,14:00,free,2026-10-05T13:22:02+02:00
+plechovka,103,Kurt 2,14:30,free,2026-10-05T13:22:02+02:00
+plechovka,103,Kurt 2,15:00,free,2026-10-05T13:22:02+02:00
+plechovka,103,Kurt 2,15:30,free,2026-10-05T13:22:02+02:00
+plechovka,103,Kurt 2,16:00,free,2026-10-05T13:22:02+02:00
+plechovka,103,Kurt 2,16:30,free,2026-10-05T13:22:02+02:00
+plechovka,103,Kurt 2,17:00,free,2026-10-05T13:22:02+02:00
+plechovka,103,Kurt 2,17:30,free,2026-10-05T13:22:02+02:00
+plechovka,103,Kurt 2,18:00,free,2026-10-05T13:22:02+02:00
+plechovka,103,Kurt 2,18:30,free,2026-10-05T13:22:02+02:00
+plechovka,103,Kurt 2,19:00,free,2026-10-05T13:22:02+02:00
+plechovka,103,Kurt 2,19:30,free,2026-10-05T13:22:02+02:00
+plechovka,103,Kurt 2,20:00,free,2026-10-05T13:22:02+02:00
+plechovka,103,Kurt 2,20:30,free,2026-10-05T13:22:02+02:00
+plechovka,103,Kurt 2,21:00,free,2026-10-05T13:22:02+02:00
 plechovka,104,Kurt 3,08:00,free,2026-10-05T00:17:57+02:00
 plechovka,104,Kurt 3,08:30,free,2026-10-05T00:17:57+02:00
 plechovka,104,Kurt 3,09:00,booked,2026-10-05T00:17:57+02:00
@@ -966,22 +966,22 @@ plechovka,104,Kurt 3,11:30,free,2026-10-05T00:17:57+02:00
 plechovka,104,Kurt 3,12:00,free,2026-10-05T00:17:57+02:00
 plechovka,104,Kurt 3,12:30,free,2026-10-05T00:17:57+02:00
 plechovka,104,Kurt 3,13:00,free,2026-10-05T00:17:57+02:00
-plechovka,104,Kurt 3,13:30,free,2026-10-05T00:17:57+02:00
-plechovka,104,Kurt 3,14:00,free,2026-10-05T00:17:57+02:00
-plechovka,104,Kurt 3,14:30,free,2026-10-05T00:17:57+02:00
-plechovka,104,Kurt 3,15:00,free,2026-10-05T00:17:57+02:00
-plechovka,104,Kurt 3,15:30,free,2026-10-05T00:17:57+02:00
-plechovka,104,Kurt 3,16:00,free,2026-10-05T00:17:57+02:00
-plechovka,104,Kurt 3,16:30,free,2026-10-05T00:17:57+02:00
-plechovka,104,Kurt 3,17:00,booked,2026-10-05T00:17:57+02:00
-plechovka,104,Kurt 3,17:30,booked,2026-10-05T00:17:57+02:00
-plechovka,104,Kurt 3,18:00,booked,2026-10-05T00:17:57+02:00
-plechovka,104,Kurt 3,18:30,free,2026-10-05T00:17:57+02:00
-plechovka,104,Kurt 3,19:00,booked,2026-10-05T00:17:57+02:00
-plechovka,104,Kurt 3,19:30,booked,2026-10-05T00:17:57+02:00
-plechovka,104,Kurt 3,20:00,booked,2026-10-05T00:17:57+02:00
-plechovka,104,Kurt 3,20:30,booked,2026-10-05T00:17:57+02:00
-plechovka,104,Kurt 3,21:00,booked,2026-10-05T00:17:57+02:00
+plechovka,104,Kurt 3,13:30,free,2026-10-05T13:22:02+02:00
+plechovka,104,Kurt 3,14:00,free,2026-10-05T13:22:02+02:00
+plechovka,104,Kurt 3,14:30,free,2026-10-05T13:22:02+02:00
+plechovka,104,Kurt 3,15:00,free,2026-10-05T13:22:02+02:00
+plechovka,104,Kurt 3,15:30,free,2026-10-05T13:22:02+02:00
+plechovka,104,Kurt 3,16:00,free,2026-10-05T13:22:02+02:00
+plechovka,104,Kurt 3,16:30,free,2026-10-05T13:22:02+02:00
+plechovka,104,Kurt 3,17:00,booked,2026-10-05T13:22:02+02:00
+plechovka,104,Kurt 3,17:30,booked,2026-10-05T13:22:02+02:00
+plechovka,104,Kurt 3,18:00,booked,2026-10-05T13:22:02+02:00
+plechovka,104,Kurt 3,18:30,free,2026-10-05T13:22:02+02:00
+plechovka,104,Kurt 3,19:00,booked,2026-10-05T13:22:02+02:00
+plechovka,104,Kurt 3,19:30,booked,2026-10-05T13:22:02+02:00
+plechovka,104,Kurt 3,20:00,booked,2026-10-05T13:22:02+02:00
+plechovka,104,Kurt 3,20:30,booked,2026-10-05T13:22:02+02:00
+plechovka,104,Kurt 3,21:00,booked,2026-10-05T13:22:02+02:00
 powers,60030,Court 1,06:00,free,2026-10-05T00:17:57+02:00
 powers,60030,Court 1,06:30,free,2026-10-05T00:17:57+02:00
 powers,60030,Court 1,07:00,booked,2026-10-05T00:17:57+02:00
@@ -997,27 +997,27 @@ powers,60030,Court 1,11:30,free,2026-10-05T00:17:57+02:00
 powers,60030,Court 1,12:00,free,2026-10-05T00:17:57+02:00
 powers,60030,Court 1,12:30,free,2026-10-05T00:17:57+02:00
 powers,60030,Court 1,13:00,free,2026-10-05T00:17:57+02:00
-powers,60030,Court 1,13:30,free,2026-10-05T00:17:57+02:00
-powers,60030,Court 1,14:00,free,2026-10-05T00:17:57+02:00
-powers,60030,Court 1,14:30,free,2026-10-05T00:17:57+02:00
-powers,60030,Court 1,15:00,free,2026-10-05T00:17:57+02:00
-powers,60030,Court 1,15:30,free,2026-10-05T00:17:57+02:00
-powers,60030,Court 1,16:00,booked,2026-10-05T00:17:57+02:00
-powers,60030,Court 1,16:30,booked,2026-10-05T00:17:57+02:00
-powers,60030,Court 1,17:00,booked,2026-10-05T00:17:57+02:00
-powers,60030,Court 1,17:30,booked,2026-10-05T00:17:57+02:00
-powers,60030,Court 1,18:00,booked,2026-10-05T00:17:57+02:00
-powers,60030,Court 1,18:30,booked,2026-10-05T00:17:57+02:00
-powers,60030,Court 1,19:00,booked,2026-10-05T00:17:57+02:00
-powers,60030,Court 1,19:30,booked,2026-10-05T00:17:57+02:00
-powers,60030,Court 1,20:00,booked,2026-10-05T00:17:57+02:00
-powers,60030,Court 1,20:30,booked,2026-10-05T00:17:57+02:00
-powers,60030,Court 1,21:00,booked,2026-10-05T00:17:57+02:00
-powers,60030,Court 1,21:30,free,2026-10-05T00:17:57+02:00
-powers,60030,Court 1,22:00,free,2026-10-05T00:17:57+02:00
-powers,60030,Court 1,22:30,free,2026-10-05T00:17:57+02:00
-powers,60030,Court 1,23:00,free,2026-10-05T00:17:57+02:00
-powers,60030,Court 1,23:30,free,2026-10-05T00:17:57+02:00
+powers,60030,Court 1,13:30,free,2026-10-05T13:22:02+02:00
+powers,60030,Court 1,14:00,free,2026-10-05T13:22:02+02:00
+powers,60030,Court 1,14:30,free,2026-10-05T13:22:02+02:00
+powers,60030,Court 1,15:00,free,2026-10-05T13:22:02+02:00
+powers,60030,Court 1,15:30,free,2026-10-05T13:22:02+02:00
+powers,60030,Court 1,16:00,booked,2026-10-05T13:22:02+02:00
+powers,60030,Court 1,16:30,booked,2026-10-05T13:22:02+02:00
+powers,60030,Court 1,17:00,booked,2026-10-05T13:22:02+02:00
+powers,60030,Court 1,17:30,booked,2026-10-05T13:22:02+02:00
+powers,60030,Court 1,18:00,booked,2026-10-05T13:22:02+02:00
+powers,60030,Court 1,18:30,booked,2026-10-05T13:22:02+02:00
+powers,60030,Court 1,19:00,booked,2026-10-05T13:22:02+02:00
+powers,60030,Court 1,19:30,booked,2026-10-05T13:22:02+02:00
+powers,60030,Court 1,20:00,booked,2026-10-05T13:22:02+02:00
+powers,60030,Court 1,20:30,booked,2026-10-05T13:22:02+02:00
+powers,60030,Court 1,21:00,booked,2026-10-05T13:22:02+02:00
+powers,60030,Court 1,21:30,free,2026-10-05T13:22:02+02:00
+powers,60030,Court 1,22:00,free,2026-10-05T13:22:02+02:00
+powers,60030,Court 1,22:30,free,2026-10-05T13:22:02+02:00
+powers,60030,Court 1,23:00,free,2026-10-05T13:22:02+02:00
+powers,60030,Court 1,23:30,free,2026-10-05T13:22:02+02:00
 powers,60031,Court 2,06:00,free,2026-10-05T00:17:57+02:00
 powers,60031,Court 2,06:30,free,2026-10-05T00:17:57+02:00
 powers,60031,Court 2,07:00,free,2026-10-05T00:17:57+02:00
@@ -1033,27 +1033,27 @@ powers,60031,Court 2,11:30,booked,2026-10-05T00:17:57+02:00
 powers,60031,Court 2,12:00,booked,2026-10-05T00:17:57+02:00
 powers,60031,Court 2,12:30,free,2026-10-05T00:17:57+02:00
 powers,60031,Court 2,13:00,free,2026-10-05T00:17:57+02:00
-powers,60031,Court 2,13:30,free,2026-10-05T00:17:57+02:00
-powers,60031,Court 2,14:00,free,2026-10-05T00:17:57+02:00
-powers,60031,Court 2,14:30,booked,2026-10-05T00:17:57+02:00
-powers,60031,Court 2,15:00,booked,2026-10-05T00:17:57+02:00
-powers,60031,Court 2,15:30,booked,2026-10-05T00:17:57+02:00
-powers,60031,Court 2,16:00,booked,2026-10-05T00:17:57+02:00
-powers,60031,Court 2,16:30,booked,2026-10-05T00:17:57+02:00
-powers,60031,Court 2,17:00,booked,2026-10-05T00:17:57+02:00
-powers,60031,Court 2,17:30,booked,2026-10-05T00:17:57+02:00
-powers,60031,Court 2,18:00,free,2026-10-05T00:17:57+02:00
-powers,60031,Court 2,18:30,free,2026-10-05T00:17:57+02:00
-powers,60031,Court 2,19:00,free,2026-10-05T00:17:57+02:00
-powers,60031,Court 2,19:30,free,2026-10-05T00:17:57+02:00
-powers,60031,Court 2,20:00,booked,2026-10-05T00:17:57+02:00
-powers,60031,Court 2,20:30,booked,2026-10-05T00:17:57+02:00
-powers,60031,Court 2,21:00,booked,2026-10-05T00:17:57+02:00
-powers,60031,Court 2,21:30,booked,2026-10-05T00:17:57+02:00
-powers,60031,Court 2,22:00,free,2026-10-05T00:17:57+02:00
-powers,60031,Court 2,22:30,free,2026-10-05T00:17:57+02:00
-powers,60031,Court 2,23:00,free,2026-10-05T00:17:57+02:00
-powers,60031,Court 2,23:30,free,2026-10-05T00:17:57+02:00
+powers,60031,Court 2,13:30,free,2026-10-05T13:22:02+02:00
+powers,60031,Court 2,14:00,free,2026-10-05T13:22:02+02:00
+powers,60031,Court 2,14:30,booked,2026-10-05T13:22:02+02:00
+powers,60031,Court 2,15:00,booked,2026-10-05T13:22:02+02:00
+powers,60031,Court 2,15:30,booked,2026-10-05T13:22:02+02:00
+powers,60031,Court 2,16:00,booked,2026-10-05T13:22:02+02:00
+powers,60031,Court 2,16:30,booked,2026-10-05T13:22:02+02:00
+powers,60031,Court 2,17:00,booked,2026-10-05T13:22:02+02:00
+powers,60031,Court 2,17:30,booked,2026-10-05T13:22:02+02:00
+powers,60031,Court 2,18:00,free,2026-10-05T13:22:02+02:00
+powers,60031,Court 2,18:30,free,2026-10-05T13:22:02+02:00
+powers,60031,Court 2,19:00,booked,2026-10-05T13:22:02+02:00
+powers,60031,Court 2,19:30,booked,2026-10-05T13:22:02+02:00
+powers,60031,Court 2,20:00,booked,2026-10-05T13:22:02+02:00
+powers,60031,Court 2,20:30,booked,2026-10-05T13:22:02+02:00
+powers,60031,Court 2,21:00,booked,2026-10-05T13:22:02+02:00
+powers,60031,Court 2,21:30,booked,2026-10-05T13:22:02+02:00
+powers,60031,Court 2,22:00,free,2026-10-05T13:22:02+02:00
+powers,60031,Court 2,22:30,free,2026-10-05T13:22:02+02:00
+powers,60031,Court 2,23:00,free,2026-10-05T13:22:02+02:00
+powers,60031,Court 2,23:30,free,2026-10-05T13:22:02+02:00
 powers,60032,Court 3,06:00,free,2026-10-05T00:17:57+02:00
 powers,60032,Court 3,06:30,free,2026-10-05T00:17:57+02:00
 powers,60032,Court 3,07:00,booked,2026-10-05T00:17:57+02:00
@@ -1069,27 +1069,27 @@ powers,60032,Court 3,11:30,free,2026-10-05T00:17:57+02:00
 powers,60032,Court 3,12:00,free,2026-10-05T00:17:57+02:00
 powers,60032,Court 3,12:30,free,2026-10-05T00:17:57+02:00
 powers,60032,Court 3,13:00,free,2026-10-05T00:17:57+02:00
-powers,60032,Court 3,13:30,free,2026-10-05T00:17:57+02:00
-powers,60032,Court 3,14:00,free,2026-10-05T00:17:57+02:00
-powers,60032,Court 3,14:30,free,2026-10-05T00:17:57+02:00
-powers,60032,Court 3,15:00,free,2026-10-05T00:17:57+02:00
-powers,60032,Court 3,15:30,free,2026-10-05T00:17:57+02:00
-powers,60032,Court 3,16:00,booked,2026-10-05T00:17:57+02:00
-powers,60032,Court 3,16:30,booked,2026-10-05T00:17:57+02:00
-powers,60032,Court 3,17:00,booked,2026-10-05T00:17:57+02:00
-powers,60032,Court 3,17:30,booked,2026-10-05T00:17:57+02:00
-powers,60032,Court 3,18:00,booked,2026-10-05T00:17:57+02:00
-powers,60032,Court 3,18:30,booked,2026-10-05T00:17:57+02:00
-powers,60032,Court 3,19:00,booked,2026-10-05T00:17:57+02:00
-powers,60032,Court 3,19:30,booked,2026-10-05T00:17:57+02:00
-powers,60032,Court 3,20:00,booked,2026-10-05T00:17:57+02:00
-powers,60032,Court 3,20:30,booked,2026-10-05T00:17:57+02:00
-powers,60032,Court 3,21:00,booked,2026-10-05T00:17:57+02:00
-powers,60032,Court 3,21:30,booked,2026-10-05T00:17:57+02:00
-powers,60032,Court 3,22:00,free,2026-10-05T00:17:57+02:00
-powers,60032,Court 3,22:30,free,2026-10-05T00:17:57+02:00
-powers,60032,Court 3,23:00,free,2026-10-05T00:17:57+02:00
-powers,60032,Court 3,23:30,free,2026-10-05T00:17:57+02:00
+powers,60032,Court 3,13:30,free,2026-10-05T13:22:02+02:00
+powers,60032,Court 3,14:00,free,2026-10-05T13:22:02+02:00
+powers,60032,Court 3,14:30,free,2026-10-05T13:22:02+02:00
+powers,60032,Court 3,15:00,free,2026-10-05T13:22:02+02:00
+powers,60032,Court 3,15:30,free,2026-10-05T13:22:02+02:00
+powers,60032,Court 3,16:00,free,2026-10-05T13:22:02+02:00
+powers,60032,Court 3,16:30,free,2026-10-05T13:22:02+02:00
+powers,60032,Court 3,17:00,booked,2026-10-05T13:22:02+02:00
+powers,60032,Court 3,17:30,booked,2026-10-05T13:22:02+02:00
+powers,60032,Court 3,18:00,booked,2026-10-05T13:22:02+02:00
+powers,60032,Court 3,18:30,booked,2026-10-05T13:22:02+02:00
+powers,60032,Court 3,19:00,booked,2026-10-05T13:22:02+02:00
+powers,60032,Court 3,19:30,booked,2026-10-05T13:22:02+02:00
+powers,60032,Court 3,20:00,booked,2026-10-05T13:22:02+02:00
+powers,60032,Court 3,20:30,booked,2026-10-05T13:22:02+02:00
+powers,60032,Court 3,21:00,booked,2026-10-05T13:22:02+02:00
+powers,60032,Court 3,21:30,booked,2026-10-05T13:22:02+02:00
+powers,60032,Court 3,22:00,free,2026-10-05T13:22:02+02:00
+powers,60032,Court 3,22:30,free,2026-10-05T13:22:02+02:00
+powers,60032,Court 3,23:00,free,2026-10-05T13:22:02+02:00
+powers,60032,Court 3,23:30,free,2026-10-05T13:22:02+02:00
 powers,60033,Court 4,06:00,free,2026-10-05T00:17:57+02:00
 powers,60033,Court 4,06:30,free,2026-10-05T00:17:57+02:00
 powers,60033,Court 4,07:00,free,2026-10-05T00:17:57+02:00
@@ -1105,27 +1105,27 @@ powers,60033,Court 4,11:30,free,2026-10-05T00:17:57+02:00
 powers,60033,Court 4,12:00,free,2026-10-05T00:17:57+02:00
 powers,60033,Court 4,12:30,free,2026-10-05T00:17:57+02:00
 powers,60033,Court 4,13:00,free,2026-10-05T00:17:57+02:00
-powers,60033,Court 4,13:30,free,2026-10-05T00:17:57+02:00
-powers,60033,Court 4,14:00,free,2026-10-05T00:17:57+02:00
-powers,60033,Court 4,14:30,free,2026-10-05T00:17:57+02:00
-powers,60033,Court 4,15:00,free,2026-10-05T00:17:57+02:00
-powers,60033,Court 4,15:30,free,2026-10-05T00:17:57+02:00
-powers,60033,Court 4,16:00,booked,2026-10-05T00:17:57+02:00
-powers,60033,Court 4,16:30,booked,2026-10-05T00:17:57+02:00
-powers,60033,Court 4,17:00,booked,2026-10-05T00:17:57+02:00
-powers,60033,Court 4,17:30,booked,2026-10-05T00:17:57+02:00
-powers,60033,Court 4,18:00,booked,2026-10-05T00:17:57+02:00
-powers,60033,Court 4,18:30,booked,2026-10-05T00:17:57+02:00
-powers,60033,Court 4,19:00,booked,2026-10-05T00:17:57+02:00
-powers,60033,Court 4,19:30,booked,2026-10-05T00:17:57+02:00
-powers,60033,Court 4,20:00,booked,2026-10-05T00:17:57+02:00
-powers,60033,Court 4,20:30,booked,2026-10-05T00:17:57+02:00
-powers,60033,Court 4,21:00,booked,2026-10-05T00:17:57+02:00
-powers,60033,Court 4,21:30,free,2026-10-05T00:17:57+02:00
-powers,60033,Court 4,22:00,free,2026-10-05T00:17:57+02:00
-powers,60033,Court 4,22:30,free,2026-10-05T00:17:57+02:00
-powers,60033,Court 4,23:00,free,2026-10-05T00:17:57+02:00
-powers,60033,Court 4,23:30,free,2026-10-05T00:17:57+02:00
+powers,60033,Court 4,13:30,free,2026-10-05T13:22:02+02:00
+powers,60033,Court 4,14:00,free,2026-10-05T13:22:02+02:00
+powers,60033,Court 4,14:30,free,2026-10-05T13:22:02+02:00
+powers,60033,Court 4,15:00,free,2026-10-05T13:22:02+02:00
+powers,60033,Court 4,15:30,free,2026-10-05T13:22:02+02:00
+powers,60033,Court 4,16:00,booked,2026-10-05T13:22:02+02:00
+powers,60033,Court 4,16:30,booked,2026-10-05T13:22:02+02:00
+powers,60033,Court 4,17:00,booked,2026-10-05T13:22:02+02:00
+powers,60033,Court 4,17:30,booked,2026-10-05T13:22:02+02:00
+powers,60033,Court 4,18:00,booked,2026-10-05T13:22:02+02:00
+powers,60033,Court 4,18:30,booked,2026-10-05T13:22:02+02:00
+powers,60033,Court 4,19:00,booked,2026-10-05T13:22:02+02:00
+powers,60033,Court 4,19:30,booked,2026-10-05T13:22:02+02:00
+powers,60033,Court 4,20:00,booked,2026-10-05T13:22:02+02:00
+powers,60033,Court 4,20:30,booked,2026-10-05T13:22:02+02:00
+powers,60033,Court 4,21:00,booked,2026-10-05T13:22:02+02:00
+powers,60033,Court 4,21:30,booked,2026-10-05T13:22:02+02:00
+powers,60033,Court 4,22:00,booked,2026-10-05T13:22:02+02:00
+powers,60033,Court 4,22:30,free,2026-10-05T13:22:02+02:00
+powers,60033,Court 4,23:00,free,2026-10-05T13:22:02+02:00
+powers,60033,Court 4,23:30,free,2026-10-05T13:22:02+02:00
 powers,60034,Court 5,06:00,free,2026-10-05T00:17:57+02:00
 powers,60034,Court 5,06:30,free,2026-10-05T00:17:57+02:00
 powers,60034,Court 5,07:00,booked,2026-10-05T00:17:57+02:00
@@ -1141,27 +1141,27 @@ powers,60034,Court 5,11:30,booked,2026-10-05T00:17:57+02:00
 powers,60034,Court 5,12:00,booked,2026-10-05T00:17:57+02:00
 powers,60034,Court 5,12:30,free,2026-10-05T00:17:57+02:00
 powers,60034,Court 5,13:00,free,2026-10-05T00:17:57+02:00
-powers,60034,Court 5,13:30,free,2026-10-05T00:17:57+02:00
-powers,60034,Court 5,14:00,free,2026-10-05T00:17:57+02:00
-powers,60034,Court 5,14:30,free,2026-10-05T00:17:57+02:00
-powers,60034,Court 5,15:00,free,2026-10-05T00:17:57+02:00
-powers,60034,Court 5,15:30,free,2026-10-05T00:17:57+02:00
-powers,60034,Court 5,16:00,booked,2026-10-05T00:17:57+02:00
-powers,60034,Court 5,16:30,booked,2026-10-05T00:17:57+02:00
-powers,60034,Court 5,17:00,booked,2026-10-05T00:17:57+02:00
-powers,60034,Court 5,17:30,booked,2026-10-05T00:17:57+02:00
-powers,60034,Court 5,18:00,booked,2026-10-05T00:17:57+02:00
-powers,60034,Court 5,18:30,free,2026-10-05T00:17:57+02:00
-powers,60034,Court 5,19:00,free,2026-10-05T00:17:57+02:00
-powers,60034,Court 5,19:30,booked,2026-10-05T00:17:57+02:00
-powers,60034,Court 5,20:00,booked,2026-10-05T00:17:57+02:00
-powers,60034,Court 5,20:30,booked,2026-10-05T00:17:57+02:00
-powers,60034,Court 5,21:00,booked,2026-10-05T00:17:57+02:00
-powers,60034,Court 5,21:30,free,2026-10-05T00:17:57+02:00
-powers,60034,Court 5,22:00,free,2026-10-05T00:17:57+02:00
-powers,60034,Court 5,22:30,free,2026-10-05T00:17:57+02:00
-powers,60034,Court 5,23:00,free,2026-10-05T00:17:57+02:00
-powers,60034,Court 5,23:30,free,2026-10-05T00:17:57+02:00
+powers,60034,Court 5,13:30,free,2026-10-05T13:22:02+02:00
+powers,60034,Court 5,14:00,free,2026-10-05T13:22:02+02:00
+powers,60034,Court 5,14:30,free,2026-10-05T13:22:02+02:00
+powers,60034,Court 5,15:00,free,2026-10-05T13:22:02+02:00
+powers,60034,Court 5,15:30,free,2026-10-05T13:22:02+02:00
+powers,60034,Court 5,16:00,booked,2026-10-05T13:22:02+02:00
+powers,60034,Court 5,16:30,booked,2026-10-05T13:22:02+02:00
+powers,60034,Court 5,17:00,booked,2026-10-05T13:22:02+02:00
+powers,60034,Court 5,17:30,booked,2026-10-05T13:22:02+02:00
+powers,60034,Court 5,18:00,booked,2026-10-05T13:22:02+02:00
+powers,60034,Court 5,18:30,free,2026-10-05T13:22:02+02:00
+powers,60034,Court 5,19:00,free,2026-10-05T13:22:02+02:00
+powers,60034,Court 5,19:30,booked,2026-10-05T13:22:02+02:00
+powers,60034,Court 5,20:00,booked,2026-10-05T13:22:02+02:00
+powers,60034,Court 5,20:30,booked,2026-10-05T13:22:02+02:00
+powers,60034,Court 5,21:00,booked,2026-10-05T13:22:02+02:00
+powers,60034,Court 5,21:30,free,2026-10-05T13:22:02+02:00
+powers,60034,Court 5,22:00,free,2026-10-05T13:22:02+02:00
+powers,60034,Court 5,22:30,free,2026-10-05T13:22:02+02:00
+powers,60034,Court 5,23:00,free,2026-10-05T13:22:02+02:00
+powers,60034,Court 5,23:30,free,2026-10-05T13:22:02+02:00
 powers,60035,Court 6,06:00,free,2026-10-05T00:17:57+02:00
 powers,60035,Court 6,06:30,free,2026-10-05T00:17:57+02:00
 powers,60035,Court 6,07:00,free,2026-10-05T00:17:57+02:00
@@ -1177,27 +1177,27 @@ powers,60035,Court 6,11:30,free,2026-10-05T00:17:57+02:00
 powers,60035,Court 6,12:00,free,2026-10-05T00:17:57+02:00
 powers,60035,Court 6,12:30,free,2026-10-05T00:17:57+02:00
 powers,60035,Court 6,13:00,booked,2026-10-05T00:17:57+02:00
-powers,60035,Court 6,13:30,booked,2026-10-05T00:17:57+02:00
-powers,60035,Court 6,14:00,booked,2026-10-05T00:17:57+02:00
-powers,60035,Court 6,14:30,booked,2026-10-05T00:17:57+02:00
-powers,60035,Court 6,15:00,booked,2026-10-05T00:17:57+02:00
-powers,60035,Court 6,15:30,booked,2026-10-05T00:17:57+02:00
-powers,60035,Court 6,16:00,booked,2026-10-05T00:17:57+02:00
-powers,60035,Court 6,16:30,booked,2026-10-05T00:17:57+02:00
-powers,60035,Court 6,17:00,booked,2026-10-05T00:17:57+02:00
-powers,60035,Court 6,17:30,booked,2026-10-05T00:17:57+02:00
-powers,60035,Court 6,18:00,booked,2026-10-05T00:17:57+02:00
-powers,60035,Court 6,18:30,booked,2026-10-05T00:17:57+02:00
-powers,60035,Court 6,19:00,free,2026-10-05T00:17:57+02:00
-powers,60035,Court 6,19:30,free,2026-10-05T00:17:57+02:00
-powers,60035,Court 6,20:00,booked,2026-10-05T00:17:57+02:00
-powers,60035,Court 6,20:30,booked,2026-10-05T00:17:57+02:00
-powers,60035,Court 6,21:00,booked,2026-10-05T00:17:57+02:00
-powers,60035,Court 6,21:30,free,2026-10-05T00:17:57+02:00
-powers,60035,Court 6,22:00,free,2026-10-05T00:17:57+02:00
-powers,60035,Court 6,22:30,free,2026-10-05T00:17:57+02:00
-powers,60035,Court 6,23:00,free,2026-10-05T00:17:57+02:00
-powers,60035,Court 6,23:30,free,2026-10-05T00:17:57+02:00
+powers,60035,Court 6,13:30,booked,2026-10-05T13:22:02+02:00
+powers,60035,Court 6,14:00,booked,2026-10-05T13:22:02+02:00
+powers,60035,Court 6,14:30,booked,2026-10-05T13:22:02+02:00
+powers,60035,Court 6,15:00,booked,2026-10-05T13:22:02+02:00
+powers,60035,Court 6,15:30,booked,2026-10-05T13:22:02+02:00
+powers,60035,Court 6,16:00,booked,2026-10-05T13:22:02+02:00
+powers,60035,Court 6,16:30,booked,2026-10-05T13:22:02+02:00
+powers,60035,Court 6,17:00,booked,2026-10-05T13:22:02+02:00
+powers,60035,Court 6,17:30,booked,2026-10-05T13:22:02+02:00
+powers,60035,Court 6,18:00,booked,2026-10-05T13:22:02+02:00
+powers,60035,Court 6,18:30,booked,2026-10-05T13:22:02+02:00
+powers,60035,Court 6,19:00,free,2026-10-05T13:22:02+02:00
+powers,60035,Court 6,19:30,free,2026-10-05T13:22:02+02:00
+powers,60035,Court 6,20:00,booked,2026-10-05T13:22:02+02:00
+powers,60035,Court 6,20:30,booked,2026-10-05T13:22:02+02:00
+powers,60035,Court 6,21:00,booked,2026-10-05T13:22:02+02:00
+powers,60035,Court 6,21:30,free,2026-10-05T13:22:02+02:00
+powers,60035,Court 6,22:00,free,2026-10-05T13:22:02+02:00
+powers,60035,Court 6,22:30,free,2026-10-05T13:22:02+02:00
+powers,60035,Court 6,23:00,free,2026-10-05T13:22:02+02:00
+powers,60035,Court 6,23:30,free,2026-10-05T13:22:02+02:00
 powers,60036,Court 7,06:00,free,2026-10-05T00:17:57+02:00
 powers,60036,Court 7,06:30,free,2026-10-05T00:17:57+02:00
 powers,60036,Court 7,07:00,booked,2026-10-05T00:17:57+02:00
@@ -1213,27 +1213,27 @@ powers,60036,Court 7,11:30,booked,2026-10-05T00:17:57+02:00
 powers,60036,Court 7,12:00,booked,2026-10-05T00:17:57+02:00
 powers,60036,Court 7,12:30,free,2026-10-05T00:17:57+02:00
 powers,60036,Court 7,13:00,free,2026-10-05T00:17:57+02:00
-powers,60036,Court 7,13:30,free,2026-10-05T00:17:57+02:00
-powers,60036,Court 7,14:00,free,2026-10-05T00:17:57+02:00
-powers,60036,Court 7,14:30,booked,2026-10-05T00:17:57+02:00
-powers,60036,Court 7,15:00,booked,2026-10-05T00:17:57+02:00
-powers,60036,Court 7,15:30,booked,2026-10-05T00:17:57+02:00
-powers,60036,Court 7,16:00,booked,2026-10-05T00:17:57+02:00
-powers,60036,Court 7,16:30,booked,2026-10-05T00:17:57+02:00
-powers,60036,Court 7,17:00,booked,2026-10-05T00:17:57+02:00
-powers,60036,Court 7,17:30,booked,2026-10-05T00:17:57+02:00
-powers,60036,Court 7,18:00,booked,2026-10-05T00:17:57+02:00
-powers,60036,Court 7,18:30,free,2026-10-05T00:17:57+02:00
-powers,60036,Court 7,19:00,free,2026-10-05T00:17:57+02:00
-powers,60036,Court 7,19:30,booked,2026-10-05T00:17:57+02:00
-powers,60036,Court 7,20:00,booked,2026-10-05T00:17:57+02:00
-powers,60036,Court 7,20:30,booked,2026-10-05T00:17:57+02:00
-powers,60036,Court 7,21:00,booked,2026-10-05T00:17:57+02:00
-powers,60036,Court 7,21:30,free,2026-10-05T00:17:57+02:00
-powers,60036,Court 7,22:00,free,2026-10-05T00:17:57+02:00
-powers,60036,Court 7,22:30,free,2026-10-05T00:17:57+02:00
-powers,60036,Court 7,23:00,free,2026-10-05T00:17:57+02:00
-powers,60036,Court 7,23:30,free,2026-10-05T00:17:57+02:00
+powers,60036,Court 7,13:30,free,2026-10-05T13:22:02+02:00
+powers,60036,Court 7,14:00,free,2026-10-05T13:22:02+02:00
+powers,60036,Court 7,14:30,booked,2026-10-05T13:22:02+02:00
+powers,60036,Court 7,15:00,booked,2026-10-05T13:22:02+02:00
+powers,60036,Court 7,15:30,booked,2026-10-05T13:22:02+02:00
+powers,60036,Court 7,16:00,booked,2026-10-05T13:22:02+02:00
+powers,60036,Court 7,16:30,booked,2026-10-05T13:22:02+02:00
+powers,60036,Court 7,17:00,booked,2026-10-05T13:22:02+02:00
+powers,60036,Court 7,17:30,booked,2026-10-05T13:22:02+02:00
+powers,60036,Court 7,18:00,booked,2026-10-05T13:22:02+02:00
+powers,60036,Court 7,18:30,free,2026-10-05T13:22:02+02:00
+powers,60036,Court 7,19:00,free,2026-10-05T13:22:02+02:00
+powers,60036,Court 7,19:30,booked,2026-10-05T13:22:02+02:00
+powers,60036,Court 7,20:00,booked,2026-10-05T13:22:02+02:00
+powers,60036,Court 7,20:30,booked,2026-10-05T13:22:02+02:00
+powers,60036,Court 7,21:00,booked,2026-10-05T13:22:02+02:00
+powers,60036,Court 7,21:30,free,2026-10-05T13:22:02+02:00
+powers,60036,Court 7,22:00,free,2026-10-05T13:22:02+02:00
+powers,60036,Court 7,22:30,free,2026-10-05T13:22:02+02:00
+powers,60036,Court 7,23:00,free,2026-10-05T13:22:02+02:00
+powers,60036,Court 7,23:30,free,2026-10-05T13:22:02+02:00
 powers,60037,Court 8,06:00,free,2026-10-05T00:17:57+02:00
 powers,60037,Court 8,06:30,free,2026-10-05T00:17:57+02:00
 powers,60037,Court 8,07:00,free,2026-10-05T00:17:57+02:00
@@ -1249,27 +1249,27 @@ powers,60037,Court 8,11:30,free,2026-10-05T00:17:57+02:00
 powers,60037,Court 8,12:00,free,2026-10-05T00:17:57+02:00
 powers,60037,Court 8,12:30,booked,2026-10-05T00:17:57+02:00
 powers,60037,Court 8,13:00,booked,2026-10-05T00:17:57+02:00
-powers,60037,Court 8,13:30,booked,2026-10-05T00:17:57+02:00
-powers,60037,Court 8,14:00,booked,2026-10-05T00:17:57+02:00
-powers,60037,Court 8,14:30,booked,2026-10-05T00:17:57+02:00
-powers,60037,Court 8,15:00,booked,2026-10-05T00:17:57+02:00
-powers,60037,Court 8,15:30,booked,2026-10-05T00:17:57+02:00
-powers,60037,Court 8,16:00,booked,2026-10-05T00:17:57+02:00
-powers,60037,Court 8,16:30,booked,2026-10-05T00:17:57+02:00
-powers,60037,Court 8,17:00,booked,2026-10-05T00:17:57+02:00
-powers,60037,Court 8,17:30,booked,2026-10-05T00:17:57+02:00
-powers,60037,Court 8,18:00,booked,2026-10-05T00:17:57+02:00
-powers,60037,Court 8,18:30,booked,2026-10-05T00:17:57+02:00
-powers,60037,Court 8,19:00,booked,2026-10-05T00:17:57+02:00
-powers,60037,Court 8,19:30,booked,2026-10-05T00:17:57+02:00
-powers,60037,Court 8,20:00,booked,2026-10-05T00:17:57+02:00
-powers,60037,Court 8,20:30,booked,2026-10-05T00:17:57+02:00
-powers,60037,Court 8,21:00,booked,2026-10-05T00:17:57+02:00
-powers,60037,Court 8,21:30,free,2026-10-05T00:17:57+02:00
-powers,60037,Court 8,22:00,free,2026-10-05T00:17:57+02:00
-powers,60037,Court 8,22:30,free,2026-10-05T00:17:57+02:00
-powers,60037,Court 8,23:00,free,2026-10-05T00:17:57+02:00
-powers,60037,Court 8,23:30,free,2026-10-05T00:17:57+02:00
+powers,60037,Court 8,13:30,booked,2026-10-05T13:22:02+02:00
+powers,60037,Court 8,14:00,booked,2026-10-05T13:22:02+02:00
+powers,60037,Court 8,14:30,booked,2026-10-05T13:22:02+02:00
+powers,60037,Court 8,15:00,booked,2026-10-05T13:22:02+02:00
+powers,60037,Court 8,15:30,booked,2026-10-05T13:22:02+02:00
+powers,60037,Court 8,16:00,booked,2026-10-05T13:22:02+02:00
+powers,60037,Court 8,16:30,booked,2026-10-05T13:22:02+02:00
+powers,60037,Court 8,17:00,booked,2026-10-05T13:22:02+02:00
+powers,60037,Court 8,17:30,booked,2026-10-05T13:22:02+02:00
+powers,60037,Court 8,18:00,booked,2026-10-05T13:22:02+02:00
+powers,60037,Court 8,18:30,booked,2026-10-05T13:22:02+02:00
+powers,60037,Court 8,19:00,booked,2026-10-05T13:22:02+02:00
+powers,60037,Court 8,19:30,booked,2026-10-05T13:22:02+02:00
+powers,60037,Court 8,20:00,booked,2026-10-05T13:22:02+02:00
+powers,60037,Court 8,20:30,booked,2026-10-05T13:22:02+02:00
+powers,60037,Court 8,21:00,booked,2026-10-05T13:22:02+02:00
+powers,60037,Court 8,21:30,free,2026-10-05T13:22:02+02:00
+powers,60037,Court 8,22:00,free,2026-10-05T13:22:02+02:00
+powers,60037,Court 8,22:30,free,2026-10-05T13:22:02+02:00
+powers,60037,Court 8,23:00,free,2026-10-05T13:22:02+02:00
+powers,60037,Court 8,23:30,free,2026-10-05T13:22:02+02:00
 radotin,1,Kurt 1,07:00,free,2026-10-05T00:17:57+02:00
 radotin,1,Kurt 1,07:30,free,2026-10-05T00:17:57+02:00
 radotin,1,Kurt 1,08:00,free,2026-10-05T00:17:57+02:00
@@ -1283,23 +1283,23 @@ radotin,1,Kurt 1,11:30,free,2026-10-05T00:17:57+02:00
 radotin,1,Kurt 1,12:00,free,2026-10-05T00:17:57+02:00
 radotin,1,Kurt 1,12:30,free,2026-10-05T00:17:57+02:00
 radotin,1,Kurt 1,13:00,free,2026-10-05T00:17:57+02:00
-radotin,1,Kurt 1,13:30,free,2026-10-05T00:17:57+02:00
-radotin,1,Kurt 1,14:00,free,2026-10-05T00:17:57+02:00
-radotin,1,Kurt 1,14:30,free,2026-10-05T00:17:57+02:00
-radotin,1,Kurt 1,15:00,free,2026-10-05T00:17:57+02:00
-radotin,1,Kurt 1,15:30,free,2026-10-05T00:17:57+02:00
-radotin,1,Kurt 1,16:00,free,2026-10-05T00:17:57+02:00
-radotin,1,Kurt 1,16:30,booked,2026-10-05T00:17:57+02:00
-radotin,1,Kurt 1,17:00,booked,2026-10-05T00:17:57+02:00
-radotin,1,Kurt 1,17:30,booked,2026-10-05T00:17:57+02:00
-radotin,1,Kurt 1,18:00,free,2026-10-05T00:17:57+02:00
-radotin,1,Kurt 1,18:30,free,2026-10-05T00:17:57+02:00
-radotin,1,Kurt 1,19:00,booked,2026-10-05T00:17:57+02:00
-radotin,1,Kurt 1,19:30,booked,2026-10-05T00:17:57+02:00
-radotin,1,Kurt 1,20:00,booked,2026-10-05T00:17:57+02:00
-radotin,1,Kurt 1,20:30,booked,2026-10-05T00:17:57+02:00
-radotin,1,Kurt 1,21:00,free,2026-10-05T00:17:57+02:00
-radotin,1,Kurt 1,21:30,free,2026-10-05T00:17:57+02:00
+radotin,1,Kurt 1,13:30,free,2026-10-05T13:22:02+02:00
+radotin,1,Kurt 1,14:00,booked,2026-10-05T13:22:02+02:00
+radotin,1,Kurt 1,14:30,booked,2026-10-05T13:22:02+02:00
+radotin,1,Kurt 1,15:00,booked,2026-10-05T13:22:02+02:00
+radotin,1,Kurt 1,15:30,free,2026-10-05T13:22:02+02:00
+radotin,1,Kurt 1,16:00,free,2026-10-05T13:22:02+02:00
+radotin,1,Kurt 1,16:30,booked,2026-10-05T13:22:02+02:00
+radotin,1,Kurt 1,17:00,booked,2026-10-05T13:22:02+02:00
+radotin,1,Kurt 1,17:30,booked,2026-10-05T13:22:02+02:00
+radotin,1,Kurt 1,18:00,free,2026-10-05T13:22:02+02:00
+radotin,1,Kurt 1,18:30,free,2026-10-05T13:22:02+02:00
+radotin,1,Kurt 1,19:00,booked,2026-10-05T13:22:02+02:00
+radotin,1,Kurt 1,19:30,booked,2026-10-05T13:22:02+02:00
+radotin,1,Kurt 1,20:00,booked,2026-10-05T13:22:02+02:00
+radotin,1,Kurt 1,20:30,booked,2026-10-05T13:22:02+02:00
+radotin,1,Kurt 1,21:00,free,2026-10-05T13:22:02+02:00
+radotin,1,Kurt 1,21:30,free,2026-10-05T13:22:02+02:00
 radotin,18,Kurt 3,07:00,free,2026-10-05T00:17:57+02:00
 radotin,18,Kurt 3,07:30,free,2026-10-05T00:17:57+02:00
 radotin,18,Kurt 3,08:00,free,2026-10-05T00:17:57+02:00
@@ -1313,23 +1313,23 @@ radotin,18,Kurt 3,11:30,free,2026-10-05T00:17:57+02:00
 radotin,18,Kurt 3,12:00,free,2026-10-05T00:17:57+02:00
 radotin,18,Kurt 3,12:30,free,2026-10-05T00:17:57+02:00
 radotin,18,Kurt 3,13:00,free,2026-10-05T00:17:57+02:00
-radotin,18,Kurt 3,13:30,free,2026-10-05T00:17:57+02:00
-radotin,18,Kurt 3,14:00,free,2026-10-05T00:17:57+02:00
-radotin,18,Kurt 3,14:30,free,2026-10-05T00:17:57+02:00
-radotin,18,Kurt 3,15:00,free,2026-10-05T00:17:57+02:00
-radotin,18,Kurt 3,15:30,free,2026-10-05T00:17:57+02:00
-radotin,18,Kurt 3,16:00,free,2026-10-05T00:17:57+02:00
-radotin,18,Kurt 3,16:30,free,2026-10-05T00:17:57+02:00
-radotin,18,Kurt 3,17:00,booked,2026-10-05T00:17:57+02:00
-radotin,18,Kurt 3,17:30,booked,2026-10-05T00:17:57+02:00
-radotin,18,Kurt 3,18:00,booked,2026-10-05T00:17:57+02:00
-radotin,18,Kurt 3,18:30,booked,2026-10-05T00:17:57+02:00
-radotin,18,Kurt 3,19:00,booked,2026-10-05T00:17:57+02:00
-radotin,18,Kurt 3,19:30,booked,2026-10-05T00:17:57+02:00
-radotin,18,Kurt 3,20:00,booked,2026-10-05T00:17:57+02:00
-radotin,18,Kurt 3,20:30,booked,2026-10-05T00:17:57+02:00
-radotin,18,Kurt 3,21:00,booked,2026-10-05T00:17:57+02:00
-radotin,18,Kurt 3,21:30,free,2026-10-05T00:17:57+02:00
+radotin,18,Kurt 3,13:30,free,2026-10-05T13:22:02+02:00
+radotin,18,Kurt 3,14:00,free,2026-10-05T13:22:02+02:00
+radotin,18,Kurt 3,14:30,free,2026-10-05T13:22:02+02:00
+radotin,18,Kurt 3,15:00,free,2026-10-05T13:22:02+02:00
+radotin,18,Kurt 3,15:30,free,2026-10-05T13:22:02+02:00
+radotin,18,Kurt 3,16:00,free,2026-10-05T13:22:02+02:00
+radotin,18,Kurt 3,16:30,free,2026-10-05T13:22:02+02:00
+radotin,18,Kurt 3,17:00,booked,2026-10-05T13:22:02+02:00
+radotin,18,Kurt 3,17:30,booked,2026-10-05T13:22:02+02:00
+radotin,18,Kurt 3,18:00,booked,2026-10-05T13:22:02+02:00
+radotin,18,Kurt 3,18:30,booked,2026-10-05T13:22:02+02:00
+radotin,18,Kurt 3,19:00,booked,2026-10-05T13:22:02+02:00
+radotin,18,Kurt 3,19:30,booked,2026-10-05T13:22:02+02:00
+radotin,18,Kurt 3,20:00,booked,2026-10-05T13:22:02+02:00
+radotin,18,Kurt 3,20:30,booked,2026-10-05T13:22:02+02:00
+radotin,18,Kurt 3,21:00,booked,2026-10-05T13:22:02+02:00
+radotin,18,Kurt 3,21:30,free,2026-10-05T13:22:02+02:00
 radotin,2,Kurt 2,07:00,free,2026-10-05T00:17:57+02:00
 radotin,2,Kurt 2,07:30,free,2026-10-05T00:17:57+02:00
 radotin,2,Kurt 2,08:00,free,2026-10-05T00:17:57+02:00
@@ -1343,79 +1343,79 @@ radotin,2,Kurt 2,11:30,free,2026-10-05T00:17:57+02:00
 radotin,2,Kurt 2,12:00,free,2026-10-05T00:17:57+02:00
 radotin,2,Kurt 2,12:30,free,2026-10-05T00:17:57+02:00
 radotin,2,Kurt 2,13:00,free,2026-10-05T00:17:57+02:00
-radotin,2,Kurt 2,13:30,free,2026-10-05T00:17:57+02:00
-radotin,2,Kurt 2,14:00,free,2026-10-05T00:17:57+02:00
-radotin,2,Kurt 2,14:30,free,2026-10-05T00:17:57+02:00
-radotin,2,Kurt 2,15:00,free,2026-10-05T00:17:57+02:00
-radotin,2,Kurt 2,15:30,free,2026-10-05T00:17:57+02:00
-radotin,2,Kurt 2,16:00,free,2026-10-05T00:17:57+02:00
-radotin,2,Kurt 2,16:30,free,2026-10-05T00:17:57+02:00
-radotin,2,Kurt 2,17:00,booked,2026-10-05T00:17:57+02:00
-radotin,2,Kurt 2,17:30,booked,2026-10-05T00:17:57+02:00
-radotin,2,Kurt 2,18:00,booked,2026-10-05T00:17:57+02:00
-radotin,2,Kurt 2,18:30,booked,2026-10-05T00:17:57+02:00
-radotin,2,Kurt 2,19:00,booked,2026-10-05T00:17:57+02:00
-radotin,2,Kurt 2,19:30,booked,2026-10-05T00:17:57+02:00
-radotin,2,Kurt 2,20:00,booked,2026-10-05T00:17:57+02:00
-radotin,2,Kurt 2,20:30,booked,2026-10-05T00:17:57+02:00
-radotin,2,Kurt 2,21:00,free,2026-10-05T00:17:57+02:00
-radotin,2,Kurt 2,21:30,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,08:00,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,08:30,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,09:00,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,09:30,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,10:00,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,10:30,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,11:00,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,11:30,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,12:00,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,12:30,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,13:00,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,13:30,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,14:00,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,14:30,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,15:00,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,15:30,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,16:00,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,16:30,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,17:00,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,17:30,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,18:00,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,18:30,booked,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,19:00,booked,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,19:30,booked,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,20:00,free,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,20:30,booked,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,21:00,booked,2026-10-05T00:17:57+02:00
-satalice,13,Padel  - 1,21:30,free,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,08:00,free,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,08:30,free,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,09:00,free,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,09:30,free,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,10:00,free,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,10:30,free,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,11:00,free,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,11:30,free,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,12:00,free,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,12:30,free,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,13:00,free,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,13:30,free,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,14:00,free,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,14:30,free,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,15:00,free,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,15:30,free,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,16:00,free,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,16:30,free,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,17:00,free,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,17:30,free,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,18:00,booked,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,18:30,booked,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,19:00,booked,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,19:30,booked,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,20:00,free,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,20:30,booked,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,21:00,booked,2026-10-05T00:17:57+02:00
-satalice,15,Padel - 2,21:30,free,2026-10-05T00:17:57+02:00
+radotin,2,Kurt 2,13:30,free,2026-10-05T13:22:02+02:00
+radotin,2,Kurt 2,14:00,booked,2026-10-05T13:22:02+02:00
+radotin,2,Kurt 2,14:30,booked,2026-10-05T13:22:02+02:00
+radotin,2,Kurt 2,15:00,free,2026-10-05T13:22:02+02:00
+radotin,2,Kurt 2,15:30,free,2026-10-05T13:22:02+02:00
+radotin,2,Kurt 2,16:00,free,2026-10-05T13:22:02+02:00
+radotin,2,Kurt 2,16:30,free,2026-10-05T13:22:02+02:00
+radotin,2,Kurt 2,17:00,booked,2026-10-05T13:22:02+02:00
+radotin,2,Kurt 2,17:30,booked,2026-10-05T13:22:02+02:00
+radotin,2,Kurt 2,18:00,booked,2026-10-05T13:22:02+02:00
+radotin,2,Kurt 2,18:30,booked,2026-10-05T13:22:02+02:00
+radotin,2,Kurt 2,19:00,booked,2026-10-05T13:22:02+02:00
+radotin,2,Kurt 2,19:30,booked,2026-10-05T13:22:02+02:00
+radotin,2,Kurt 2,20:00,booked,2026-10-05T13:22:02+02:00
+radotin,2,Kurt 2,20:30,booked,2026-10-05T13:22:02+02:00
+radotin,2,Kurt 2,21:00,free,2026-10-05T13:22:02+02:00
+radotin,2,Kurt 2,21:30,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,08:00,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,08:30,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,09:00,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,09:30,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,10:00,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,10:30,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,11:00,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,11:30,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,12:00,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,12:30,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,13:00,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,13:30,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,14:00,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,14:30,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,15:00,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,15:30,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,16:00,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,16:30,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,17:00,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,17:30,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,18:00,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,18:30,booked,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,19:00,booked,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,19:30,booked,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,20:00,free,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,20:30,booked,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,21:00,booked,2026-10-05T13:22:02+02:00
+satalice,13,Padel  - 1,21:30,free,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,08:00,free,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,08:30,free,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,09:00,free,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,09:30,free,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,10:00,free,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,10:30,free,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,11:00,free,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,11:30,free,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,12:00,free,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,12:30,free,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,13:00,free,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,13:30,free,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,14:00,free,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,14:30,free,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,15:00,free,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,15:30,free,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,16:00,free,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,16:30,free,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,17:00,free,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,17:30,free,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,18:00,booked,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,18:30,booked,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,19:00,booked,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,19:30,booked,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,20:00,free,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,20:30,booked,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,21:00,booked,2026-10-05T13:22:02+02:00
+satalice,15,Padel - 2,21:30,free,2026-10-05T13:22:02+02:00
 skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,09:00,free,2026-10-05T00:17:57+02:00
 skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,09:30,free,2026-10-05T00:17:57+02:00
 skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,10:00,free,2026-10-05T00:17:57+02:00
@@ -1425,23 +1425,23 @@ skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1
 skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,12:00,booked,2026-10-05T00:17:57+02:00
 skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,12:30,booked,2026-10-05T00:17:57+02:00
 skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,13:00,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,13:30,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,14:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,14:30,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,15:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,15:30,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,16:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,16:30,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,17:00,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,17:30,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,18:00,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,18:30,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,19:00,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,19:30,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,20:00,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,20:30,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,21:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,21:30,free,2026-10-05T00:17:57+02:00
+skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,13:30,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,14:00,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,14:30,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,15:00,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,15:30,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,16:00,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,16:30,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,17:00,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,17:30,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,18:00,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,18:30,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,19:00,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,19:30,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,20:00,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,20:30,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,21:00,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7587025eb6cd22de011633994a105,Padel outdoor - kurt 1,21:30,free,2026-10-05T13:22:02+02:00
 skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,09:00,free,2026-10-05T00:17:57+02:00
 skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,09:30,free,2026-10-05T00:17:57+02:00
 skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,10:00,free,2026-10-05T00:17:57+02:00
@@ -1451,23 +1451,23 @@ skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2
 skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,12:00,free,2026-10-05T00:17:57+02:00
 skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,12:30,free,2026-10-05T00:17:57+02:00
 skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,13:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,13:30,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,14:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,14:30,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,15:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,15:30,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,16:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,16:30,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,17:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,17:30,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,18:00,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,18:30,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,19:00,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,19:30,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,20:00,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,20:30,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,21:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,21:30,free,2026-10-05T00:17:57+02:00
+skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,13:30,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,14:00,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,14:30,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,15:00,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,15:30,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,16:00,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,16:30,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,17:00,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,17:30,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,18:00,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,18:30,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,19:00,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,19:30,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,20:00,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,20:30,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,21:00,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7deaf25eb6cd22c35fa5c83a307a3,Padel outdoor - kurt 2,21:30,free,2026-10-05T13:22:02+02:00
 skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,09:00,free,2026-10-05T00:17:57+02:00
 skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,09:30,free,2026-10-05T00:17:57+02:00
 skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,10:00,free,2026-10-05T00:17:57+02:00
@@ -1477,23 +1477,23 @@ skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3
 skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,12:00,free,2026-10-05T00:17:57+02:00
 skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,12:30,free,2026-10-05T00:17:57+02:00
 skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,13:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,13:30,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,14:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,14:30,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,15:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,15:30,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,16:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,16:30,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,17:00,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,17:30,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,18:00,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,18:30,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,19:00,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,19:30,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,20:00,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,20:30,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,21:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,21:30,free,2026-10-05T00:17:57+02:00
+skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,13:30,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,14:00,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,14:30,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,15:00,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,15:30,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,16:00,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,16:30,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,17:00,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,17:30,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,18:00,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,18:30,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,19:00,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,19:30,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,20:00,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,20:30,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,21:00,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d7feb625eb6cd2579abd53b17f448d,Padel outdoor - kurt 3,21:30,free,2026-10-05T13:22:02+02:00
 skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,09:00,free,2026-10-05T00:17:57+02:00
 skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,09:30,free,2026-10-05T00:17:57+02:00
 skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,10:00,free,2026-10-05T00:17:57+02:00
@@ -1503,23 +1503,23 @@ skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4
 skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,12:00,free,2026-10-05T00:17:57+02:00
 skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,12:30,free,2026-10-05T00:17:57+02:00
 skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,13:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,13:30,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,14:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,14:30,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,15:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,15:30,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,16:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,16:30,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,17:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,17:30,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,18:00,booked,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,18:30,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,19:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,19:30,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,20:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,20:30,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,21:00,free,2026-10-05T00:17:57+02:00
-skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,21:30,free,2026-10-05T00:17:57+02:00
+skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,13:30,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,14:00,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,14:30,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,15:00,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,15:30,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,16:00,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,16:30,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,17:00,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,17:30,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,18:00,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,18:30,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,19:00,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,19:30,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,20:00,booked,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,20:30,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,21:00,free,2026-10-05T13:22:02+02:00
+skysport,activity_hall_0_49d814e025eb6cd26491337a26133c8f,Padel outdoor - kurt 4,21:30,free,2026-10-05T13:22:02+02:00
 thecourt,1,Super 1,07:00,free,2026-10-05T00:17:57+02:00
 thecourt,1,Super 1,07:30,free,2026-10-05T00:17:57+02:00
 thecourt,1,Super 1,08:00,free,2026-10-05T00:17:57+02:00
@@ -1533,27 +1533,27 @@ thecourt,1,Super 1,11:30,free,2026-10-05T00:17:57+02:00
 thecourt,1,Super 1,12:00,free,2026-10-05T00:17:57+02:00
 thecourt,1,Super 1,12:30,free,2026-10-05T00:17:57+02:00
 thecourt,1,Super 1,13:00,free,2026-10-05T00:17:57+02:00
-thecourt,1,Super 1,13:30,free,2026-10-05T00:17:57+02:00
-thecourt,1,Super 1,14:00,free,2026-10-05T00:17:57+02:00
-thecourt,1,Super 1,14:30,free,2026-10-05T00:17:57+02:00
-thecourt,1,Super 1,15:00,booked,2026-10-05T00:17:57+02:00
-thecourt,1,Super 1,15:30,booked,2026-10-05T00:17:57+02:00
-thecourt,1,Super 1,16:00,booked,2026-10-05T00:17:57+02:00
-thecourt,1,Super 1,16:30,booked,2026-10-05T00:17:57+02:00
-thecourt,1,Super 1,17:00,booked,2026-10-05T00:17:57+02:00
-thecourt,1,Super 1,17:30,booked,2026-10-05T00:17:57+02:00
-thecourt,1,Super 1,18:00,free,2026-10-05T00:17:57+02:00
-thecourt,1,Super 1,18:30,free,2026-10-05T00:17:57+02:00
-thecourt,1,Super 1,19:00,free,2026-10-05T00:17:57+02:00
-thecourt,1,Super 1,19:30,free,2026-10-05T00:17:57+02:00
-thecourt,1,Super 1,20:00,free,2026-10-05T00:17:57+02:00
-thecourt,1,Super 1,20:30,free,2026-10-05T00:17:57+02:00
-thecourt,1,Super 1,21:00,free,2026-10-05T00:17:57+02:00
-thecourt,1,Super 1,21:30,free,2026-10-05T00:17:57+02:00
-thecourt,1,Super 1,22:00,free,2026-10-05T00:17:57+02:00
-thecourt,1,Super 1,22:30,free,2026-10-05T00:17:57+02:00
-thecourt,1,Super 1,23:00,free,2026-10-05T00:17:57+02:00
-thecourt,1,Super 1,23:30,free,2026-10-05T00:17:57+02:00
+thecourt,1,Super 1,13:30,free,2026-10-05T13:22:02+02:00
+thecourt,1,Super 1,14:00,free,2026-10-05T13:22:02+02:00
+thecourt,1,Super 1,14:30,free,2026-10-05T13:22:02+02:00
+thecourt,1,Super 1,15:00,booked,2026-10-05T13:22:02+02:00
+thecourt,1,Super 1,15:30,booked,2026-10-05T13:22:02+02:00
+thecourt,1,Super 1,16:00,booked,2026-10-05T13:22:02+02:00
+thecourt,1,Super 1,16:30,booked,2026-10-05T13:22:02+02:00
+thecourt,1,Super 1,17:00,booked,2026-10-05T13:22:02+02:00
+thecourt,1,Super 1,17:30,booked,2026-10-05T13:22:02+02:00
+thecourt,1,Super 1,18:00,free,2026-10-05T13:22:02+02:00
+thecourt,1,Super 1,18:30,free,2026-10-05T13:22:02+02:00
+thecourt,1,Super 1,19:00,free,2026-10-05T13:22:02+02:00
+thecourt,1,Super 1,19:30,free,2026-10-05T13:22:02+02:00
+thecourt,1,Super 1,20:00,free,2026-10-05T13:22:02+02:00
+thecourt,1,Super 1,20:30,free,2026-10-05T13:22:02+02:00
+thecourt,1,Super 1,21:00,free,2026-10-05T13:22:02+02:00
+thecourt,1,Super 1,21:30,free,2026-10-05T13:22:02+02:00
+thecourt,1,Super 1,22:00,free,2026-10-05T13:22:02+02:00
+thecourt,1,Super 1,22:30,free,2026-10-05T13:22:02+02:00
+thecourt,1,Super 1,23:00,free,2026-10-05T13:22:02+02:00
+thecourt,1,Super 1,23:30,free,2026-10-05T13:22:02+02:00
 thecourt,2,Super 2,07:00,free,2026-10-05T00:17:57+02:00
 thecourt,2,Super 2,07:30,free,2026-10-05T00:17:57+02:00
 thecourt,2,Super 2,08:00,free,2026-10-05T00:17:57+02:00
@@ -1567,27 +1567,27 @@ thecourt,2,Super 2,11:30,free,2026-10-05T00:17:57+02:00
 thecourt,2,Super 2,12:00,free,2026-10-05T00:17:57+02:00
 thecourt,2,Super 2,12:30,free,2026-10-05T00:17:57+02:00
 thecourt,2,Super 2,13:00,free,2026-10-05T00:17:57+02:00
-thecourt,2,Super 2,13:30,free,2026-10-05T00:17:57+02:00
-thecourt,2,Super 2,14:00,free,2026-10-05T00:17:57+02:00
-thecourt,2,Super 2,14:30,free,2026-10-05T00:17:57+02:00
-thecourt,2,Super 2,15:00,free,2026-10-05T00:17:57+02:00
-thecourt,2,Super 2,15:30,free,2026-10-05T00:17:57+02:00
-thecourt,2,Super 2,16:00,free,2026-10-05T00:17:57+02:00
-thecourt,2,Super 2,16:30,free,2026-10-05T00:17:57+02:00
-thecourt,2,Super 2,17:00,free,2026-10-05T00:17:57+02:00
-thecourt,2,Super 2,17:30,free,2026-10-05T00:17:57+02:00
-thecourt,2,Super 2,18:00,free,2026-10-05T00:17:57+02:00
-thecourt,2,Super 2,18:30,free,2026-10-05T00:17:57+02:00
-thecourt,2,Super 2,19:00,free,2026-10-05T00:17:57+02:00
-thecourt,2,Super 2,19:30,free,2026-10-05T00:17:57+02:00
-thecourt,2,Super 2,20:00,free,2026-10-05T00:17:57+02:00
-thecourt,2,Super 2,20:30,free,2026-10-05T00:17:57+02:00
-thecourt,2,Super 2,21:00,free,2026-10-05T00:17:57+02:00
-thecourt,2,Super 2,21:30,free,2026-10-05T00:17:57+02:00
-thecourt,2,Super 2,22:00,free,2026-10-05T00:17:57+02:00
-thecourt,2,Super 2,22:30,free,2026-10-05T00:17:57+02:00
-thecourt,2,Super 2,23:00,free,2026-10-05T00:17:57+02:00
-thecourt,2,Super 2,23:30,free,2026-10-05T00:17:57+02:00
+thecourt,2,Super 2,13:30,free,2026-10-05T13:22:02+02:00
+thecourt,2,Super 2,14:00,free,2026-10-05T13:22:02+02:00
+thecourt,2,Super 2,14:30,free,2026-10-05T13:22:02+02:00
+thecourt,2,Super 2,15:00,free,2026-10-05T13:22:02+02:00
+thecourt,2,Super 2,15:30,free,2026-10-05T13:22:02+02:00
+thecourt,2,Super 2,16:00,free,2026-10-05T13:22:02+02:00
+thecourt,2,Super 2,16:30,free,2026-10-05T13:22:02+02:00
+thecourt,2,Super 2,17:00,free,2026-10-05T13:22:02+02:00
+thecourt,2,Super 2,17:30,free,2026-10-05T13:22:02+02:00
+thecourt,2,Super 2,18:00,free,2026-10-05T13:22:02+02:00
+thecourt,2,Super 2,18:30,free,2026-10-05T13:22:02+02:00
+thecourt,2,Super 2,19:00,free,2026-10-05T13:22:02+02:00
+thecourt,2,Super 2,19:30,free,2026-10-05T13:22:02+02:00
+thecourt,2,Super 2,20:00,free,2026-10-05T13:22:02+02:00
+thecourt,2,Super 2,20:30,free,2026-10-05T13:22:02+02:00
+thecourt,2,Super 2,21:00,free,2026-10-05T13:22:02+02:00
+thecourt,2,Super 2,21:30,free,2026-10-05T13:22:02+02:00
+thecourt,2,Super 2,22:00,free,2026-10-05T13:22:02+02:00
+thecourt,2,Super 2,22:30,free,2026-10-05T13:22:02+02:00
+thecourt,2,Super 2,23:00,free,2026-10-05T13:22:02+02:00
+thecourt,2,Super 2,23:30,free,2026-10-05T13:22:02+02:00
 vestec,73,Kurt 1,07:00,free,2026-10-05T00:17:57+02:00
 vestec,73,Kurt 1,07:30,free,2026-10-05T00:17:57+02:00
 vestec,73,Kurt 1,08:00,free,2026-10-05T00:17:57+02:00
@@ -1601,27 +1601,27 @@ vestec,73,Kurt 1,11:30,booked,2026-10-05T00:17:57+02:00
 vestec,73,Kurt 1,12:00,booked,2026-10-05T00:17:57+02:00
 vestec,73,Kurt 1,12:30,free,2026-10-05T00:17:57+02:00
 vestec,73,Kurt 1,13:00,free,2026-10-05T00:17:57+02:00
-vestec,73,Kurt 1,13:30,free,2026-10-05T00:17:57+02:00
-vestec,73,Kurt 1,14:00,free,2026-10-05T00:17:57+02:00
-vestec,73,Kurt 1,14:30,free,2026-10-05T00:17:57+02:00
-vestec,73,Kurt 1,15:00,free,2026-10-05T00:17:57+02:00
-vestec,73,Kurt 1,15:30,free,2026-10-05T00:17:57+02:00
-vestec,73,Kurt 1,16:00,free,2026-10-05T00:17:57+02:00
-vestec,73,Kurt 1,16:30,free,2026-10-05T00:17:57+02:00
-vestec,73,Kurt 1,17:00,free,2026-10-05T00:17:57+02:00
-vestec,73,Kurt 1,17:30,booked,2026-10-05T00:17:57+02:00
-vestec,73,Kurt 1,18:00,booked,2026-10-05T00:17:57+02:00
-vestec,73,Kurt 1,18:30,booked,2026-10-05T00:17:57+02:00
-vestec,73,Kurt 1,19:00,booked,2026-10-05T00:17:57+02:00
-vestec,73,Kurt 1,19:30,booked,2026-10-05T00:17:57+02:00
-vestec,73,Kurt 1,20:00,booked,2026-10-05T00:17:57+02:00
-vestec,73,Kurt 1,20:30,booked,2026-10-05T00:17:57+02:00
-vestec,73,Kurt 1,21:00,booked,2026-10-05T00:17:57+02:00
-vestec,73,Kurt 1,21:30,booked,2026-10-05T00:17:57+02:00
-vestec,73,Kurt 1,22:00,free,2026-10-05T00:17:57+02:00
-vestec,73,Kurt 1,22:30,free,2026-10-05T00:17:57+02:00
-vestec,73,Kurt 1,23:00,free,2026-10-05T00:17:57+02:00
-vestec,73,Kurt 1,23:30,free,2026-10-05T00:17:57+02:00
+vestec,73,Kurt 1,13:30,free,2026-10-05T13:22:02+02:00
+vestec,73,Kurt 1,14:00,free,2026-10-05T13:22:02+02:00
+vestec,73,Kurt 1,14:30,free,2026-10-05T13:22:02+02:00
+vestec,73,Kurt 1,15:00,free,2026-10-05T13:22:02+02:00
+vestec,73,Kurt 1,15:30,free,2026-10-05T13:22:02+02:00
+vestec,73,Kurt 1,16:00,free,2026-10-05T13:22:02+02:00
+vestec,73,Kurt 1,16:30,free,2026-10-05T13:22:02+02:00
+vestec,73,Kurt 1,17:00,free,2026-10-05T13:22:02+02:00
+vestec,73,Kurt 1,17:30,booked,2026-10-05T13:22:02+02:00
+vestec,73,Kurt 1,18:00,booked,2026-10-05T13:22:02+02:00
+vestec,73,Kurt 1,18:30,booked,2026-10-05T13:22:02+02:00
+vestec,73,Kurt 1,19:00,booked,2026-10-05T13:22:02+02:00
+vestec,73,Kurt 1,19:30,booked,2026-10-05T13:22:02+02:00
+vestec,73,Kurt 1,20:00,booked,2026-10-05T13:22:02+02:00
+vestec,73,Kurt 1,20:30,booked,2026-10-05T13:22:02+02:00
+vestec,73,Kurt 1,21:00,booked,2026-10-05T13:22:02+02:00
+vestec,73,Kurt 1,21:30,booked,2026-10-05T13:22:02+02:00
+vestec,73,Kurt 1,22:00,free,2026-10-05T13:22:02+02:00
+vestec,73,Kurt 1,22:30,free,2026-10-05T13:22:02+02:00
+vestec,73,Kurt 1,23:00,free,2026-10-05T13:22:02+02:00
+vestec,73,Kurt 1,23:30,free,2026-10-05T13:22:02+02:00
 vestec,74,Kurt 2,07:00,free,2026-10-05T00:17:57+02:00
 vestec,74,Kurt 2,07:30,free,2026-10-05T00:17:57+02:00
 vestec,74,Kurt 2,08:00,free,2026-10-05T00:17:57+02:00
@@ -1635,27 +1635,27 @@ vestec,74,Kurt 2,11:30,booked,2026-10-05T00:17:57+02:00
 vestec,74,Kurt 2,12:00,booked,2026-10-05T00:17:57+02:00
 vestec,74,Kurt 2,12:30,booked,2026-10-05T00:17:57+02:00
 vestec,74,Kurt 2,13:00,free,2026-10-05T00:17:57+02:00
-vestec,74,Kurt 2,13:30,free,2026-10-05T00:17:57+02:00
-vestec,74,Kurt 2,14:00,free,2026-10-05T00:17:57+02:00
-vestec,74,Kurt 2,14:30,free,2026-10-05T00:17:57+02:00
-vestec,74,Kurt 2,15:00,free,2026-10-05T00:17:57+02:00
-vestec,74,Kurt 2,15:30,free,2026-10-05T00:17:57+02:00
-vestec,74,Kurt 2,16:00,free,2026-10-05T00:17:57+02:00
-vestec,74,Kurt 2,16:30,booked,2026-10-05T00:17:57+02:00
-vestec,74,Kurt 2,17:00,booked,2026-10-05T00:17:57+02:00
-vestec,74,Kurt 2,17:30,booked,2026-10-05T00:17:57+02:00
-vestec,74,Kurt 2,18:00,booked,2026-10-05T00:17:57+02:00
-vestec,74,Kurt 2,18:30,booked,2026-10-05T00:17:57+02:00
-vestec,74,Kurt 2,19:00,booked,2026-10-05T00:17:57+02:00
-vestec,74,Kurt 2,19:30,booked,2026-10-05T00:17:57+02:00
-vestec,74,Kurt 2,20:00,booked,2026-10-05T00:17:57+02:00
-vestec,74,Kurt 2,20:30,booked,2026-10-05T00:17:57+02:00
-vestec,74,Kurt 2,21:00,booked,2026-10-05T00:17:57+02:00
-vestec,74,Kurt 2,21:30,booked,2026-10-05T00:17:57+02:00
-vestec,74,Kurt 2,22:00,free,2026-10-05T00:17:57+02:00
-vestec,74,Kurt 2,22:30,free,2026-10-05T00:17:57+02:00
-vestec,74,Kurt 2,23:00,free,2026-10-05T00:17:57+02:00
-vestec,74,Kurt 2,23:30,free,2026-10-05T00:17:57+02:00
+vestec,74,Kurt 2,13:30,free,2026-10-05T13:22:02+02:00
+vestec,74,Kurt 2,14:00,free,2026-10-05T13:22:02+02:00
+vestec,74,Kurt 2,14:30,free,2026-10-05T13:22:02+02:00
+vestec,74,Kurt 2,15:00,free,2026-10-05T13:22:02+02:00
+vestec,74,Kurt 2,15:30,free,2026-10-05T13:22:02+02:00
+vestec,74,Kurt 2,16:00,free,2026-10-05T13:22:02+02:00
+vestec,74,Kurt 2,16:30,booked,2026-10-05T13:22:02+02:00
+vestec,74,Kurt 2,17:00,booked,2026-10-05T13:22:02+02:00
+vestec,74,Kurt 2,17:30,booked,2026-10-05T13:22:02+02:00
+vestec,74,Kurt 2,18:00,booked,2026-10-05T13:22:02+02:00
+vestec,74,Kurt 2,18:30,booked,2026-10-05T13:22:02+02:00
+vestec,74,Kurt 2,19:00,booked,2026-10-05T13:22:02+02:00
+vestec,74,Kurt 2,19:30,booked,2026-10-05T13:22:02+02:00
+vestec,74,Kurt 2,20:00,booked,2026-10-05T13:22:02+02:00
+vestec,74,Kurt 2,20:30,booked,2026-10-05T13:22:02+02:00
+vestec,74,Kurt 2,21:00,booked,2026-10-05T13:22:02+02:00
+vestec,74,Kurt 2,21:30,booked,2026-10-05T13:22:02+02:00
+vestec,74,Kurt 2,22:00,free,2026-10-05T13:22:02+02:00
+vestec,74,Kurt 2,22:30,free,2026-10-05T13:22:02+02:00
+vestec,74,Kurt 2,23:00,free,2026-10-05T13:22:02+02:00
+vestec,74,Kurt 2,23:30,free,2026-10-05T13:22:02+02:00
 vestec,75,Kurt 3,07:00,free,2026-10-05T00:17:57+02:00
 vestec,75,Kurt 3,07:30,free,2026-10-05T00:17:57+02:00
 vestec,75,Kurt 3,08:00,free,2026-10-05T00:17:57+02:00
@@ -1669,27 +1669,27 @@ vestec,75,Kurt 3,11:30,booked,2026-10-05T00:17:57+02:00
 vestec,75,Kurt 3,12:00,booked,2026-10-05T00:17:57+02:00
 vestec,75,Kurt 3,12:30,free,2026-10-05T00:17:57+02:00
 vestec,75,Kurt 3,13:00,free,2026-10-05T00:17:57+02:00
-vestec,75,Kurt 3,13:30,free,2026-10-05T00:17:57+02:00
-vestec,75,Kurt 3,14:00,free,2026-10-05T00:17:57+02:00
-vestec,75,Kurt 3,14:30,free,2026-10-05T00:17:57+02:00
-vestec,75,Kurt 3,15:00,free,2026-10-05T00:17:57+02:00
-vestec,75,Kurt 3,15:30,free,2026-10-05T00:17:57+02:00
-vestec,75,Kurt 3,16:00,free,2026-10-05T00:17:57+02:00
-vestec,75,Kurt 3,16:30,free,2026-10-05T00:17:57+02:00
-vestec,75,Kurt 3,17:00,free,2026-10-05T00:17:57+02:00
-vestec,75,Kurt 3,17:30,booked,2026-10-05T00:17:57+02:00
-vestec,75,Kurt 3,18:00,booked,2026-10-05T00:17:57+02:00
-vestec,75,Kurt 3,18:30,booked,2026-10-05T00:17:57+02:00
-vestec,75,Kurt 3,19:00,booked,2026-10-05T00:17:57+02:00
-vestec,75,Kurt 3,19:30,booked,2026-10-05T00:17:57+02:00
-vestec,75,Kurt 3,20:00,booked,2026-10-05T00:17:57+02:00
-vestec,75,Kurt 3,20:30,booked,2026-10-05T00:17:57+02:00
-vestec,75,Kurt 3,21:00,booked,2026-10-05T00:17:57+02:00
-vestec,75,Kurt 3,21:30,booked,2026-10-05T00:17:57+02:00
-vestec,75,Kurt 3,22:00,free,2026-10-05T00:17:57+02:00
-vestec,75,Kurt 3,22:30,free,2026-10-05T00:17:57+02:00
-vestec,75,Kurt 3,23:00,free,2026-10-05T00:17:57+02:00
-vestec,75,Kurt 3,23:30,free,2026-10-05T00:17:57+02:00
+vestec,75,Kurt 3,13:30,free,2026-10-05T13:22:02+02:00
+vestec,75,Kurt 3,14:00,free,2026-10-05T13:22:02+02:00
+vestec,75,Kurt 3,14:30,free,2026-10-05T13:22:02+02:00
+vestec,75,Kurt 3,15:00,free,2026-10-05T13:22:02+02:00
+vestec,75,Kurt 3,15:30,free,2026-10-05T13:22:02+02:00
+vestec,75,Kurt 3,16:00,free,2026-10-05T13:22:02+02:00
+vestec,75,Kurt 3,16:30,free,2026-10-05T13:22:02+02:00
+vestec,75,Kurt 3,17:00,free,2026-10-05T13:22:02+02:00
+vestec,75,Kurt 3,17:30,booked,2026-10-05T13:22:02+02:00
+vestec,75,Kurt 3,18:00,booked,2026-10-05T13:22:02+02:00
+vestec,75,Kurt 3,18:30,booked,2026-10-05T13:22:02+02:00
+vestec,75,Kurt 3,19:00,booked,2026-10-05T13:22:02+02:00
+vestec,75,Kurt 3,19:30,booked,2026-10-05T13:22:02+02:00
+vestec,75,Kurt 3,20:00,booked,2026-10-05T13:22:02+02:00
+vestec,75,Kurt 3,20:30,booked,2026-10-05T13:22:02+02:00
+vestec,75,Kurt 3,21:00,booked,2026-10-05T13:22:02+02:00
+vestec,75,Kurt 3,21:30,booked,2026-10-05T13:22:02+02:00
+vestec,75,Kurt 3,22:00,free,2026-10-05T13:22:02+02:00
+vestec,75,Kurt 3,22:30,free,2026-10-05T13:22:02+02:00
+vestec,75,Kurt 3,23:00,free,2026-10-05T13:22:02+02:00
+vestec,75,Kurt 3,23:30,free,2026-10-05T13:22:02+02:00
 vestec,79,Kurt 4,07:00,free,2026-10-05T00:17:57+02:00
 vestec,79,Kurt 4,07:30,free,2026-10-05T00:17:57+02:00
 vestec,79,Kurt 4,08:00,booked,2026-10-05T00:17:57+02:00
@@ -1703,24 +1703,24 @@ vestec,79,Kurt 4,11:30,free,2026-10-05T00:17:57+02:00
 vestec,79,Kurt 4,12:00,free,2026-10-05T00:17:57+02:00
 vestec,79,Kurt 4,12:30,free,2026-10-05T00:17:57+02:00
 vestec,79,Kurt 4,13:00,free,2026-10-05T00:17:57+02:00
-vestec,79,Kurt 4,13:30,free,2026-10-05T00:17:57+02:00
-vestec,79,Kurt 4,14:00,free,2026-10-05T00:17:57+02:00
-vestec,79,Kurt 4,14:30,free,2026-10-05T00:17:57+02:00
-vestec,79,Kurt 4,15:00,free,2026-10-05T00:17:57+02:00
-vestec,79,Kurt 4,15:30,free,2026-10-05T00:17:57+02:00
-vestec,79,Kurt 4,16:00,booked,2026-10-05T00:17:57+02:00
-vestec,79,Kurt 4,16:30,booked,2026-10-05T00:17:57+02:00
-vestec,79,Kurt 4,17:00,booked,2026-10-05T00:17:57+02:00
-vestec,79,Kurt 4,17:30,booked,2026-10-05T00:17:57+02:00
-vestec,79,Kurt 4,18:00,booked,2026-10-05T00:17:57+02:00
-vestec,79,Kurt 4,18:30,booked,2026-10-05T00:17:57+02:00
-vestec,79,Kurt 4,19:00,free,2026-10-05T00:17:57+02:00
-vestec,79,Kurt 4,19:30,booked,2026-10-05T00:17:57+02:00
-vestec,79,Kurt 4,20:00,booked,2026-10-05T00:17:57+02:00
-vestec,79,Kurt 4,20:30,booked,2026-10-05T00:17:57+02:00
-vestec,79,Kurt 4,21:00,free,2026-10-05T00:17:57+02:00
-vestec,79,Kurt 4,21:30,free,2026-10-05T00:17:57+02:00
-vestec,79,Kurt 4,22:00,free,2026-10-05T00:17:57+02:00
-vestec,79,Kurt 4,22:30,free,2026-10-05T00:17:57+02:00
-vestec,79,Kurt 4,23:00,free,2026-10-05T00:17:57+02:00
-vestec,79,Kurt 4,23:30,free,2026-10-05T00:17:57+02:00
+vestec,79,Kurt 4,13:30,free,2026-10-05T13:22:02+02:00
+vestec,79,Kurt 4,14:00,free,2026-10-05T13:22:02+02:00
+vestec,79,Kurt 4,14:30,free,2026-10-05T13:22:02+02:00
+vestec,79,Kurt 4,15:00,free,2026-10-05T13:22:02+02:00
+vestec,79,Kurt 4,15:30,free,2026-10-05T13:22:02+02:00
+vestec,79,Kurt 4,16:00,booked,2026-10-05T13:22:02+02:00
+vestec,79,Kurt 4,16:30,booked,2026-10-05T13:22:02+02:00
+vestec,79,Kurt 4,17:00,booked,2026-10-05T13:22:02+02:00
+vestec,79,Kurt 4,17:30,booked,2026-10-05T13:22:02+02:00
+vestec,79,Kurt 4,18:00,booked,2026-10-05T13:22:02+02:00
+vestec,79,Kurt 4,18:30,booked,2026-10-05T13:22:02+02:00
+vestec,79,Kurt 4,19:00,free,2026-10-05T13:22:02+02:00
+vestec,79,Kurt 4,19:30,booked,2026-10-05T13:22:02+02:00
+vestec,79,Kurt 4,20:00,booked,2026-10-05T13:22:02+02:00
+vestec,79,Kurt 4,20:30,booked,2026-10-05T13:22:02+02:00
+vestec,79,Kurt 4,21:00,free,2026-10-05T13:22:02+02:00
+vestec,79,Kurt 4,21:30,free,2026-10-05T13:22:02+02:00
+vestec,79,Kurt 4,22:00,free,2026-10-05T13:22:02+02:00
+vestec,79,Kurt 4,22:30,free,2026-10-05T13:22:02+02:00
+vestec,79,Kurt 4,23:00,free,2026-10-05T13:22:02+02:00
+vestec,79,Kurt 4,23:30,free,2026-10-05T13:22:02+02:00
