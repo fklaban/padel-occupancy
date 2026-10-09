@@ -431,3 +431,7 @@ observed_at,date,venue,result,courts,cells,error
 2026-10-09T17:05:07+02:00,2026-10-09,pisecna,ok,4,36,
 2026-10-09T17:05:07+02:00,2026-10-09,wilson,ok,2,60,
 2026-10-09T17:05:07+02:00,2026-10-09,sparta,ok,2,52,
+2026-10-09T17:35:05+02:00,2026-10-09,spoje,error,0,0,RuntimeError: no courts/opening hours on Playtomic page: HTTP 504 https://playtomic.com/clubs/padel-club-spoje – 'Gateway Timeout'
+2026-10-09T17:35:05+02:00,2026-10-09,pisecna,ok,4,32,
+2026-10-09T17:35:05+02:00,2026-10-09,wilson,ok,2,60,
+2026-10-09T17:35:05+02:00,2026-10-09,sparta,ok,2,52,
