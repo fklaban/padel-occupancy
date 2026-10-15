@@ -1099,3 +1099,7 @@ observed_at,date,venue,result,courts,cells,error
 2026-10-15T10:05:05+02:00,2026-10-15,pisecna,ok,4,92,
 2026-10-15T10:05:05+02:00,2026-10-15,wilson,ok,2,60,
 2026-10-15T10:05:05+02:00,2026-10-15,sparta,ok,2,52,
+2026-10-15T10:35:05+02:00,2026-10-15,spoje,empty,0,0,no padel courts in response
+2026-10-15T10:35:05+02:00,2026-10-15,pisecna,error,0,0,RuntimeError: no courts/opening hours on Playtomic page: HTTP 504 https://playtomic.com/clubs/tenis-a-padel-klub-pisecna – 'Gateway Timeout'
+2026-10-15T10:35:05+02:00,2026-10-15,wilson,ok,2,60,
+2026-10-15T10:35:05+02:00,2026-10-15,sparta,ok,2,52,
