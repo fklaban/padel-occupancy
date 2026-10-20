@@ -320,7 +320,7 @@ date,venue,name,courts,observed_slots,booked_slots,occupancy
 2026-10-20,modrany,LTC Modřany 2005,3,93,10,0.1075
 2026-10-20,neride,TK Neridé,3,108,64,0.5926
 2026-10-20,onepadel,One Padel Zličín,9,306,126,0.4118
-2026-10-20,pisecna,Tenis & Padel klub Písečná,4,112,83,0.7411
+2026-10-20,pisecna,Tenis & Padel klub Písečná,4,112,85,0.7589
 2026-10-20,plechovka,PLECHOVKA Dubeč,3,81,27,0.3333
 2026-10-20,powers,Padel Powers Smíchov,8,288,188,0.6528
 2026-10-20,radotin,Padel Radotín,3,90,15,0.1667
@@ -330,3 +330,18 @@ date,venue,name,courts,observed_slots,booked_slots,occupancy
 2026-10-20,thecourt,The Court,2,68,4,0.0588
 2026-10-20,vestec,Tenis Centrum HEAD Vestec,5,165,103,0.6242
 2026-10-20,wilson,Wilson Tenis Centrum,2,60,0,0.0000
+2026-10-21,cisarska,Areál Císařská louka,3,72,0,0.0000
+2026-10-21,cpa,CPA Arena (Czech Padel Academy),3,93,28,0.3011
+2026-10-21,dzus,Padel Džus,4,128,91,0.7109
+2026-10-21,forpadel,For Padel Zdiměřice,4,112,0,0.0000
+2026-10-21,hagibor,Hagibor Padel Bohemians,1,30,7,0.2333
+2026-10-21,modrany,LTC Modřany 2005,3,93,23,0.2473
+2026-10-21,neride,TK Neridé,3,108,62,0.5741
+2026-10-21,onepadel,One Padel Zličín,9,306,121,0.3954
+2026-10-21,plechovka,PLECHOVKA Dubeč,3,81,22,0.2716
+2026-10-21,powers,Padel Powers Smíchov,8,288,211,0.7326
+2026-10-21,radotin,Padel Radotín,3,90,21,0.2333
+2026-10-21,satalice,Padel Satalice,2,56,4,0.0714
+2026-10-21,skysport,Sky Sport City Prosek,4,104,14,0.1346
+2026-10-21,thecourt,The Court,2,68,4,0.0588
+2026-10-21,vestec,Tenis Centrum HEAD Vestec,5,170,77,0.4529
