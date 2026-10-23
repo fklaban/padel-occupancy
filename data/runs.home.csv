@@ -1955,3 +1955,7 @@ observed_at,date,venue,result,courts,cells,error
 2026-10-22T22:19:50+02:00,2026-10-22,pisecna,error,0,0,"ReadTimeout: HTTPSConnectionPool(host='playtomic.com', port=443): Read timed out. (read timeout=30)"
 2026-10-22T22:19:50+02:00,2026-10-22,wilson,error,0,0,"ConnectionError: HTTPSConnectionPool(host='jdemenato.cz', port=443): Max retries exceeded with url: /reservation/wilson-tenis-centrum/reservationcalendaroverview (Caused by NameResolutionError(""HTTPSConnection(host='jdemenato.cz', port=443): Failed to resolve 'jdemenato.cz' ([Errno 8] nodename nor s"
 2026-10-22T22:19:50+02:00,2026-10-22,sparta,error,0,0,"ConnectionError: HTTPSConnectionPool(host='jdemenato.cz', port=443): Max retries exceeded with url: /reservation/tk-sparta-praha/reservationcalendaroverview (Caused by NameResolutionError(""HTTPSConnection(host='jdemenato.cz', port=443): Failed to resolve 'jdemenato.cz' ([Errno 8] nodename nor servna"
+2026-10-23T08:05:03+02:00,2026-10-23,spoje,empty,0,0,no padel courts in response
+2026-10-23T08:05:03+02:00,2026-10-23,pisecna,ok,4,108,
+2026-10-23T08:05:03+02:00,2026-10-23,wilson,ok,2,60,
+2026-10-23T08:05:03+02:00,2026-10-23,sparta,ok,2,52,
