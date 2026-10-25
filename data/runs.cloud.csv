@@ -1401,3 +1401,18 @@ observed_at,date,venue,result,courts,cells,error
 2026-10-25T20:55:14+01:00,2026-10-25,plechovka,ok,3,0,
 2026-10-25T20:55:14+01:00,2026-10-25,vestec,ok,5,30,
 2026-10-25T20:55:14+01:00,2026-10-25,thecourt,ok,2,12,
+2026-10-25T23:26:53+01:00,2026-10-25,hagibor,ok,1,30,
+2026-10-25T23:26:53+01:00,2026-10-25,satalice,ok,2,56,
+2026-10-25T23:26:53+01:00,2026-10-25,powers,ok,8,8,
+2026-10-25T23:26:53+01:00,2026-10-25,neride,ok,3,108,
+2026-10-25T23:26:53+01:00,2026-10-25,cisarska,ok,3,72,
+2026-10-25T23:26:53+01:00,2026-10-25,skysport,empty,0,0,no padel courts in response
+2026-10-25T23:26:53+01:00,2026-10-25,onepadel,ok,9,306,
+2026-10-25T23:26:53+01:00,2026-10-25,dzus,ok,4,0,
+2026-10-25T23:26:53+01:00,2026-10-25,cpa,error,0,0,RuntimeError: iSportSystem API did not return JSON: HTTP 200 https://padelautomat.isportsystem.cz/api/get-times.php?date=20261025&id_sport=1 – 'Zadané datum je v minulosti'
+2026-10-25T23:26:53+01:00,2026-10-25,forpadel,error,0,0,RuntimeError: iSportSystem API did not return JSON: HTTP 200 https://forpadel.isportsystem.cz/api/get-times.php?date=20261025&id_sport=1 – 'Zadané datum je v minulosti'
+2026-10-25T23:26:53+01:00,2026-10-25,modrany,error,0,0,RuntimeError: iSportSystem API did not return JSON: HTTP 200 https://tenismodrany.isportsystem.cz/api/get-times.php?date=20261025&id_sport=8 – 'Zadané datum je v minulosti'
+2026-10-25T23:26:53+01:00,2026-10-25,radotin,error,0,0,RuntimeError: iSportSystem API did not return JSON: HTTP 200 https://padelradotin.isportsystem.cz/api/get-times.php?date=20261025&id_sport=1 – 'Zadané datum je v minulosti'
+2026-10-25T23:26:53+01:00,2026-10-25,plechovka,error,0,0,RuntimeError: iSportSystem API did not return JSON: HTTP 200 https://plechovka.isportsystem.cz/api/get-times.php?date=20261025&id_sport=20 – 'Zadané datum je v minulosti'
+2026-10-25T23:26:53+01:00,2026-10-25,vestec,error,0,0,RuntimeError: iSportSystem API did not return JSON: HTTP 200 https://teniscentrum.isportsystem.cz/api/get-times.php?date=20261025&id_sport=13 – 'Zadané datum je v minulosti'
+2026-10-25T23:26:53+01:00,2026-10-25,thecourt,error,0,0,RuntimeError: iSportSystem API did not return JSON: HTTP 200 https://thecourt.isportsystem.cz/api/get-times.php?date=20261025&id_sport=1 – 'Zadané datum je v minulosti'
