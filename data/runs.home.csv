@@ -2603,3 +2603,7 @@ observed_at,date,venue,result,courts,cells,error
 2026-10-28T16:50:42+01:00,2026-10-28,pisecna,ok,4,40,
 2026-10-28T16:50:42+01:00,2026-10-28,wilson,ok,2,60,
 2026-10-28T16:50:42+01:00,2026-10-28,sparta,ok,2,52,
+2026-10-28T17:10:31+01:00,2026-10-28,spoje,empty,0,0,no padel courts in response
+2026-10-28T17:10:31+01:00,2026-10-28,pisecna,error,0,0,ChunkedEncodingError: Response ended prematurely
+2026-10-28T17:10:31+01:00,2026-10-28,wilson,ok,2,60,
+2026-10-28T17:10:31+01:00,2026-10-28,sparta,ok,2,52,
