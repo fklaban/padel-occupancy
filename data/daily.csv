@@ -620,15 +620,18 @@ date,venue,name,courts,observed_slots,booked_slots,occupancy
 2026-11-06,cisarska,Areál Císařská louka,3,72,15,0.2083
 2026-11-06,cpa,CPA Arena (Czech Padel Academy),2,62,41,0.6613
 2026-11-06,dzus,Padel Džus,4,128,118,0.9219
-2026-11-06,forpadel,For Padel Zdiměřice,4,112,2,0.0179
-2026-11-06,hagibor,Hagibor Padel Bohemians,1,30,0,0.0000
+2026-11-06,forpadel,For Padel Zdiměřice,4,112,0,0.0000
+2026-11-06,hagibor,Hagibor Padel Bohemians,1,30,3,0.1000
 2026-11-06,modrany,LTC Modřany 2005,3,93,8,0.0860
 2026-11-06,neride,TK Neridé,3,108,73,0.6759
-2026-11-06,onepadel,One Padel Zličín,9,306,134,0.4379
-2026-11-06,plechovka,PLECHOVKA Dubeč,3,81,27,0.3333
+2026-11-06,onepadel,One Padel Zličín,9,306,158,0.5163
+2026-11-06,pisecna,Tenis & Padel klub Písečná,4,112,92,0.8214
+2026-11-06,plechovka,PLECHOVKA Dubeč,3,81,30,0.3704
 2026-11-06,powers,Padel Powers Smíchov,8,288,248,0.8611
 2026-11-06,radotin,Padel Radotín,3,90,0,0.0000
 2026-11-06,satalice,Padel Satalice,2,56,0,0.0000
 2026-11-06,skysport,Sky Sport City Prosek,4,104,0,0.0000
-2026-11-06,thecourt,The Court,2,68,4,0.0588
-2026-11-06,vestec,Tenis Centrum HEAD Vestec,5,170,93,0.5471
+2026-11-06,sparta,TK Sparta Praha,2,52,7,0.1346
+2026-11-06,thecourt,The Court,2,68,7,0.1029
+2026-11-06,vestec,Tenis Centrum HEAD Vestec,5,170,96,0.5647
+2026-11-06,wilson,Wilson Tenis Centrum,2,60,0,0.0000
