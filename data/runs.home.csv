@@ -3967,3 +3967,7 @@ observed_at,date,venue,result,courts,cells,error
 2026-11-08T22:05:12+01:00,2026-11-08,pisecna,ok,4,0,
 2026-11-08T22:05:12+01:00,2026-11-08,wilson,ok,2,60,
 2026-11-08T22:05:12+01:00,2026-11-08,sparta,ok,2,48,
+2026-11-08T22:35:10+01:00,2026-11-08,spoje,empty,0,0,no padel courts in response
+2026-11-08T22:35:10+01:00,2026-11-08,pisecna,ok,4,0,
+2026-11-08T22:35:10+01:00,2026-11-08,wilson,error,0,0,RuntimeError: jdemenato timetable not found: HTTP 503 https://jdemenato.cz/reservation/wilson-tenis-centrum/reservationcalendaroverview – '503 Service Unavailable'
+2026-11-08T22:35:10+01:00,2026-11-08,sparta,error,0,0,RuntimeError: jdemenato timetable not found: HTTP 503 https://jdemenato.cz/reservation/tk-sparta-praha/reservationcalendaroverview – '503 Service Unavailable'
