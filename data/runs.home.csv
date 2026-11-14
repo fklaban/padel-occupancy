@@ -4559,3 +4559,7 @@ observed_at,date,venue,result,courts,cells,error
 2026-11-14T06:18:35+01:00,2026-11-14,pisecna,error,0,0,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
 2026-11-14T06:18:35+01:00,2026-11-14,wilson,ok,2,60,
 2026-11-14T06:18:35+01:00,2026-11-14,sparta,ok,2,48,
+2026-11-14T07:09:37+01:00,2026-11-14,spoje,empty,0,0,no padel courts in response
+2026-11-14T07:09:37+01:00,2026-11-14,pisecna,ok,4,112,
+2026-11-14T07:09:37+01:00,2026-11-14,wilson,ok,2,60,
+2026-11-14T07:09:37+01:00,2026-11-14,sparta,error,0,0,"ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))"
