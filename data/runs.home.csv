@@ -4603,3 +4603,7 @@ observed_at,date,venue,result,courts,cells,error
 2026-11-14T12:06:13+01:00,2026-11-14,pisecna,ok,4,76,
 2026-11-14T12:06:13+01:00,2026-11-14,wilson,ok,2,60,
 2026-11-14T12:06:13+01:00,2026-11-14,sparta,ok,2,48,
+2026-11-14T12:37:25+01:00,2026-11-14,spoje,error,0,0,"ReadTimeout: HTTPSConnectionPool(host='playtomic.com', port=443): Read timed out. (read timeout=30)"
+2026-11-14T12:37:25+01:00,2026-11-14,pisecna,error,0,0,"ReadTimeout: HTTPSConnectionPool(host='playtomic.com', port=443): Read timed out. (read timeout=30)"
+2026-11-14T12:37:25+01:00,2026-11-14,wilson,ok,2,60,
+2026-11-14T12:37:25+01:00,2026-11-14,sparta,ok,2,48,
