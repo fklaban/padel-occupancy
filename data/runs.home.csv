@@ -4571,3 +4571,7 @@ observed_at,date,venue,result,courts,cells,error
 2026-11-14T08:09:31+01:00,2026-11-14,pisecna,error,0,0,"ReadTimeout: HTTPSConnectionPool(host='playtomic.com', port=443): Read timed out. (read timeout=30)"
 2026-11-14T08:09:31+01:00,2026-11-14,wilson,ok,2,60,
 2026-11-14T08:09:31+01:00,2026-11-14,sparta,ok,2,48,
+2026-11-14T08:35:06+01:00,2026-11-14,spoje,empty,0,0,no padel courts in response
+2026-11-14T08:35:06+01:00,2026-11-14,pisecna,ok,4,104,
+2026-11-14T08:35:06+01:00,2026-11-14,wilson,ok,2,60,
+2026-11-14T08:35:06+01:00,2026-11-14,sparta,ok,2,48,
