@@ -956,16 +956,18 @@ date,venue,name,courts,observed_slots,booked_slots,occupancy
 2026-11-25,vestec,Tenis Centrum HEAD Vestec,5,165,115,0.6970
 2026-11-25,wilson,Wilson Tenis Centrum,2,60,0,0.0000
 2026-11-26,cisarska,Areál Císařská louka,3,72,0,0.0000
-2026-11-26,cpa,CPA Arena (Czech Padel Academy),2,62,31,0.5000
+2026-11-26,cpa,CPA Arena (Czech Padel Academy),2,62,33,0.5323
 2026-11-26,dzus,Padel Džus,4,128,92,0.7188
 2026-11-26,forpadel,For Padel Zdiměřice,4,112,2,0.0179
-2026-11-26,hagibor,Hagibor Padel Bohemians,1,30,0,0.0000
+2026-11-26,hagibor,Hagibor Padel Bohemians,1,30,3,0.1000
 2026-11-26,modrany,LTC Modřany 2005,3,93,0,0.0000
 2026-11-26,neride,TK Neridé,3,108,77,0.7130
 2026-11-26,onepadel,One Padel Zličín,9,306,220,0.7190
 2026-11-26,plechovka,PLECHOVKA Dubeč,3,81,31,0.3827
-2026-11-26,powers,Padel Powers Smíchov,8,288,244,0.8472
+2026-11-26,powers,Padel Powers Smíchov,8,288,248,0.8611
 2026-11-26,radotin,Padel Radotín,3,90,0,0.0000
 2026-11-26,satalice,Padel Satalice,2,56,2,0.0357
+2026-11-26,sparta,TK Sparta Praha,2,52,0,0.0000
 2026-11-26,thecourt,The Court,2,68,15,0.2206
-2026-11-26,vestec,Tenis Centrum HEAD Vestec,5,160,100,0.6250
+2026-11-26,vestec,Tenis Centrum HEAD Vestec,5,160,97,0.6062
+2026-11-26,wilson,Wilson Tenis Centrum,2,60,0,0.0000
