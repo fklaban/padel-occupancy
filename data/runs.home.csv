@@ -6179,3 +6179,7 @@ observed_at,date,venue,result,courts,cells,error
 2026-11-27T21:05:07+01:00,2026-11-27,pisecna,error,0,0,HTTPError: 403 Client Error: Forbidden for url: https://playtomic.com/api/clubs/availability?tenant_id=33257960-acca-4aa4-9f77-b6e5ab56f3e5&date=2026-11-27&sport_id=PADEL
 2026-11-27T21:05:07+01:00,2026-11-27,wilson,ok,2,60,
 2026-11-27T21:05:07+01:00,2026-11-27,sparta,ok,2,52,
+2026-11-27T21:35:05+01:00,2026-11-27,spoje,empty,0,0,no padel courts in response
+2026-11-27T21:35:05+01:00,2026-11-27,pisecna,error,0,0,HTTPError: 403 Client Error: Forbidden for url: https://playtomic.com/api/clubs/availability?tenant_id=33257960-acca-4aa4-9f77-b6e5ab56f3e5&date=2026-11-27&sport_id=PADEL
+2026-11-27T21:35:05+01:00,2026-11-27,wilson,ok,2,60,
+2026-11-27T21:35:05+01:00,2026-11-27,sparta,ok,2,52,
